@@ -1,0 +1,321 @@
+"","Statistic","Year","Crop.Type","value"
+"1","Cereal Seeds (000 Tonnes)","1993","Principal cereals",47
+"2","Cereal Losses (000 Tonnes)","1993","Principal cereals",138
+"3","Cereal Feeding Stuffs (000 Tonnes)","1993","Principal cereals",1111
+"4","Cereal Products for Industrial Use (000 Tonnes)","1993","Principal cereals",181
+"5","Cereal Seeds (000 Tonnes)","1994","Principal cereals",45
+"6","Cereal Losses (000 Tonnes)","1994","Principal cereals",112
+"7","Cereal Feeding Stuffs (000 Tonnes)","1994","Principal cereals",1117
+"8","Cereal Products for Industrial Use (000 Tonnes)","1994","Principal cereals",143
+"9","Cereal Seeds (000 Tonnes)","1995","Principal cereals",45
+"10","Cereal Losses (000 Tonnes)","1995","Principal cereals",156
+"11","Cereal Feeding Stuffs (000 Tonnes)","1995","Principal cereals",1345
+"12","Cereal Products for Industrial Use (000 Tonnes)","1995","Principal cereals",104
+"13","Cereal Seeds (000 Tonnes)","1996","Principal cereals",48
+"14","Cereal Losses (000 Tonnes)","1996","Principal cereals",29
+"15","Cereal Feeding Stuffs (000 Tonnes)","1996","Principal cereals",1530
+"16","Cereal Products for Industrial Use (000 Tonnes)","1996","Principal cereals",149
+"17","Cereal Seeds (000 Tonnes)","1997","Principal cereals",52
+"18","Cereal Losses (000 Tonnes)","1997","Principal cereals",125
+"19","Cereal Feeding Stuffs (000 Tonnes)","1997","Principal cereals",1297
+"20","Cereal Products for Industrial Use (000 Tonnes)","1997","Principal cereals",198
+"21","Cereal Seeds (000 Tonnes)","1998","Principal cereals",49
+"22","Cereal Losses (000 Tonnes)","1998","Principal cereals",127
+"23","Cereal Feeding Stuffs (000 Tonnes)","1998","Principal cereals",1439
+"24","Cereal Products for Industrial Use (000 Tonnes)","1998","Principal cereals",211
+"25","Cereal Seeds (000 Tonnes)","1999","Principal cereals",47
+"26","Cereal Losses (000 Tonnes)","1999","Principal cereals",105
+"27","Cereal Feeding Stuffs (000 Tonnes)","1999","Principal cereals",1532
+"28","Cereal Products for Industrial Use (000 Tonnes)","1999","Principal cereals",214
+"29","Cereal Seeds (000 Tonnes)","2000","Principal cereals",47
+"30","Cereal Losses (000 Tonnes)","2000","Principal cereals",96
+"31","Cereal Feeding Stuffs (000 Tonnes)","2000","Principal cereals",1772
+"32","Cereal Products for Industrial Use (000 Tonnes)","2000","Principal cereals",248
+"33","Cereal Seeds (000 Tonnes)","2001","Principal cereals",48
+"34","Cereal Losses (000 Tonnes)","2001","Principal cereals",103
+"35","Cereal Feeding Stuffs (000 Tonnes)","2001","Principal cereals",1593
+"36","Cereal Products for Industrial Use (000 Tonnes)","2001","Principal cereals",277
+"37","Cereal Seeds (000 Tonnes)","2002","Principal cereals",51
+"38","Cereal Losses (000 Tonnes)","2002","Principal cereals",95
+"39","Cereal Feeding Stuffs (000 Tonnes)","2002","Principal cereals",1634
+"40","Cereal Products for Industrial Use (000 Tonnes)","2002","Principal cereals",276
+"41","Cereal Seeds (000 Tonnes)","2003","Principal cereals",51
+"42","Cereal Losses (000 Tonnes)","2003","Principal cereals",96
+"43","Cereal Feeding Stuffs (000 Tonnes)","2003","Principal cereals",1812
+"44","Cereal Products for Industrial Use (000 Tonnes)","2003","Principal cereals",248
+"45","Cereal Seeds (000 Tonnes)","2004","Principal cereals",52
+"46","Cereal Losses (000 Tonnes)","2004","Principal cereals",71
+"47","Cereal Feeding Stuffs (000 Tonnes)","2004","Principal cereals",1848
+"48","Cereal Products for Industrial Use (000 Tonnes)","2004","Principal cereals",217
+"49","Cereal Seeds (000 Tonnes)","2005","Principal cereals",47
+"50","Cereal Losses (000 Tonnes)","2005","Principal cereals",108
+"51","Cereal Feeding Stuffs (000 Tonnes)","2005","Principal cereals",2083
+"52","Cereal Products for Industrial Use (000 Tonnes)","2005","Principal cereals",181
+"53","Cereal Seeds (000 Tonnes)","2006","Principal cereals",47
+"54","Cereal Losses (000 Tonnes)","2006","Principal cereals",59
+"55","Cereal Feeding Stuffs (000 Tonnes)","2006","Principal cereals",1931
+"56","Cereal Products for Industrial Use (000 Tonnes)","2006","Principal cereals",147
+"57","Cereal Seeds (000 Tonnes)","2007","Principal cereals",46
+"58","Cereal Losses (000 Tonnes)","2007","Principal cereals",56
+"59","Cereal Feeding Stuffs (000 Tonnes)","2007","Principal cereals",1989
+"60","Cereal Products for Industrial Use (000 Tonnes)","2007","Principal cereals",174
+"61","Cereal Seeds (000 Tonnes)","2008","Principal cereals",55
+"62","Cereal Losses (000 Tonnes)","2008","Principal cereals",53
+"63","Cereal Feeding Stuffs (000 Tonnes)","2008","Principal cereals",1715
+"64","Cereal Products for Industrial Use (000 Tonnes)","2008","Principal cereals",152
+"65","Cereal Seeds (000 Tonnes)","2009","Principal cereals",50
+"66","Cereal Losses (000 Tonnes)","2009","Principal cereals",66
+"67","Cereal Feeding Stuffs (000 Tonnes)","2009","Principal cereals",2428
+"68","Cereal Products for Industrial Use (000 Tonnes)","2009","Principal cereals",127
+"69","Cereal Seeds (000 Tonnes)","2010","Principal cereals",46
+"70","Cereal Losses (000 Tonnes)","2010","Principal cereals",54
+"71","Cereal Feeding Stuffs (000 Tonnes)","2010","Principal cereals",2286
+"72","Cereal Products for Industrial Use (000 Tonnes)","2010","Principal cereals",139
+"73","Cereal Seeds (000 Tonnes)","2011","Principal cereals",50
+"74","Cereal Losses (000 Tonnes)","2011","Principal cereals",54
+"75","Cereal Feeding Stuffs (000 Tonnes)","2011","Principal cereals",2158
+"76","Cereal Products for Industrial Use (000 Tonnes)","2011","Principal cereals",149
+"77","Cereal Seeds (000 Tonnes)","2012","Principal cereals",53
+"78","Cereal Losses (000 Tonnes)","2012","Principal cereals",67
+"79","Cereal Feeding Stuffs (000 Tonnes)","2012","Principal cereals",2055
+"80","Cereal Products for Industrial Use (000 Tonnes)","2012","Principal cereals",130
+"81","Cereal Seeds (000 Tonnes)","1993","Wheat",16
+"82","Cereal Losses (000 Tonnes)","1993","Wheat",58
+"83","Cereal Feeding Stuffs (000 Tonnes)","1993","Wheat",449
+"84","Cereal Products for Industrial Use (000 Tonnes)","1993","Wheat",4
+"85","Cereal Seeds (000 Tonnes)","1994","Wheat",15
+"86","Cereal Losses (000 Tonnes)","1994","Wheat",42
+"87","Cereal Feeding Stuffs (000 Tonnes)","1994","Wheat",422
+"88","Cereal Products for Industrial Use (000 Tonnes)","1994","Wheat",1
+"89","Cereal Seeds (000 Tonnes)","1995","Wheat",14
+"90","Cereal Losses (000 Tonnes)","1995","Wheat",66
+"91","Cereal Feeding Stuffs (000 Tonnes)","1995","Wheat",512
+"92","Cereal Products for Industrial Use (000 Tonnes)","1995","Wheat",1
+"93","Cereal Seeds (000 Tonnes)","1996","Wheat",17
+"94","Cereal Losses (000 Tonnes)","1996","Wheat",14
+"95","Cereal Feeding Stuffs (000 Tonnes)","1996","Wheat",546
+"96","Cereal Products for Industrial Use (000 Tonnes)","1996","Wheat",1
+"97","Cereal Seeds (000 Tonnes)","1997","Wheat",19
+"98","Cereal Losses (000 Tonnes)","1997","Wheat",51
+"99","Cereal Feeding Stuffs (000 Tonnes)","1997","Wheat",538
+"100","Cereal Products for Industrial Use (000 Tonnes)","1997","Wheat",1
+"101","Cereal Seeds (000 Tonnes)","1998","Wheat",17
+"102","Cereal Losses (000 Tonnes)","1998","Wheat",57
+"103","Cereal Feeding Stuffs (000 Tonnes)","1998","Wheat",611
+"104","Cereal Products for Industrial Use (000 Tonnes)","1998","Wheat",1
+"105","Cereal Seeds (000 Tonnes)","1999","Wheat",14
+"106","Cereal Losses (000 Tonnes)","1999","Wheat",43
+"107","Cereal Feeding Stuffs (000 Tonnes)","1999","Wheat",871
+"108","Cereal Products for Industrial Use (000 Tonnes)","1999","Wheat",1
+"109","Cereal Seeds (000 Tonnes)","2000","Wheat",16
+"110","Cereal Losses (000 Tonnes)","2000","Wheat",32
+"111","Cereal Feeding Stuffs (000 Tonnes)","2000","Wheat",811
+"112","Cereal Products for Industrial Use (000 Tonnes)","2000","Wheat",1
+"113","Cereal Seeds (000 Tonnes)","2001","Wheat",17
+"114","Cereal Losses (000 Tonnes)","2001","Wheat",41
+"115","Cereal Feeding Stuffs (000 Tonnes)","2001","Wheat",701
+"116","Cereal Products for Industrial Use (000 Tonnes)","2001","Wheat",1
+"117","Cereal Seeds (000 Tonnes)","2002","Wheat",21
+"118","Cereal Losses (000 Tonnes)","2002","Wheat",36
+"119","Cereal Feeding Stuffs (000 Tonnes)","2002","Wheat",720
+"120","Cereal Products for Industrial Use (000 Tonnes)","2002","Wheat",1
+"121","Cereal Seeds (000 Tonnes)","2003","Wheat",19
+"122","Cereal Losses (000 Tonnes)","2003","Wheat",46
+"123","Cereal Feeding Stuffs (000 Tonnes)","2003","Wheat",1029
+"124","Cereal Products for Industrial Use (000 Tonnes)","2003","Wheat",1
+"125","Cereal Seeds (000 Tonnes)","2004","Wheat",21
+"126","Cereal Losses (000 Tonnes)","2004","Wheat",21
+"127","Cereal Feeding Stuffs (000 Tonnes)","2004","Wheat",872
+"128","Cereal Products for Industrial Use (000 Tonnes)","2004","Wheat",1
+"129","Cereal Seeds (000 Tonnes)","2005","Wheat",19
+"130","Cereal Losses (000 Tonnes)","2005","Wheat",59
+"131","Cereal Feeding Stuffs (000 Tonnes)","2005","Wheat",968
+"132","Cereal Products for Industrial Use (000 Tonnes)","2005","Wheat",1
+"133","Cereal Seeds (000 Tonnes)","2006","Wheat",18
+"134","Cereal Losses (000 Tonnes)","2006","Wheat",28
+"135","Cereal Feeding Stuffs (000 Tonnes)","2006","Wheat",976
+"136","Cereal Products for Industrial Use (000 Tonnes)","2006","Wheat",1
+"137","Cereal Seeds (000 Tonnes)","2007","Wheat",17
+"138","Cereal Losses (000 Tonnes)","2007","Wheat",25
+"139","Cereal Feeding Stuffs (000 Tonnes)","2007","Wheat",897
+"140","Cereal Products for Industrial Use (000 Tonnes)","2007","Wheat",1
+"141","Cereal Seeds (000 Tonnes)","2008","Wheat",22
+"142","Cereal Losses (000 Tonnes)","2008","Wheat",23
+"143","Cereal Feeding Stuffs (000 Tonnes)","2008","Wheat",683
+"144","Cereal Products for Industrial Use (000 Tonnes)","2008","Wheat",1
+"145","Cereal Seeds (000 Tonnes)","2009","Wheat",17
+"146","Cereal Losses (000 Tonnes)","2009","Wheat",31
+"147","Cereal Feeding Stuffs (000 Tonnes)","2009","Wheat",1058
+"148","Cereal Products for Industrial Use (000 Tonnes)","2009","Wheat",1
+"149","Cereal Seeds (000 Tonnes)","2010","Wheat",16
+"150","Cereal Losses (000 Tonnes)","2010","Wheat",22
+"151","Cereal Feeding Stuffs (000 Tonnes)","2010","Wheat",804
+"152","Cereal Products for Industrial Use (000 Tonnes)","2010","Wheat",1
+"153","Cereal Seeds (000 Tonnes)","2011","Wheat",19
+"154","Cereal Losses (000 Tonnes)","2011","Wheat",21
+"155","Cereal Feeding Stuffs (000 Tonnes)","2011","Wheat",792
+"156","Cereal Products for Industrial Use (000 Tonnes)","2011","Wheat",0
+"157","Cereal Seeds (000 Tonnes)","2012","Wheat",20
+"158","Cereal Losses (000 Tonnes)","2012","Wheat",29
+"159","Cereal Feeding Stuffs (000 Tonnes)","2012","Wheat",760
+"160","Cereal Products for Industrial Use (000 Tonnes)","2012","Wheat",0
+"161","Cereal Seeds (000 Tonnes)","1993","Barley",27
+"162","Cereal Losses (000 Tonnes)","1993","Barley",75
+"163","Cereal Feeding Stuffs (000 Tonnes)","1993","Barley",581
+"164","Cereal Products for Industrial Use (000 Tonnes)","1993","Barley",177
+"165","Cereal Seeds (000 Tonnes)","1994","Barley",26
+"166","Cereal Losses (000 Tonnes)","1994","Barley",62
+"167","Cereal Feeding Stuffs (000 Tonnes)","1994","Barley",607
+"168","Cereal Products for Industrial Use (000 Tonnes)","1994","Barley",142
+"169","Cereal Seeds (000 Tonnes)","1995","Barley",27
+"170","Cereal Losses (000 Tonnes)","1995","Barley",81
+"171","Cereal Feeding Stuffs (000 Tonnes)","1995","Barley",746
+"172","Cereal Products for Industrial Use (000 Tonnes)","1995","Barley",103
+"173","Cereal Seeds (000 Tonnes)","1996","Barley",27
+"174","Cereal Losses (000 Tonnes)","1996","Barley",13
+"175","Cereal Feeding Stuffs (000 Tonnes)","1996","Barley",880
+"176","Cereal Products for Industrial Use (000 Tonnes)","1996","Barley",148
+"177","Cereal Seeds (000 Tonnes)","1997","Barley",29
+"178","Cereal Losses (000 Tonnes)","1997","Barley",66
+"179","Cereal Feeding Stuffs (000 Tonnes)","1997","Barley",655
+"180","Cereal Products for Industrial Use (000 Tonnes)","1997","Barley",197
+"181","Cereal Seeds (000 Tonnes)","1998","Barley",29
+"182","Cereal Losses (000 Tonnes)","1998","Barley",63
+"183","Cereal Feeding Stuffs (000 Tonnes)","1998","Barley",734
+"184","Cereal Products for Industrial Use (000 Tonnes)","1998","Barley",210
+"185","Cereal Seeds (000 Tonnes)","1999","Barley",29
+"186","Cereal Losses (000 Tonnes)","1999","Barley",57
+"187","Cereal Feeding Stuffs (000 Tonnes)","1999","Barley",572
+"188","Cereal Products for Industrial Use (000 Tonnes)","1999","Barley",213
+"189","Cereal Seeds (000 Tonnes)","2000","Barley",27
+"190","Cereal Losses (000 Tonnes)","2000","Barley",60
+"191","Cereal Feeding Stuffs (000 Tonnes)","2000","Barley",851
+"192","Cereal Products for Industrial Use (000 Tonnes)","2000","Barley",247
+"193","Cereal Seeds (000 Tonnes)","2001","Barley",27
+"194","Cereal Losses (000 Tonnes)","2001","Barley",58
+"195","Cereal Feeding Stuffs (000 Tonnes)","2001","Barley",808
+"196","Cereal Products for Industrial Use (000 Tonnes)","2001","Barley",276
+"197","Cereal Seeds (000 Tonnes)","2002","Barley",27
+"198","Cereal Losses (000 Tonnes)","2002","Barley",54
+"199","Cereal Feeding Stuffs (000 Tonnes)","2002","Barley",830
+"200","Cereal Products for Industrial Use (000 Tonnes)","2002","Barley",275
+"201","Cereal Seeds (000 Tonnes)","2003","Barley",28
+"202","Cereal Losses (000 Tonnes)","2003","Barley",46
+"203","Cereal Feeding Stuffs (000 Tonnes)","2003","Barley",679
+"204","Cereal Products for Industrial Use (000 Tonnes)","2003","Barley",247
+"205","Cereal Seeds (000 Tonnes)","2004","Barley",28
+"206","Cereal Losses (000 Tonnes)","2004","Barley",47
+"207","Cereal Feeding Stuffs (000 Tonnes)","2004","Barley",865
+"208","Cereal Products for Industrial Use (000 Tonnes)","2004","Barley",216
+"209","Cereal Seeds (000 Tonnes)","2005","Barley",25
+"210","Cereal Losses (000 Tonnes)","2005","Barley",45
+"211","Cereal Feeding Stuffs (000 Tonnes)","2005","Barley",993
+"212","Cereal Products for Industrial Use (000 Tonnes)","2005","Barley",180
+"213","Cereal Seeds (000 Tonnes)","2006","Barley",25
+"214","Cereal Losses (000 Tonnes)","2006","Barley",27
+"215","Cereal Feeding Stuffs (000 Tonnes)","2006","Barley",908
+"216","Cereal Products for Industrial Use (000 Tonnes)","2006","Barley",146
+"217","Cereal Seeds (000 Tonnes)","2007","Barley",25
+"218","Cereal Losses (000 Tonnes)","2007","Barley",27
+"219","Cereal Feeding Stuffs (000 Tonnes)","2007","Barley",1047
+"220","Cereal Products for Industrial Use (000 Tonnes)","2007","Barley",173
+"221","Cereal Seeds (000 Tonnes)","2008","Barley",28
+"222","Cereal Losses (000 Tonnes)","2008","Barley",27
+"223","Cereal Feeding Stuffs (000 Tonnes)","2008","Barley",903
+"224","Cereal Products for Industrial Use (000 Tonnes)","2008","Barley",151
+"225","Cereal Seeds (000 Tonnes)","2009","Barley",29
+"226","Cereal Losses (000 Tonnes)","2009","Barley",31
+"227","Cereal Feeding Stuffs (000 Tonnes)","2009","Barley",1242
+"228","Cereal Products for Industrial Use (000 Tonnes)","2009","Barley",126
+"229","Cereal Seeds (000 Tonnes)","2010","Barley",26
+"230","Cereal Losses (000 Tonnes)","2010","Barley",29
+"231","Cereal Feeding Stuffs (000 Tonnes)","2010","Barley",1351
+"232","Cereal Products for Industrial Use (000 Tonnes)","2010","Barley",138
+"233","Cereal Seeds (000 Tonnes)","2011","Barley",27
+"234","Cereal Losses (000 Tonnes)","2011","Barley",29
+"235","Cereal Feeding Stuffs (000 Tonnes)","2011","Barley",1287
+"236","Cereal Products for Industrial Use (000 Tonnes)","2011","Barley",149
+"237","Cereal Seeds (000 Tonnes)","2012","Barley",29
+"238","Cereal Losses (000 Tonnes)","2012","Barley",34
+"239","Cereal Feeding Stuffs (000 Tonnes)","2012","Barley",1182
+"240","Cereal Products for Industrial Use (000 Tonnes)","2012","Barley",130
+"241","Cereal Seeds (000 Tonnes)","1993","Oats",4
+"242","Cereal Losses (000 Tonnes)","1993","Oats",5
+"243","Cereal Feeding Stuffs (000 Tonnes)","1993","Oats",81
+"244","Cereal Products for Industrial Use (000 Tonnes)","1993","Oats",0
+"245","Cereal Seeds (000 Tonnes)","1994","Oats",4
+"246","Cereal Losses (000 Tonnes)","1994","Oats",8
+"247","Cereal Feeding Stuffs (000 Tonnes)","1994","Oats",88
+"248","Cereal Products for Industrial Use (000 Tonnes)","1994","Oats",0
+"249","Cereal Seeds (000 Tonnes)","1995","Oats",4
+"250","Cereal Losses (000 Tonnes)","1995","Oats",9
+"251","Cereal Feeding Stuffs (000 Tonnes)","1995","Oats",87
+"252","Cereal Products for Industrial Use (000 Tonnes)","1995","Oats",0
+"253","Cereal Seeds (000 Tonnes)","1996","Oats",4
+"254","Cereal Losses (000 Tonnes)","1996","Oats",2
+"255","Cereal Feeding Stuffs (000 Tonnes)","1996","Oats",104
+"256","Cereal Products for Industrial Use (000 Tonnes)","1996","Oats",0
+"257","Cereal Seeds (000 Tonnes)","1997","Oats",4
+"258","Cereal Losses (000 Tonnes)","1997","Oats",8
+"259","Cereal Feeding Stuffs (000 Tonnes)","1997","Oats",104
+"260","Cereal Products for Industrial Use (000 Tonnes)","1997","Oats",0
+"261","Cereal Seeds (000 Tonnes)","1998","Oats",4
+"262","Cereal Losses (000 Tonnes)","1998","Oats",7
+"263","Cereal Feeding Stuffs (000 Tonnes)","1998","Oats",94
+"264","Cereal Products for Industrial Use (000 Tonnes)","1998","Oats",0
+"265","Cereal Seeds (000 Tonnes)","1999","Oats",4
+"266","Cereal Losses (000 Tonnes)","1999","Oats",5
+"267","Cereal Feeding Stuffs (000 Tonnes)","1999","Oats",89
+"268","Cereal Products for Industrial Use (000 Tonnes)","1999","Oats",0
+"269","Cereal Seeds (000 Tonnes)","2000","Oats",3
+"270","Cereal Losses (000 Tonnes)","2000","Oats",4
+"271","Cereal Feeding Stuffs (000 Tonnes)","2000","Oats",110
+"272","Cereal Products for Industrial Use (000 Tonnes)","2000","Oats",0
+"273","Cereal Seeds (000 Tonnes)","2001","Oats",3
+"274","Cereal Losses (000 Tonnes)","2001","Oats",5
+"275","Cereal Feeding Stuffs (000 Tonnes)","2001","Oats",84
+"276","Cereal Products for Industrial Use (000 Tonnes)","2001","Oats",0
+"277","Cereal Seeds (000 Tonnes)","2002","Oats",4
+"278","Cereal Losses (000 Tonnes)","2002","Oats",5
+"279","Cereal Feeding Stuffs (000 Tonnes)","2002","Oats",84
+"280","Cereal Products for Industrial Use (000 Tonnes)","2002","Oats",0
+"281","Cereal Seeds (000 Tonnes)","2003","Oats",4
+"282","Cereal Losses (000 Tonnes)","2003","Oats",5
+"283","Cereal Feeding Stuffs (000 Tonnes)","2003","Oats",104
+"284","Cereal Products for Industrial Use (000 Tonnes)","2003","Oats",0
+"285","Cereal Seeds (000 Tonnes)","2004","Oats",4
+"286","Cereal Losses (000 Tonnes)","2004","Oats",4
+"287","Cereal Feeding Stuffs (000 Tonnes)","2004","Oats",112
+"288","Cereal Products for Industrial Use (000 Tonnes)","2004","Oats",0
+"289","Cereal Seeds (000 Tonnes)","2005","Oats",3
+"290","Cereal Losses (000 Tonnes)","2005","Oats",5
+"291","Cereal Feeding Stuffs (000 Tonnes)","2005","Oats",121
+"292","Cereal Products for Industrial Use (000 Tonnes)","2005","Oats",0
+"293","Cereal Seeds (000 Tonnes)","2006","Oats",4
+"294","Cereal Losses (000 Tonnes)","2006","Oats",3
+"295","Cereal Feeding Stuffs (000 Tonnes)","2006","Oats",48
+"296","Cereal Products for Industrial Use (000 Tonnes)","2006","Oats",0
+"297","Cereal Seeds (000 Tonnes)","2007","Oats",4
+"298","Cereal Losses (000 Tonnes)","2007","Oats",3
+"299","Cereal Feeding Stuffs (000 Tonnes)","2007","Oats",45
+"300","Cereal Products for Industrial Use (000 Tonnes)","2007","Oats",0
+"301","Cereal Seeds (000 Tonnes)","2008","Oats",5
+"302","Cereal Losses (000 Tonnes)","2008","Oats",3
+"303","Cereal Feeding Stuffs (000 Tonnes)","2008","Oats",129
+"304","Cereal Products for Industrial Use (000 Tonnes)","2008","Oats",0
+"305","Cereal Seeds (000 Tonnes)","2009","Oats",4
+"306","Cereal Losses (000 Tonnes)","2009","Oats",4
+"307","Cereal Feeding Stuffs (000 Tonnes)","2009","Oats",129
+"308","Cereal Products for Industrial Use (000 Tonnes)","2009","Oats",0
+"309","Cereal Seeds (000 Tonnes)","2010","Oats",4
+"310","Cereal Losses (000 Tonnes)","2010","Oats",3
+"311","Cereal Feeding Stuffs (000 Tonnes)","2010","Oats",130
+"312","Cereal Products for Industrial Use (000 Tonnes)","2010","Oats",0
+"313","Cereal Seeds (000 Tonnes)","2011","Oats",4
+"314","Cereal Losses (000 Tonnes)","2011","Oats",3
+"315","Cereal Feeding Stuffs (000 Tonnes)","2011","Oats",79
+"316","Cereal Products for Industrial Use (000 Tonnes)","2011","Oats",0
+"317","Cereal Seeds (000 Tonnes)","2012","Oats",5
+"318","Cereal Losses (000 Tonnes)","2012","Oats",4
+"319","Cereal Feeding Stuffs (000 Tonnes)","2012","Oats",113
+"320","Cereal Products for Industrial Use (000 Tonnes)","2012","Oats",0

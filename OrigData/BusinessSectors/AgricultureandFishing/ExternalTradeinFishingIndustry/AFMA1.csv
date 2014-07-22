@@ -1,0 +1,793 @@
+"","Statistic","Flow","Year","Type.of.Product","Degree.of.Processing","value"
+"1","Weight of External Trade of Fish (Tonnes)","Exports","1994","Whole Fish","Total",199262
+"2","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Whole Fish","Total",159969
+"3","Weight of External Trade of Fish (Tonnes)","Imports","1994","Whole Fish","Total",60102
+"4","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Whole Fish","Total",47402
+"5","Weight of External Trade of Fish (Tonnes)","Exports","1995","Whole Fish","Total",246407
+"6","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Whole Fish","Total",185989
+"7","Weight of External Trade of Fish (Tonnes)","Imports","1995","Whole Fish","Total",59232
+"8","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Whole Fish","Total",52402
+"9","Weight of External Trade of Fish (Tonnes)","Exports","1996","Whole Fish","Total",227475
+"10","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Whole Fish","Total",209398
+"11","Weight of External Trade of Fish (Tonnes)","Imports","1996","Whole Fish","Total",47568
+"12","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Whole Fish","Total",58534
+"13","Weight of External Trade of Fish (Tonnes)","Exports","1997","Whole Fish","Total",190818
+"14","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Whole Fish","Total",177702
+"15","Weight of External Trade of Fish (Tonnes)","Imports","1997","Whole Fish","Total",52148
+"16","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Whole Fish","Total",62604
+"17","Weight of External Trade of Fish (Tonnes)","Exports","1998","Whole Fish","Total",186569
+"18","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Whole Fish","Total",180278
+"19","Weight of External Trade of Fish (Tonnes)","Imports","1998","Whole Fish","Total",42855
+"20","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Whole Fish","Total",62874
+"21","Weight of External Trade of Fish (Tonnes)","Exports","1999","Whole Fish","Total",153864
+"22","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Whole Fish","Total",174017
+"23","Weight of External Trade of Fish (Tonnes)","Imports","1999","Whole Fish","Total",47840
+"24","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Whole Fish","Total",72067
+"25","Weight of External Trade of Fish (Tonnes)","Exports","2000","Whole Fish","Total",162131
+"26","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Whole Fish","Total",201074
+"27","Weight of External Trade of Fish (Tonnes)","Imports","2000","Whole Fish","Total",61166
+"28","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Whole Fish","Total",85894
+"29","Weight of External Trade of Fish (Tonnes)","Exports","2001","Whole Fish","Total",243026
+"30","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Whole Fish","Total",278074
+"31","Weight of External Trade of Fish (Tonnes)","Imports","2001","Whole Fish","Total",103470
+"32","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Whole Fish","Total",119130
+"33","Weight of External Trade of Fish (Tonnes)","Exports","2002","Whole Fish","Total",241394
+"34","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Whole Fish","Total",263877
+"35","Weight of External Trade of Fish (Tonnes)","Imports","2002","Whole Fish","Total",85710
+"36","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Whole Fish","Total",98164
+"37","Weight of External Trade of Fish (Tonnes)","Exports","2003","Whole Fish","Total",198203
+"38","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Whole Fish","Total",222281
+"39","Weight of External Trade of Fish (Tonnes)","Imports","2003","Whole Fish","Total",58050
+"40","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Whole Fish","Total",68029
+"41","Weight of External Trade of Fish (Tonnes)","Exports","2004","Whole Fish","Total",201065
+"42","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Whole Fish","Total",222268
+"43","Weight of External Trade of Fish (Tonnes)","Imports","2004","Whole Fish","Total",45734
+"44","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Whole Fish","Total",57864
+"45","Weight of External Trade of Fish (Tonnes)","Exports","1994","Fillets","Total",30413
+"46","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Fillets","Total",25899
+"47","Weight of External Trade of Fish (Tonnes)","Imports","1994","Fillets","Total",3536
+"48","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Fillets","Total",10259
+"49","Weight of External Trade of Fish (Tonnes)","Exports","1995","Fillets","Total",27851
+"50","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Fillets","Total",22547
+"51","Weight of External Trade of Fish (Tonnes)","Imports","1995","Fillets","Total",4332
+"52","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Fillets","Total",9986
+"53","Weight of External Trade of Fish (Tonnes)","Exports","1996","Fillets","Total",39601
+"54","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Fillets","Total",35026
+"55","Weight of External Trade of Fish (Tonnes)","Imports","1996","Fillets","Total",4645
+"56","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Fillets","Total",12341
+"57","Weight of External Trade of Fish (Tonnes)","Exports","1997","Fillets","Total",32674
+"58","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Fillets","Total",32179
+"59","Weight of External Trade of Fish (Tonnes)","Imports","1997","Fillets","Total",4812
+"60","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Fillets","Total",12143
+"61","Weight of External Trade of Fish (Tonnes)","Exports","1998","Fillets","Total",34219
+"62","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Fillets","Total",34715
+"63","Weight of External Trade of Fish (Tonnes)","Imports","1998","Fillets","Total",4237
+"64","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Fillets","Total",12057
+"65","Weight of External Trade of Fish (Tonnes)","Exports","1999","Fillets","Total",26483
+"66","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Fillets","Total",27847
+"67","Weight of External Trade of Fish (Tonnes)","Imports","1999","Fillets","Total",3299
+"68","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Fillets","Total",11920
+"69","Weight of External Trade of Fish (Tonnes)","Exports","2000","Fillets","Total",25189
+"70","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Fillets","Total",30064
+"71","Weight of External Trade of Fish (Tonnes)","Imports","2000","Fillets","Total",2829
+"72","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Fillets","Total",12269
+"73","Weight of External Trade of Fish (Tonnes)","Exports","2001","Fillets","Total",33360
+"74","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Fillets","Total",50907
+"75","Weight of External Trade of Fish (Tonnes)","Imports","2001","Fillets","Total",4795
+"76","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Fillets","Total",15962
+"77","Weight of External Trade of Fish (Tonnes)","Exports","2002","Fillets","Total",28031
+"78","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Fillets","Total",42085
+"79","Weight of External Trade of Fish (Tonnes)","Imports","2002","Fillets","Total",5005
+"80","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Fillets","Total",20907
+"81","Weight of External Trade of Fish (Tonnes)","Exports","2003","Fillets","Total",19341
+"82","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Fillets","Total",29992
+"83","Weight of External Trade of Fish (Tonnes)","Imports","2003","Fillets","Total",5902
+"84","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Fillets","Total",23649
+"85","Weight of External Trade of Fish (Tonnes)","Exports","2004","Fillets","Total",22197
+"86","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Fillets","Total",33566
+"87","Weight of External Trade of Fish (Tonnes)","Imports","2004","Fillets","Total",7758
+"88","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Fillets","Total",34258
+"89","Weight of External Trade of Fish (Tonnes)","Exports","1994","Shellfish","Total",17905
+"90","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Shellfish","Total",56760
+"91","Weight of External Trade of Fish (Tonnes)","Imports","1994","Shellfish","Total",3292
+"92","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Shellfish","Total",10171
+"93","Weight of External Trade of Fish (Tonnes)","Exports","1995","Shellfish","Total",22830
+"94","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Shellfish","Total",68826
+"95","Weight of External Trade of Fish (Tonnes)","Imports","1995","Shellfish","Total",3317
+"96","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Shellfish","Total",12365
+"97","Weight of External Trade of Fish (Tonnes)","Exports","1996","Shellfish","Total",25960
+"98","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Shellfish","Total",75301
+"99","Weight of External Trade of Fish (Tonnes)","Imports","1996","Shellfish","Total",4673
+"100","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Shellfish","Total",14139
+"101","Weight of External Trade of Fish (Tonnes)","Exports","1997","Shellfish","Total",26535
+"102","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Shellfish","Total",80522
+"103","Weight of External Trade of Fish (Tonnes)","Imports","1997","Shellfish","Total",4147
+"104","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Shellfish","Total",17784
+"105","Weight of External Trade of Fish (Tonnes)","Exports","1998","Shellfish","Total",27360
+"106","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Shellfish","Total",89338
+"107","Weight of External Trade of Fish (Tonnes)","Imports","1998","Shellfish","Total",4875
+"108","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Shellfish","Total",25964
+"109","Weight of External Trade of Fish (Tonnes)","Exports","1999","Shellfish","Total",28055
+"110","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Shellfish","Total",104176
+"111","Weight of External Trade of Fish (Tonnes)","Imports","1999","Shellfish","Total",6082
+"112","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Shellfish","Total",29936
+"113","Weight of External Trade of Fish (Tonnes)","Exports","2000","Shellfish","Total",29577
+"114","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Shellfish","Total",102014
+"115","Weight of External Trade of Fish (Tonnes)","Imports","2000","Shellfish","Total",6440
+"116","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Shellfish","Total",29785
+"117","Weight of External Trade of Fish (Tonnes)","Exports","2001","Shellfish","Total",37986
+"118","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Shellfish","Total",118045
+"119","Weight of External Trade of Fish (Tonnes)","Imports","2001","Shellfish","Total",6192
+"120","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Shellfish","Total",30369
+"121","Weight of External Trade of Fish (Tonnes)","Exports","2002","Shellfish","Total",38695
+"122","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Shellfish","Total",121856
+"123","Weight of External Trade of Fish (Tonnes)","Imports","2002","Shellfish","Total",4151
+"124","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Shellfish","Total",24728
+"125","Weight of External Trade of Fish (Tonnes)","Exports","2003","Shellfish","Total",42998
+"126","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Shellfish","Total",131780
+"127","Weight of External Trade of Fish (Tonnes)","Imports","2003","Shellfish","Total",5288
+"128","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Shellfish","Total",21888
+"129","Weight of External Trade of Fish (Tonnes)","Exports","2004","Shellfish","Total",41319
+"130","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Shellfish","Total",135404
+"131","Weight of External Trade of Fish (Tonnes)","Imports","2004","Shellfish","Total",7432
+"132","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Shellfish","Total",24784
+"133","Weight of External Trade of Fish (Tonnes)","Exports","1994","Whole Fish","Live, Fresh, Chilled",68399
+"134","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Whole Fish","Live, Fresh, Chilled",85328
+"135","Weight of External Trade of Fish (Tonnes)","Imports","1994","Whole Fish","Live, Fresh, Chilled",2343
+"136","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Whole Fish","Live, Fresh, Chilled",7391
+"137","Weight of External Trade of Fish (Tonnes)","Exports","1995","Whole Fish","Live, Fresh, Chilled",54573
+"138","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Whole Fish","Live, Fresh, Chilled",74915
+"139","Weight of External Trade of Fish (Tonnes)","Imports","1995","Whole Fish","Live, Fresh, Chilled",2777
+"140","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Whole Fish","Live, Fresh, Chilled",8272
+"141","Weight of External Trade of Fish (Tonnes)","Exports","1996","Whole Fish","Live, Fresh, Chilled",48203
+"142","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Whole Fish","Live, Fresh, Chilled",72544
+"143","Weight of External Trade of Fish (Tonnes)","Imports","1996","Whole Fish","Live, Fresh, Chilled",5816
+"144","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Whole Fish","Live, Fresh, Chilled",12352
+"145","Weight of External Trade of Fish (Tonnes)","Exports","1997","Whole Fish","Live, Fresh, Chilled",44338
+"146","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Whole Fish","Live, Fresh, Chilled",72544
+"147","Weight of External Trade of Fish (Tonnes)","Imports","1997","Whole Fish","Live, Fresh, Chilled",7325
+"148","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Whole Fish","Live, Fresh, Chilled",13370
+"149","Weight of External Trade of Fish (Tonnes)","Exports","1998","Whole Fish","Live, Fresh, Chilled",52448
+"150","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Whole Fish","Live, Fresh, Chilled",84635
+"151","Weight of External Trade of Fish (Tonnes)","Imports","1998","Whole Fish","Live, Fresh, Chilled",8236
+"152","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Whole Fish","Live, Fresh, Chilled",14470
+"153","Weight of External Trade of Fish (Tonnes)","Exports","1999","Whole Fish","Live, Fresh, Chilled",36762
+"154","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Whole Fish","Live, Fresh, Chilled",83580
+"155","Weight of External Trade of Fish (Tonnes)","Imports","1999","Whole Fish","Live, Fresh, Chilled",5845
+"156","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Whole Fish","Live, Fresh, Chilled",15837
+"157","Weight of External Trade of Fish (Tonnes)","Exports","2000","Whole Fish","Live, Fresh, Chilled",39633
+"158","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Whole Fish","Live, Fresh, Chilled",90605
+"159","Weight of External Trade of Fish (Tonnes)","Imports","2000","Whole Fish","Live, Fresh, Chilled",6218
+"160","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Whole Fish","Live, Fresh, Chilled",18020
+"161","Weight of External Trade of Fish (Tonnes)","Exports","2001","Whole Fish","Live, Fresh, Chilled",63993
+"162","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Whole Fish","Live, Fresh, Chilled",118265
+"163","Weight of External Trade of Fish (Tonnes)","Imports","2001","Whole Fish","Live, Fresh, Chilled",12107
+"164","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Whole Fish","Live, Fresh, Chilled",25296
+"165","Weight of External Trade of Fish (Tonnes)","Exports","2002","Whole Fish","Live, Fresh, Chilled",58482
+"166","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Whole Fish","Live, Fresh, Chilled",109696
+"167","Weight of External Trade of Fish (Tonnes)","Imports","2002","Whole Fish","Live, Fresh, Chilled",5983
+"168","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Whole Fish","Live, Fresh, Chilled",11227
+"169","Weight of External Trade of Fish (Tonnes)","Exports","2003","Whole Fish","Live, Fresh, Chilled",60154
+"170","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Whole Fish","Live, Fresh, Chilled",101884
+"171","Weight of External Trade of Fish (Tonnes)","Imports","2003","Whole Fish","Live, Fresh, Chilled",4298
+"172","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Whole Fish","Live, Fresh, Chilled",8017
+"173","Weight of External Trade of Fish (Tonnes)","Exports","2004","Whole Fish","Live, Fresh, Chilled",42322
+"174","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Whole Fish","Live, Fresh, Chilled",92876
+"175","Weight of External Trade of Fish (Tonnes)","Imports","2004","Whole Fish","Live, Fresh, Chilled",3364
+"176","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Whole Fish","Live, Fresh, Chilled",8010
+"177","Weight of External Trade of Fish (Tonnes)","Exports","1994","Fillets","Live, Fresh, Chilled",3288
+"178","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Fillets","Live, Fresh, Chilled",2106
+"179","Weight of External Trade of Fish (Tonnes)","Imports","1994","Fillets","Live, Fresh, Chilled",129
+"180","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Fillets","Live, Fresh, Chilled",298
+"181","Weight of External Trade of Fish (Tonnes)","Exports","1995","Fillets","Live, Fresh, Chilled",2789
+"182","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Fillets","Live, Fresh, Chilled",1972
+"183","Weight of External Trade of Fish (Tonnes)","Imports","1995","Fillets","Live, Fresh, Chilled",45
+"184","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Fillets","Live, Fresh, Chilled",161
+"185","Weight of External Trade of Fish (Tonnes)","Exports","1996","Fillets","Live, Fresh, Chilled",2695
+"186","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Fillets","Live, Fresh, Chilled",1958
+"187","Weight of External Trade of Fish (Tonnes)","Imports","1996","Fillets","Live, Fresh, Chilled",212
+"188","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Fillets","Live, Fresh, Chilled",425
+"189","Weight of External Trade of Fish (Tonnes)","Exports","1997","Fillets","Live, Fresh, Chilled",4163
+"190","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Fillets","Live, Fresh, Chilled",2823
+"191","Weight of External Trade of Fish (Tonnes)","Imports","1997","Fillets","Live, Fresh, Chilled",764
+"192","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Fillets","Live, Fresh, Chilled",898
+"193","Weight of External Trade of Fish (Tonnes)","Exports","1998","Fillets","Live, Fresh, Chilled",4982
+"194","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Fillets","Live, Fresh, Chilled",3098
+"195","Weight of External Trade of Fish (Tonnes)","Imports","1998","Fillets","Live, Fresh, Chilled",407
+"196","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Fillets","Live, Fresh, Chilled",923
+"197","Weight of External Trade of Fish (Tonnes)","Exports","1999","Fillets","Live, Fresh, Chilled",6032
+"198","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Fillets","Live, Fresh, Chilled",4560
+"199","Weight of External Trade of Fish (Tonnes)","Imports","1999","Fillets","Live, Fresh, Chilled",397
+"200","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Fillets","Live, Fresh, Chilled",791
+"201","Weight of External Trade of Fish (Tonnes)","Exports","2000","Fillets","Live, Fresh, Chilled",3500
+"202","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Fillets","Live, Fresh, Chilled",2848
+"203","Weight of External Trade of Fish (Tonnes)","Imports","2000","Fillets","Live, Fresh, Chilled",218
+"204","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Fillets","Live, Fresh, Chilled",858
+"205","Weight of External Trade of Fish (Tonnes)","Exports","2001","Fillets","Live, Fresh, Chilled",3871
+"206","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Fillets","Live, Fresh, Chilled",5668
+"207","Weight of External Trade of Fish (Tonnes)","Imports","2001","Fillets","Live, Fresh, Chilled",571
+"208","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Fillets","Live, Fresh, Chilled",2052
+"209","Weight of External Trade of Fish (Tonnes)","Exports","2002","Fillets","Live, Fresh, Chilled",2816
+"210","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Fillets","Live, Fresh, Chilled",3631
+"211","Weight of External Trade of Fish (Tonnes)","Imports","2002","Fillets","Live, Fresh, Chilled",243
+"212","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Fillets","Live, Fresh, Chilled",1213
+"213","Weight of External Trade of Fish (Tonnes)","Exports","2003","Fillets","Live, Fresh, Chilled",1882
+"214","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Fillets","Live, Fresh, Chilled",3437
+"215","Weight of External Trade of Fish (Tonnes)","Imports","2003","Fillets","Live, Fresh, Chilled",530
+"216","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Fillets","Live, Fresh, Chilled",2035
+"217","Weight of External Trade of Fish (Tonnes)","Exports","2004","Fillets","Live, Fresh, Chilled",1314
+"218","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Fillets","Live, Fresh, Chilled",3533
+"219","Weight of External Trade of Fish (Tonnes)","Imports","2004","Fillets","Live, Fresh, Chilled",996
+"220","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Fillets","Live, Fresh, Chilled",5022
+"221","Weight of External Trade of Fish (Tonnes)","Exports","1994","Shellfish","Live, Fresh, Chilled",7921
+"222","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Shellfish","Live, Fresh, Chilled",28662
+"223","Weight of External Trade of Fish (Tonnes)","Imports","1994","Shellfish","Live, Fresh, Chilled",1245
+"224","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Shellfish","Live, Fresh, Chilled",2443
+"225","Weight of External Trade of Fish (Tonnes)","Exports","1995","Shellfish","Live, Fresh, Chilled",10788
+"226","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Shellfish","Live, Fresh, Chilled",32099
+"227","Weight of External Trade of Fish (Tonnes)","Imports","1995","Shellfish","Live, Fresh, Chilled",1034
+"228","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Shellfish","Live, Fresh, Chilled",2947
+"229","Weight of External Trade of Fish (Tonnes)","Exports","1996","Shellfish","Live, Fresh, Chilled",11754
+"230","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Shellfish","Live, Fresh, Chilled",36122
+"231","Weight of External Trade of Fish (Tonnes)","Imports","1996","Shellfish","Live, Fresh, Chilled",1091
+"232","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Shellfish","Live, Fresh, Chilled",3399
+"233","Weight of External Trade of Fish (Tonnes)","Exports","1997","Shellfish","Live, Fresh, Chilled",13614
+"234","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Shellfish","Live, Fresh, Chilled",38667
+"235","Weight of External Trade of Fish (Tonnes)","Imports","1997","Shellfish","Live, Fresh, Chilled",2484
+"236","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Shellfish","Live, Fresh, Chilled",9115
+"237","Weight of External Trade of Fish (Tonnes)","Exports","1998","Shellfish","Live, Fresh, Chilled",13154
+"238","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Shellfish","Live, Fresh, Chilled",40706
+"239","Weight of External Trade of Fish (Tonnes)","Imports","1998","Shellfish","Live, Fresh, Chilled",2966
+"240","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Shellfish","Live, Fresh, Chilled",14748
+"241","Weight of External Trade of Fish (Tonnes)","Exports","1999","Shellfish","Live, Fresh, Chilled",12409
+"242","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Shellfish","Live, Fresh, Chilled",39248
+"243","Weight of External Trade of Fish (Tonnes)","Imports","1999","Shellfish","Live, Fresh, Chilled",3111
+"244","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Shellfish","Live, Fresh, Chilled",10069
+"245","Weight of External Trade of Fish (Tonnes)","Exports","2000","Shellfish","Live, Fresh, Chilled",14581
+"246","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Shellfish","Live, Fresh, Chilled",38888
+"247","Weight of External Trade of Fish (Tonnes)","Imports","2000","Shellfish","Live, Fresh, Chilled",3537
+"248","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Shellfish","Live, Fresh, Chilled",8522
+"249","Weight of External Trade of Fish (Tonnes)","Exports","2001","Shellfish","Live, Fresh, Chilled",20807
+"250","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Shellfish","Live, Fresh, Chilled",51845
+"251","Weight of External Trade of Fish (Tonnes)","Imports","2001","Shellfish","Live, Fresh, Chilled",2762
+"252","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Shellfish","Live, Fresh, Chilled",7108
+"253","Weight of External Trade of Fish (Tonnes)","Exports","2002","Shellfish","Live, Fresh, Chilled",20893
+"254","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Shellfish","Live, Fresh, Chilled",45906
+"255","Weight of External Trade of Fish (Tonnes)","Imports","2002","Shellfish","Live, Fresh, Chilled",565
+"256","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Shellfish","Live, Fresh, Chilled",2528
+"257","Weight of External Trade of Fish (Tonnes)","Exports","2003","Shellfish","Live, Fresh, Chilled",23398
+"258","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Shellfish","Live, Fresh, Chilled",48172
+"259","Weight of External Trade of Fish (Tonnes)","Imports","2003","Shellfish","Live, Fresh, Chilled",2289
+"260","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Shellfish","Live, Fresh, Chilled",4670
+"261","Weight of External Trade of Fish (Tonnes)","Exports","2004","Shellfish","Live, Fresh, Chilled",19269
+"262","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Shellfish","Live, Fresh, Chilled",42166
+"263","Weight of External Trade of Fish (Tonnes)","Imports","2004","Shellfish","Live, Fresh, Chilled",3760
+"264","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Shellfish","Live, Fresh, Chilled",7079
+"265","Weight of External Trade of Fish (Tonnes)","Exports","1994","Whole Fish","Frozen",106664
+"266","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Whole Fish","Frozen",51407
+"267","Weight of External Trade of Fish (Tonnes)","Imports","1994","Whole Fish","Frozen",10176
+"268","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Whole Fish","Frozen",3275
+"269","Weight of External Trade of Fish (Tonnes)","Exports","1995","Whole Fish","Frozen",160450
+"270","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Whole Fish","Frozen",80925
+"271","Weight of External Trade of Fish (Tonnes)","Imports","1995","Whole Fish","Frozen",11122
+"272","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Whole Fish","Frozen",4044
+"273","Weight of External Trade of Fish (Tonnes)","Exports","1996","Whole Fish","Frozen",145439
+"274","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Whole Fish","Frozen",100402
+"275","Weight of External Trade of Fish (Tonnes)","Imports","1996","Whole Fish","Frozen",772
+"276","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Whole Fish","Frozen",1507
+"277","Weight of External Trade of Fish (Tonnes)","Exports","1997","Whole Fish","Frozen",120650
+"278","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Whole Fish","Frozen",73842
+"279","Weight of External Trade of Fish (Tonnes)","Imports","1997","Whole Fish","Frozen",2182
+"280","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Whole Fish","Frozen",2402
+"281","Weight of External Trade of Fish (Tonnes)","Exports","1998","Whole Fish","Frozen",110385
+"282","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Whole Fish","Frozen",62920
+"283","Weight of External Trade of Fish (Tonnes)","Imports","1998","Whole Fish","Frozen",2896
+"284","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Whole Fish","Frozen",2753
+"285","Weight of External Trade of Fish (Tonnes)","Exports","1999","Whole Fish","Frozen",96954
+"286","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Whole Fish","Frozen",56897
+"287","Weight of External Trade of Fish (Tonnes)","Imports","1999","Whole Fish","Frozen",850
+"288","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Whole Fish","Frozen",1990
+"289","Weight of External Trade of Fish (Tonnes)","Exports","2000","Whole Fish","Frozen",98653
+"290","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Whole Fish","Frozen",77151
+"291","Weight of External Trade of Fish (Tonnes)","Imports","2000","Whole Fish","Frozen",1462
+"292","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Whole Fish","Frozen",3850
+"293","Weight of External Trade of Fish (Tonnes)","Exports","2001","Whole Fish","Frozen",130427
+"294","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Whole Fish","Frozen",109955
+"295","Weight of External Trade of Fish (Tonnes)","Imports","2001","Whole Fish","Frozen",43204
+"296","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Whole Fish","Frozen",24698
+"297","Weight of External Trade of Fish (Tonnes)","Exports","2002","Whole Fish","Frozen",148122
+"298","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Whole Fish","Frozen",108546
+"299","Weight of External Trade of Fish (Tonnes)","Imports","2002","Whole Fish","Frozen",36101
+"300","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Whole Fish","Frozen",22357
+"301","Weight of External Trade of Fish (Tonnes)","Exports","2003","Whole Fish","Frozen",111921
+"302","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Whole Fish","Frozen",79420
+"303","Weight of External Trade of Fish (Tonnes)","Imports","2003","Whole Fish","Frozen",2535
+"304","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Whole Fish","Frozen",5476
+"305","Weight of External Trade of Fish (Tonnes)","Exports","2004","Whole Fish","Frozen",118611
+"306","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Whole Fish","Frozen",79916
+"307","Weight of External Trade of Fish (Tonnes)","Imports","2004","Whole Fish","Frozen",2201
+"308","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Whole Fish","Frozen",5371
+"309","Weight of External Trade of Fish (Tonnes)","Exports","1994","Fillets","Frozen",23981
+"310","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Fillets","Frozen",17357
+"311","Weight of External Trade of Fish (Tonnes)","Imports","1994","Fillets","Frozen",1596
+"312","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Fillets","Frozen",5437
+"313","Weight of External Trade of Fish (Tonnes)","Exports","1995","Fillets","Frozen",22858
+"314","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Fillets","Frozen",17397
+"315","Weight of External Trade of Fish (Tonnes)","Imports","1995","Fillets","Frozen",1608
+"316","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Fillets","Frozen",4618
+"317","Weight of External Trade of Fish (Tonnes)","Exports","1996","Fillets","Frozen",36238
+"318","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Fillets","Frozen",30630
+"319","Weight of External Trade of Fish (Tonnes)","Imports","1996","Fillets","Frozen",1832
+"320","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Fillets","Frozen",5649
+"321","Weight of External Trade of Fish (Tonnes)","Exports","1997","Fillets","Frozen",27094
+"322","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Fillets","Frozen",25680
+"323","Weight of External Trade of Fish (Tonnes)","Imports","1997","Fillets","Frozen",1782
+"324","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Fillets","Frozen",5531
+"325","Weight of External Trade of Fish (Tonnes)","Exports","1998","Fillets","Frozen",27142
+"326","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Fillets","Frozen",25863
+"327","Weight of External Trade of Fish (Tonnes)","Imports","1998","Fillets","Frozen",2381
+"328","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Fillets","Frozen",6385
+"329","Weight of External Trade of Fish (Tonnes)","Exports","1999","Fillets","Frozen",18669
+"330","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Fillets","Frozen",18092
+"331","Weight of External Trade of Fish (Tonnes)","Imports","1999","Fillets","Frozen",1810
+"332","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Fillets","Frozen",6796
+"333","Weight of External Trade of Fish (Tonnes)","Exports","2000","Fillets","Frozen",20255
+"334","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Fillets","Frozen",21910
+"335","Weight of External Trade of Fish (Tonnes)","Imports","2000","Fillets","Frozen",1612
+"336","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Fillets","Frozen",7024
+"337","Weight of External Trade of Fish (Tonnes)","Exports","2001","Fillets","Frozen",27614
+"338","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Fillets","Frozen",36019
+"339","Weight of External Trade of Fish (Tonnes)","Imports","2001","Fillets","Frozen",2879
+"340","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Fillets","Frozen",7997
+"341","Weight of External Trade of Fish (Tonnes)","Exports","2002","Fillets","Frozen",23128
+"342","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Fillets","Frozen",30414
+"343","Weight of External Trade of Fish (Tonnes)","Imports","2002","Fillets","Frozen",3334
+"344","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Fillets","Frozen",13611
+"345","Weight of External Trade of Fish (Tonnes)","Exports","2003","Fillets","Frozen",15161
+"346","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Fillets","Frozen",19328
+"347","Weight of External Trade of Fish (Tonnes)","Imports","2003","Fillets","Frozen",3605
+"348","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Fillets","Frozen",14903
+"349","Weight of External Trade of Fish (Tonnes)","Exports","2004","Fillets","Frozen",19291
+"350","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Fillets","Frozen",23885
+"351","Weight of External Trade of Fish (Tonnes)","Imports","2004","Fillets","Frozen",5184
+"352","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Fillets","Frozen",23155
+"353","Weight of External Trade of Fish (Tonnes)","Exports","1994","Shellfish","Frozen",6659
+"354","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Shellfish","Frozen",21010
+"355","Weight of External Trade of Fish (Tonnes)","Imports","1994","Shellfish","Frozen",1126
+"356","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Shellfish","Frozen",5429
+"357","Weight of External Trade of Fish (Tonnes)","Exports","1995","Shellfish","Frozen",8627
+"358","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Shellfish","Frozen",29059
+"359","Weight of External Trade of Fish (Tonnes)","Imports","1995","Shellfish","Frozen",1951
+"360","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Shellfish","Frozen",7695
+"361","Weight of External Trade of Fish (Tonnes)","Exports","1996","Shellfish","Frozen",9377
+"362","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Shellfish","Frozen",27005
+"363","Weight of External Trade of Fish (Tonnes)","Imports","1996","Shellfish","Frozen",3011
+"364","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Shellfish","Frozen",8272
+"365","Weight of External Trade of Fish (Tonnes)","Exports","1997","Shellfish","Frozen",8000
+"366","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Shellfish","Frozen",27485
+"367","Weight of External Trade of Fish (Tonnes)","Imports","1997","Shellfish","Frozen",1345
+"368","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Shellfish","Frozen",6680
+"369","Weight of External Trade of Fish (Tonnes)","Exports","1998","Shellfish","Frozen",8039
+"370","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Shellfish","Frozen",31873
+"371","Weight of External Trade of Fish (Tonnes)","Imports","1998","Shellfish","Frozen",1288
+"372","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Shellfish","Frozen",8353
+"373","Weight of External Trade of Fish (Tonnes)","Exports","1999","Shellfish","Frozen",9427
+"374","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Shellfish","Frozen",45821
+"375","Weight of External Trade of Fish (Tonnes)","Imports","1999","Shellfish","Frozen",2518
+"376","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Shellfish","Frozen",17152
+"377","Weight of External Trade of Fish (Tonnes)","Exports","2000","Shellfish","Frozen",8104
+"378","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Shellfish","Frozen",39661
+"379","Weight of External Trade of Fish (Tonnes)","Imports","2000","Shellfish","Frozen",2289
+"380","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Shellfish","Frozen",16914
+"381","Weight of External Trade of Fish (Tonnes)","Exports","2001","Shellfish","Frozen",9808
+"382","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Shellfish","Frozen",43633
+"383","Weight of External Trade of Fish (Tonnes)","Imports","2001","Shellfish","Frozen",2628
+"384","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Shellfish","Frozen",18156
+"385","Weight of External Trade of Fish (Tonnes)","Exports","2002","Shellfish","Frozen",10562
+"386","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Shellfish","Frozen",51795
+"387","Weight of External Trade of Fish (Tonnes)","Imports","2002","Shellfish","Frozen",2688
+"388","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Shellfish","Frozen",17528
+"389","Weight of External Trade of Fish (Tonnes)","Exports","2003","Shellfish","Frozen",11564
+"390","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Shellfish","Frozen",54470
+"391","Weight of External Trade of Fish (Tonnes)","Imports","2003","Shellfish","Frozen",2137
+"392","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Shellfish","Frozen",12216
+"393","Weight of External Trade of Fish (Tonnes)","Exports","2004","Shellfish","Frozen",12864
+"394","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Shellfish","Frozen",60536
+"395","Weight of External Trade of Fish (Tonnes)","Imports","2004","Shellfish","Frozen",2189
+"396","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Shellfish","Frozen",12631
+"397","Weight of External Trade of Fish (Tonnes)","Exports","1994","Whole Fish","Dried, Salted, in Brine, Smoked",4260
+"398","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Whole Fish","Dried, Salted, in Brine, Smoked",9500
+"399","Weight of External Trade of Fish (Tonnes)","Imports","1994","Whole Fish","Dried, Salted, in Brine, Smoked",984
+"400","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Whole Fish","Dried, Salted, in Brine, Smoked",2454
+"401","Weight of External Trade of Fish (Tonnes)","Exports","1995","Whole Fish","Dried, Salted, in Brine, Smoked",4422
+"402","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Whole Fish","Dried, Salted, in Brine, Smoked",10887
+"403","Weight of External Trade of Fish (Tonnes)","Imports","1995","Whole Fish","Dried, Salted, in Brine, Smoked",1202
+"404","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Whole Fish","Dried, Salted, in Brine, Smoked",3282
+"405","Weight of External Trade of Fish (Tonnes)","Exports","1996","Whole Fish","Dried, Salted, in Brine, Smoked",6786
+"406","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Whole Fish","Dried, Salted, in Brine, Smoked",12504
+"407","Weight of External Trade of Fish (Tonnes)","Imports","1996","Whole Fish","Dried, Salted, in Brine, Smoked",1396
+"408","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Whole Fish","Dried, Salted, in Brine, Smoked",3758
+"409","Weight of External Trade of Fish (Tonnes)","Exports","1997","Whole Fish","Dried, Salted, in Brine, Smoked",5938
+"410","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Whole Fish","Dried, Salted, in Brine, Smoked",11120
+"411","Weight of External Trade of Fish (Tonnes)","Imports","1997","Whole Fish","Dried, Salted, in Brine, Smoked",1342
+"412","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Whole Fish","Dried, Salted, in Brine, Smoked",3720
+"413","Weight of External Trade of Fish (Tonnes)","Exports","1998","Whole Fish","Dried, Salted, in Brine, Smoked",6774
+"414","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Whole Fish","Dried, Salted, in Brine, Smoked",12390
+"415","Weight of External Trade of Fish (Tonnes)","Imports","1998","Whole Fish","Dried, Salted, in Brine, Smoked",932
+"416","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Whole Fish","Dried, Salted, in Brine, Smoked",2913
+"417","Weight of External Trade of Fish (Tonnes)","Exports","1999","Whole Fish","Dried, Salted, in Brine, Smoked",7764
+"418","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Whole Fish","Dried, Salted, in Brine, Smoked",16944
+"419","Weight of External Trade of Fish (Tonnes)","Imports","1999","Whole Fish","Dried, Salted, in Brine, Smoked",1264
+"420","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Whole Fish","Dried, Salted, in Brine, Smoked",4187
+"421","Weight of External Trade of Fish (Tonnes)","Exports","2000","Whole Fish","Dried, Salted, in Brine, Smoked",4594
+"422","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Whole Fish","Dried, Salted, in Brine, Smoked",13730
+"423","Weight of External Trade of Fish (Tonnes)","Imports","2000","Whole Fish","Dried, Salted, in Brine, Smoked",956
+"424","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Whole Fish","Dried, Salted, in Brine, Smoked",2778
+"425","Weight of External Trade of Fish (Tonnes)","Exports","2001","Whole Fish","Dried, Salted, in Brine, Smoked",3092
+"426","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Whole Fish","Dried, Salted, in Brine, Smoked",11339
+"427","Weight of External Trade of Fish (Tonnes)","Imports","2001","Whole Fish","Dried, Salted, in Brine, Smoked",1009
+"428","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Whole Fish","Dried, Salted, in Brine, Smoked",3549
+"429","Weight of External Trade of Fish (Tonnes)","Exports","2002","Whole Fish","Dried, Salted, in Brine, Smoked",2543
+"430","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Whole Fish","Dried, Salted, in Brine, Smoked",11431
+"431","Weight of External Trade of Fish (Tonnes)","Imports","2002","Whole Fish","Dried, Salted, in Brine, Smoked",994
+"432","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Whole Fish","Dried, Salted, in Brine, Smoked",3226
+"433","Weight of External Trade of Fish (Tonnes)","Exports","2003","Whole Fish","Dried, Salted, in Brine, Smoked",2705
+"434","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Whole Fish","Dried, Salted, in Brine, Smoked",12004
+"435","Weight of External Trade of Fish (Tonnes)","Imports","2003","Whole Fish","Dried, Salted, in Brine, Smoked",833
+"436","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Whole Fish","Dried, Salted, in Brine, Smoked",2353
+"437","Weight of External Trade of Fish (Tonnes)","Exports","2004","Whole Fish","Dried, Salted, in Brine, Smoked",1919
+"438","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Whole Fish","Dried, Salted, in Brine, Smoked",9011
+"439","Weight of External Trade of Fish (Tonnes)","Imports","2004","Whole Fish","Dried, Salted, in Brine, Smoked",774
+"440","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Whole Fish","Dried, Salted, in Brine, Smoked",2765
+"441","Weight of External Trade of Fish (Tonnes)","Exports","1994","Fillets","Dried, Salted, in Brine, Smoked",1608
+"442","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Fillets","Dried, Salted, in Brine, Smoked",1552
+"443","Weight of External Trade of Fish (Tonnes)","Imports","1994","Fillets","Dried, Salted, in Brine, Smoked",57
+"444","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Fillets","Dried, Salted, in Brine, Smoked",105
+"445","Weight of External Trade of Fish (Tonnes)","Exports","1995","Fillets","Dried, Salted, in Brine, Smoked",1741
+"446","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Fillets","Dried, Salted, in Brine, Smoked",1572
+"447","Weight of External Trade of Fish (Tonnes)","Imports","1995","Fillets","Dried, Salted, in Brine, Smoked",40
+"448","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Fillets","Dried, Salted, in Brine, Smoked",98
+"449","Weight of External Trade of Fish (Tonnes)","Exports","1996","Fillets","Dried, Salted, in Brine, Smoked",116
+"450","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Fillets","Dried, Salted, in Brine, Smoked",211
+"451","Weight of External Trade of Fish (Tonnes)","Imports","1996","Fillets","Dried, Salted, in Brine, Smoked",109
+"452","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Fillets","Dried, Salted, in Brine, Smoked",251
+"453","Weight of External Trade of Fish (Tonnes)","Exports","1997","Fillets","Dried, Salted, in Brine, Smoked",648
+"454","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Fillets","Dried, Salted, in Brine, Smoked",768
+"455","Weight of External Trade of Fish (Tonnes)","Imports","1997","Fillets","Dried, Salted, in Brine, Smoked",148
+"456","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Fillets","Dried, Salted, in Brine, Smoked",401
+"457","Weight of External Trade of Fish (Tonnes)","Exports","1998","Fillets","Dried, Salted, in Brine, Smoked",1080
+"458","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Fillets","Dried, Salted, in Brine, Smoked",1266
+"459","Weight of External Trade of Fish (Tonnes)","Imports","1998","Fillets","Dried, Salted, in Brine, Smoked",162
+"460","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Fillets","Dried, Salted, in Brine, Smoked",497
+"461","Weight of External Trade of Fish (Tonnes)","Exports","1999","Fillets","Dried, Salted, in Brine, Smoked",849
+"462","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Fillets","Dried, Salted, in Brine, Smoked",888
+"463","Weight of External Trade of Fish (Tonnes)","Imports","1999","Fillets","Dried, Salted, in Brine, Smoked",158
+"464","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Fillets","Dried, Salted, in Brine, Smoked",459
+"465","Weight of External Trade of Fish (Tonnes)","Exports","2000","Fillets","Dried, Salted, in Brine, Smoked",327
+"466","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Fillets","Dried, Salted, in Brine, Smoked",580
+"467","Weight of External Trade of Fish (Tonnes)","Imports","2000","Fillets","Dried, Salted, in Brine, Smoked",192
+"468","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Fillets","Dried, Salted, in Brine, Smoked",641
+"469","Weight of External Trade of Fish (Tonnes)","Exports","2001","Fillets","Dried, Salted, in Brine, Smoked",422
+"470","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Fillets","Dried, Salted, in Brine, Smoked",1322
+"471","Weight of External Trade of Fish (Tonnes)","Imports","2001","Fillets","Dried, Salted, in Brine, Smoked",221
+"472","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Fillets","Dried, Salted, in Brine, Smoked",771
+"473","Weight of External Trade of Fish (Tonnes)","Exports","2002","Fillets","Dried, Salted, in Brine, Smoked",857
+"474","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Fillets","Dried, Salted, in Brine, Smoked",1743
+"475","Weight of External Trade of Fish (Tonnes)","Imports","2002","Fillets","Dried, Salted, in Brine, Smoked",191
+"476","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Fillets","Dried, Salted, in Brine, Smoked",639
+"477","Weight of External Trade of Fish (Tonnes)","Exports","2003","Fillets","Dried, Salted, in Brine, Smoked",1177
+"478","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Fillets","Dried, Salted, in Brine, Smoked",1715
+"479","Weight of External Trade of Fish (Tonnes)","Imports","2003","Fillets","Dried, Salted, in Brine, Smoked",448
+"480","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Fillets","Dried, Salted, in Brine, Smoked",1223
+"481","Weight of External Trade of Fish (Tonnes)","Exports","2004","Fillets","Dried, Salted, in Brine, Smoked",423
+"482","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Fillets","Dried, Salted, in Brine, Smoked",575
+"483","Weight of External Trade of Fish (Tonnes)","Imports","2004","Fillets","Dried, Salted, in Brine, Smoked",316
+"484","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Fillets","Dried, Salted, in Brine, Smoked",918
+"485","Weight of External Trade of Fish (Tonnes)","Exports","1994","Shellfish","Dried, Salted, in Brine, Smoked",589
+"486","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Shellfish","Dried, Salted, in Brine, Smoked",1371
+"487","Weight of External Trade of Fish (Tonnes)","Imports","1994","Shellfish","Dried, Salted, in Brine, Smoked",110
+"488","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Shellfish","Dried, Salted, in Brine, Smoked",312
+"489","Weight of External Trade of Fish (Tonnes)","Exports","1995","Shellfish","Dried, Salted, in Brine, Smoked",511
+"490","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Shellfish","Dried, Salted, in Brine, Smoked",1365
+"491","Weight of External Trade of Fish (Tonnes)","Imports","1995","Shellfish","Dried, Salted, in Brine, Smoked",11
+"492","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Shellfish","Dried, Salted, in Brine, Smoked",27
+"493","Weight of External Trade of Fish (Tonnes)","Exports","1996","Shellfish","Dried, Salted, in Brine, Smoked",397
+"494","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Shellfish","Dried, Salted, in Brine, Smoked",1073
+"495","Weight of External Trade of Fish (Tonnes)","Imports","1996","Shellfish","Dried, Salted, in Brine, Smoked",23
+"496","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Shellfish","Dried, Salted, in Brine, Smoked",99
+"497","Weight of External Trade of Fish (Tonnes)","Exports","1997","Shellfish","Dried, Salted, in Brine, Smoked",825
+"498","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Shellfish","Dried, Salted, in Brine, Smoked",3016
+"499","Weight of External Trade of Fish (Tonnes)","Imports","1997","Shellfish","Dried, Salted, in Brine, Smoked",13
+"500","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Shellfish","Dried, Salted, in Brine, Smoked",34
+"501","Weight of External Trade of Fish (Tonnes)","Exports","1998","Shellfish","Dried, Salted, in Brine, Smoked",578
+"502","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Shellfish","Dried, Salted, in Brine, Smoked",1752
+"503","Weight of External Trade of Fish (Tonnes)","Imports","1998","Shellfish","Dried, Salted, in Brine, Smoked",11
+"504","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Shellfish","Dried, Salted, in Brine, Smoked",34
+"505","Weight of External Trade of Fish (Tonnes)","Exports","1999","Shellfish","Dried, Salted, in Brine, Smoked",460
+"506","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Shellfish","Dried, Salted, in Brine, Smoked",1363
+"507","Weight of External Trade of Fish (Tonnes)","Imports","1999","Shellfish","Dried, Salted, in Brine, Smoked",18
+"508","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Shellfish","Dried, Salted, in Brine, Smoked",97
+"509","Weight of External Trade of Fish (Tonnes)","Exports","2000","Shellfish","Dried, Salted, in Brine, Smoked",730
+"510","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Shellfish","Dried, Salted, in Brine, Smoked",2378
+"511","Weight of External Trade of Fish (Tonnes)","Imports","2000","Shellfish","Dried, Salted, in Brine, Smoked",6
+"512","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Shellfish","Dried, Salted, in Brine, Smoked",26
+"513","Weight of External Trade of Fish (Tonnes)","Exports","2001","Shellfish","Dried, Salted, in Brine, Smoked",567
+"514","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Shellfish","Dried, Salted, in Brine, Smoked",1568
+"515","Weight of External Trade of Fish (Tonnes)","Imports","2001","Shellfish","Dried, Salted, in Brine, Smoked",7
+"516","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Shellfish","Dried, Salted, in Brine, Smoked",19
+"517","Weight of External Trade of Fish (Tonnes)","Exports","2002","Shellfish","Dried, Salted, in Brine, Smoked",590
+"518","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Shellfish","Dried, Salted, in Brine, Smoked",1830
+"519","Weight of External Trade of Fish (Tonnes)","Imports","2002","Shellfish","Dried, Salted, in Brine, Smoked",7
+"520","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Shellfish","Dried, Salted, in Brine, Smoked",50
+"521","Weight of External Trade of Fish (Tonnes)","Exports","2003","Shellfish","Dried, Salted, in Brine, Smoked",1121
+"522","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Shellfish","Dried, Salted, in Brine, Smoked",4196
+"523","Weight of External Trade of Fish (Tonnes)","Imports","2003","Shellfish","Dried, Salted, in Brine, Smoked",6
+"524","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Shellfish","Dried, Salted, in Brine, Smoked",21
+"525","Weight of External Trade of Fish (Tonnes)","Exports","2004","Shellfish","Dried, Salted, in Brine, Smoked",764
+"526","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Shellfish","Dried, Salted, in Brine, Smoked",2838
+"527","Weight of External Trade of Fish (Tonnes)","Imports","2004","Shellfish","Dried, Salted, in Brine, Smoked",2
+"528","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Shellfish","Dried, Salted, in Brine, Smoked",7
+"529","Weight of External Trade of Fish (Tonnes)","Exports","1994","Whole Fish","Prepared, Preserved",3658
+"530","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Whole Fish","Prepared, Preserved",6764
+"531","Weight of External Trade of Fish (Tonnes)","Imports","1994","Whole Fish","Prepared, Preserved",6861
+"532","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Whole Fish","Prepared, Preserved",19450
+"533","Weight of External Trade of Fish (Tonnes)","Exports","1995","Whole Fish","Prepared, Preserved",4479
+"534","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Whole Fish","Prepared, Preserved",7589
+"535","Weight of External Trade of Fish (Tonnes)","Imports","1995","Whole Fish","Prepared, Preserved",7455
+"536","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Whole Fish","Prepared, Preserved",20341
+"537","Weight of External Trade of Fish (Tonnes)","Exports","1996","Whole Fish","Prepared, Preserved",5396
+"538","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Whole Fish","Prepared, Preserved",9691
+"539","Weight of External Trade of Fish (Tonnes)","Imports","1996","Whole Fish","Prepared, Preserved",8014
+"540","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Whole Fish","Prepared, Preserved",21074
+"541","Weight of External Trade of Fish (Tonnes)","Exports","1997","Whole Fish","Prepared, Preserved",5069
+"542","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Whole Fish","Prepared, Preserved",10280
+"543","Weight of External Trade of Fish (Tonnes)","Imports","1997","Whole Fish","Prepared, Preserved",7378
+"544","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Whole Fish","Prepared, Preserved",21168
+"545","Weight of External Trade of Fish (Tonnes)","Exports","1998","Whole Fish","Prepared, Preserved",5033
+"546","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Whole Fish","Prepared, Preserved",11120
+"547","Weight of External Trade of Fish (Tonnes)","Imports","1998","Whole Fish","Prepared, Preserved",8477
+"548","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Whole Fish","Prepared, Preserved",26086
+"549","Weight of External Trade of Fish (Tonnes)","Exports","1999","Whole Fish","Prepared, Preserved",5122
+"550","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Whole Fish","Prepared, Preserved",10175
+"551","Weight of External Trade of Fish (Tonnes)","Imports","1999","Whole Fish","Prepared, Preserved",7839
+"552","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Whole Fish","Prepared, Preserved",26850
+"553","Weight of External Trade of Fish (Tonnes)","Exports","2000","Whole Fish","Prepared, Preserved",4940
+"554","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Whole Fish","Prepared, Preserved",10363
+"555","Weight of External Trade of Fish (Tonnes)","Imports","2000","Whole Fish","Prepared, Preserved",8016
+"556","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Whole Fish","Prepared, Preserved",29777
+"557","Weight of External Trade of Fish (Tonnes)","Exports","2001","Whole Fish","Prepared, Preserved",6675
+"558","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Whole Fish","Prepared, Preserved",14698
+"559","Weight of External Trade of Fish (Tonnes)","Imports","2001","Whole Fish","Prepared, Preserved",10216
+"560","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Whole Fish","Prepared, Preserved",36145
+"561","Weight of External Trade of Fish (Tonnes)","Exports","2002","Whole Fish","Prepared, Preserved",7069
+"562","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Whole Fish","Prepared, Preserved",16884
+"563","Weight of External Trade of Fish (Tonnes)","Imports","2002","Whole Fish","Prepared, Preserved",10044
+"564","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Whole Fish","Prepared, Preserved",36954
+"565","Weight of External Trade of Fish (Tonnes)","Exports","2003","Whole Fish","Prepared, Preserved",6977
+"566","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Whole Fish","Prepared, Preserved",17131
+"567","Weight of External Trade of Fish (Tonnes)","Imports","2003","Whole Fish","Prepared, Preserved",9644
+"568","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Whole Fish","Prepared, Preserved",34166
+"569","Weight of External Trade of Fish (Tonnes)","Exports","2004","Whole Fish","Prepared, Preserved",8457
+"570","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Whole Fish","Prepared, Preserved",19738
+"571","Weight of External Trade of Fish (Tonnes)","Imports","2004","Whole Fish","Prepared, Preserved",8934
+"572","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Whole Fish","Prepared, Preserved",30415
+"573","Weight of External Trade of Fish (Tonnes)","Exports","1994","Fillets","Prepared, Preserved",1536
+"574","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Fillets","Prepared, Preserved",4883
+"575","Weight of External Trade of Fish (Tonnes)","Imports","1994","Fillets","Prepared, Preserved",1755
+"576","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Fillets","Prepared, Preserved",4420
+"577","Weight of External Trade of Fish (Tonnes)","Exports","1995","Fillets","Prepared, Preserved",463
+"578","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Fillets","Prepared, Preserved",1606
+"579","Weight of External Trade of Fish (Tonnes)","Imports","1995","Fillets","Prepared, Preserved",2638
+"580","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Fillets","Prepared, Preserved",5108
+"581","Weight of External Trade of Fish (Tonnes)","Exports","1996","Fillets","Prepared, Preserved",551
+"582","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Fillets","Prepared, Preserved",2226
+"583","Weight of External Trade of Fish (Tonnes)","Imports","1996","Fillets","Prepared, Preserved",2493
+"584","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Fillets","Prepared, Preserved",6016
+"585","Weight of External Trade of Fish (Tonnes)","Exports","1997","Fillets","Prepared, Preserved",769
+"586","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Fillets","Prepared, Preserved",2908
+"587","Weight of External Trade of Fish (Tonnes)","Imports","1997","Fillets","Prepared, Preserved",2117
+"588","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Fillets","Prepared, Preserved",5313
+"589","Weight of External Trade of Fish (Tonnes)","Exports","1998","Fillets","Prepared, Preserved",1015
+"590","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Fillets","Prepared, Preserved",4489
+"591","Weight of External Trade of Fish (Tonnes)","Imports","1998","Fillets","Prepared, Preserved",1287
+"592","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Fillets","Prepared, Preserved",4252
+"593","Weight of External Trade of Fish (Tonnes)","Exports","1999","Fillets","Prepared, Preserved",933
+"594","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Fillets","Prepared, Preserved",4308
+"595","Weight of External Trade of Fish (Tonnes)","Imports","1999","Fillets","Prepared, Preserved",934
+"596","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Fillets","Prepared, Preserved",3873
+"597","Weight of External Trade of Fish (Tonnes)","Exports","2000","Fillets","Prepared, Preserved",1106
+"598","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Fillets","Prepared, Preserved",4726
+"599","Weight of External Trade of Fish (Tonnes)","Imports","2000","Fillets","Prepared, Preserved",808
+"600","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Fillets","Prepared, Preserved",3746
+"601","Weight of External Trade of Fish (Tonnes)","Exports","2001","Fillets","Prepared, Preserved",1453
+"602","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Fillets","Prepared, Preserved",7899
+"603","Weight of External Trade of Fish (Tonnes)","Imports","2001","Fillets","Prepared, Preserved",1124
+"604","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Fillets","Prepared, Preserved",5142
+"605","Weight of External Trade of Fish (Tonnes)","Exports","2002","Fillets","Prepared, Preserved",1230
+"606","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Fillets","Prepared, Preserved",6297
+"607","Weight of External Trade of Fish (Tonnes)","Imports","2002","Fillets","Prepared, Preserved",1238
+"608","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Fillets","Prepared, Preserved",5443
+"609","Weight of External Trade of Fish (Tonnes)","Exports","2003","Fillets","Prepared, Preserved",1120
+"610","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Fillets","Prepared, Preserved",5511
+"611","Weight of External Trade of Fish (Tonnes)","Imports","2003","Fillets","Prepared, Preserved",1319
+"612","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Fillets","Prepared, Preserved",5488
+"613","Weight of External Trade of Fish (Tonnes)","Exports","2004","Fillets","Prepared, Preserved",1169
+"614","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Fillets","Prepared, Preserved",5572
+"615","Weight of External Trade of Fish (Tonnes)","Imports","2004","Fillets","Prepared, Preserved",1263
+"616","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Fillets","Prepared, Preserved",5164
+"617","Weight of External Trade of Fish (Tonnes)","Exports","1994","Shellfish","Prepared, Preserved",2736
+"618","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Shellfish","Prepared, Preserved",5718
+"619","Weight of External Trade of Fish (Tonnes)","Imports","1994","Shellfish","Prepared, Preserved",811
+"620","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Shellfish","Prepared, Preserved",1986
+"621","Weight of External Trade of Fish (Tonnes)","Exports","1995","Shellfish","Prepared, Preserved",2904
+"622","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Shellfish","Prepared, Preserved",6303
+"623","Weight of External Trade of Fish (Tonnes)","Imports","1995","Shellfish","Prepared, Preserved",322
+"624","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Shellfish","Prepared, Preserved",1696
+"625","Weight of External Trade of Fish (Tonnes)","Exports","1996","Shellfish","Prepared, Preserved",4432
+"626","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Shellfish","Prepared, Preserved",11100
+"627","Weight of External Trade of Fish (Tonnes)","Imports","1996","Shellfish","Prepared, Preserved",548
+"628","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Shellfish","Prepared, Preserved",2368
+"629","Weight of External Trade of Fish (Tonnes)","Exports","1997","Shellfish","Prepared, Preserved",4096
+"630","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Shellfish","Prepared, Preserved",11353
+"631","Weight of External Trade of Fish (Tonnes)","Imports","1997","Shellfish","Prepared, Preserved",304
+"632","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Shellfish","Prepared, Preserved",1953
+"633","Weight of External Trade of Fish (Tonnes)","Exports","1998","Shellfish","Prepared, Preserved",5589
+"634","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Shellfish","Prepared, Preserved",15007
+"635","Weight of External Trade of Fish (Tonnes)","Imports","1998","Shellfish","Prepared, Preserved",610
+"636","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Shellfish","Prepared, Preserved",2829
+"637","Weight of External Trade of Fish (Tonnes)","Exports","1999","Shellfish","Prepared, Preserved",5759
+"638","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Shellfish","Prepared, Preserved",17743
+"639","Weight of External Trade of Fish (Tonnes)","Imports","1999","Shellfish","Prepared, Preserved",434
+"640","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Shellfish","Prepared, Preserved",2618
+"641","Weight of External Trade of Fish (Tonnes)","Exports","2000","Shellfish","Prepared, Preserved",6162
+"642","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Shellfish","Prepared, Preserved",21087
+"643","Weight of External Trade of Fish (Tonnes)","Imports","2000","Shellfish","Prepared, Preserved",609
+"644","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Shellfish","Prepared, Preserved",4323
+"645","Weight of External Trade of Fish (Tonnes)","Exports","2001","Shellfish","Prepared, Preserved",6804
+"646","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Shellfish","Prepared, Preserved",20998
+"647","Weight of External Trade of Fish (Tonnes)","Imports","2001","Shellfish","Prepared, Preserved",795
+"648","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Shellfish","Prepared, Preserved",5086
+"649","Weight of External Trade of Fish (Tonnes)","Exports","2002","Shellfish","Prepared, Preserved",6650
+"650","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Shellfish","Prepared, Preserved",22325
+"651","Weight of External Trade of Fish (Tonnes)","Imports","2002","Shellfish","Prepared, Preserved",891
+"652","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Shellfish","Prepared, Preserved",4622
+"653","Weight of External Trade of Fish (Tonnes)","Exports","2003","Shellfish","Prepared, Preserved",6916
+"654","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Shellfish","Prepared, Preserved",24942
+"655","Weight of External Trade of Fish (Tonnes)","Imports","2003","Shellfish","Prepared, Preserved",856
+"656","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Shellfish","Prepared, Preserved",4981
+"657","Weight of External Trade of Fish (Tonnes)","Exports","2004","Shellfish","Prepared, Preserved",8422
+"658","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Shellfish","Prepared, Preserved",29863
+"659","Weight of External Trade of Fish (Tonnes)","Imports","2004","Shellfish","Prepared, Preserved",1482
+"660","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Shellfish","Prepared, Preserved",5067
+"661","Weight of External Trade of Fish (Tonnes)","Exports","1994","Whole Fish","Meal, Oil, Fats, Waste",16282
+"662","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Whole Fish","Meal, Oil, Fats, Waste",6972
+"663","Weight of External Trade of Fish (Tonnes)","Imports","1994","Whole Fish","Meal, Oil, Fats, Waste",39738
+"664","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Whole Fish","Meal, Oil, Fats, Waste",14831
+"665","Weight of External Trade of Fish (Tonnes)","Exports","1995","Whole Fish","Meal, Oil, Fats, Waste",22484
+"666","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Whole Fish","Meal, Oil, Fats, Waste",11673
+"667","Weight of External Trade of Fish (Tonnes)","Imports","1995","Whole Fish","Meal, Oil, Fats, Waste",36676
+"668","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Whole Fish","Meal, Oil, Fats, Waste",16463
+"669","Weight of External Trade of Fish (Tonnes)","Exports","1996","Whole Fish","Meal, Oil, Fats, Waste",21652
+"670","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Whole Fish","Meal, Oil, Fats, Waste",14255
+"671","Weight of External Trade of Fish (Tonnes)","Imports","1996","Whole Fish","Meal, Oil, Fats, Waste",31570
+"672","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Whole Fish","Meal, Oil, Fats, Waste",19842
+"673","Weight of External Trade of Fish (Tonnes)","Exports","1997","Whole Fish","Meal, Oil, Fats, Waste",14823
+"674","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Whole Fish","Meal, Oil, Fats, Waste",9917
+"675","Weight of External Trade of Fish (Tonnes)","Imports","1997","Whole Fish","Meal, Oil, Fats, Waste",33921
+"676","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Whole Fish","Meal, Oil, Fats, Waste",21944
+"677","Weight of External Trade of Fish (Tonnes)","Exports","1998","Whole Fish","Meal, Oil, Fats, Waste",11930
+"678","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Whole Fish","Meal, Oil, Fats, Waste",9214
+"679","Weight of External Trade of Fish (Tonnes)","Imports","1998","Whole Fish","Meal, Oil, Fats, Waste",22314
+"680","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Whole Fish","Meal, Oil, Fats, Waste",16652
+"681","Weight of External Trade of Fish (Tonnes)","Exports","1999","Whole Fish","Meal, Oil, Fats, Waste",7262
+"682","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Whole Fish","Meal, Oil, Fats, Waste",6421
+"683","Weight of External Trade of Fish (Tonnes)","Imports","1999","Whole Fish","Meal, Oil, Fats, Waste",32042
+"684","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Whole Fish","Meal, Oil, Fats, Waste",23204
+"685","Weight of External Trade of Fish (Tonnes)","Exports","2000","Whole Fish","Meal, Oil, Fats, Waste",14312
+"686","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Whole Fish","Meal, Oil, Fats, Waste",9225
+"687","Weight of External Trade of Fish (Tonnes)","Imports","2000","Whole Fish","Meal, Oil, Fats, Waste",44514
+"688","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Whole Fish","Meal, Oil, Fats, Waste",31469
+"689","Weight of External Trade of Fish (Tonnes)","Exports","2001","Whole Fish","Meal, Oil, Fats, Waste",38838
+"690","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Whole Fish","Meal, Oil, Fats, Waste",23817
+"691","Weight of External Trade of Fish (Tonnes)","Imports","2001","Whole Fish","Meal, Oil, Fats, Waste",36934
+"692","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Whole Fish","Meal, Oil, Fats, Waste",29442
+"693","Weight of External Trade of Fish (Tonnes)","Exports","2002","Whole Fish","Meal, Oil, Fats, Waste",25178
+"694","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Whole Fish","Meal, Oil, Fats, Waste",17319
+"695","Weight of External Trade of Fish (Tonnes)","Imports","2002","Whole Fish","Meal, Oil, Fats, Waste",32588
+"696","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Whole Fish","Meal, Oil, Fats, Waste",24401
+"697","Weight of External Trade of Fish (Tonnes)","Exports","2003","Whole Fish","Meal, Oil, Fats, Waste",16446
+"698","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Whole Fish","Meal, Oil, Fats, Waste",11741
+"699","Weight of External Trade of Fish (Tonnes)","Imports","2003","Whole Fish","Meal, Oil, Fats, Waste",40738
+"700","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Whole Fish","Meal, Oil, Fats, Waste",18017
+"701","Weight of External Trade of Fish (Tonnes)","Exports","2004","Whole Fish","Meal, Oil, Fats, Waste",29757
+"702","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Whole Fish","Meal, Oil, Fats, Waste",20726
+"703","Weight of External Trade of Fish (Tonnes)","Imports","2004","Whole Fish","Meal, Oil, Fats, Waste",30461
+"704","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Whole Fish","Meal, Oil, Fats, Waste",11303
+"705","Weight of External Trade of Fish (Tonnes)","Exports","1994","Fillets","Meal, Oil, Fats, Waste",0
+"706","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Fillets","Meal, Oil, Fats, Waste",0
+"707","Weight of External Trade of Fish (Tonnes)","Imports","1994","Fillets","Meal, Oil, Fats, Waste",0
+"708","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Fillets","Meal, Oil, Fats, Waste",0
+"709","Weight of External Trade of Fish (Tonnes)","Exports","1995","Fillets","Meal, Oil, Fats, Waste",0
+"710","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Fillets","Meal, Oil, Fats, Waste",0
+"711","Weight of External Trade of Fish (Tonnes)","Imports","1995","Fillets","Meal, Oil, Fats, Waste",0
+"712","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Fillets","Meal, Oil, Fats, Waste",0
+"713","Weight of External Trade of Fish (Tonnes)","Exports","1996","Fillets","Meal, Oil, Fats, Waste",0
+"714","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Fillets","Meal, Oil, Fats, Waste",0
+"715","Weight of External Trade of Fish (Tonnes)","Imports","1996","Fillets","Meal, Oil, Fats, Waste",0
+"716","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Fillets","Meal, Oil, Fats, Waste",0
+"717","Weight of External Trade of Fish (Tonnes)","Exports","1997","Fillets","Meal, Oil, Fats, Waste",0
+"718","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Fillets","Meal, Oil, Fats, Waste",0
+"719","Weight of External Trade of Fish (Tonnes)","Imports","1997","Fillets","Meal, Oil, Fats, Waste",0
+"720","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Fillets","Meal, Oil, Fats, Waste",0
+"721","Weight of External Trade of Fish (Tonnes)","Exports","1998","Fillets","Meal, Oil, Fats, Waste",0
+"722","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Fillets","Meal, Oil, Fats, Waste",0
+"723","Weight of External Trade of Fish (Tonnes)","Imports","1998","Fillets","Meal, Oil, Fats, Waste",0
+"724","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Fillets","Meal, Oil, Fats, Waste",0
+"725","Weight of External Trade of Fish (Tonnes)","Exports","1999","Fillets","Meal, Oil, Fats, Waste",0
+"726","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Fillets","Meal, Oil, Fats, Waste",0
+"727","Weight of External Trade of Fish (Tonnes)","Imports","1999","Fillets","Meal, Oil, Fats, Waste",0
+"728","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Fillets","Meal, Oil, Fats, Waste",0
+"729","Weight of External Trade of Fish (Tonnes)","Exports","2000","Fillets","Meal, Oil, Fats, Waste",0
+"730","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Fillets","Meal, Oil, Fats, Waste",0
+"731","Weight of External Trade of Fish (Tonnes)","Imports","2000","Fillets","Meal, Oil, Fats, Waste",0
+"732","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Fillets","Meal, Oil, Fats, Waste",0
+"733","Weight of External Trade of Fish (Tonnes)","Exports","2001","Fillets","Meal, Oil, Fats, Waste",0
+"734","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Fillets","Meal, Oil, Fats, Waste",0
+"735","Weight of External Trade of Fish (Tonnes)","Imports","2001","Fillets","Meal, Oil, Fats, Waste",0
+"736","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Fillets","Meal, Oil, Fats, Waste",0
+"737","Weight of External Trade of Fish (Tonnes)","Exports","2002","Fillets","Meal, Oil, Fats, Waste",0
+"738","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Fillets","Meal, Oil, Fats, Waste",0
+"739","Weight of External Trade of Fish (Tonnes)","Imports","2002","Fillets","Meal, Oil, Fats, Waste",0
+"740","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Fillets","Meal, Oil, Fats, Waste",0
+"741","Weight of External Trade of Fish (Tonnes)","Exports","2003","Fillets","Meal, Oil, Fats, Waste",0
+"742","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Fillets","Meal, Oil, Fats, Waste",0
+"743","Weight of External Trade of Fish (Tonnes)","Imports","2003","Fillets","Meal, Oil, Fats, Waste",0
+"744","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Fillets","Meal, Oil, Fats, Waste",0
+"745","Weight of External Trade of Fish (Tonnes)","Exports","2004","Fillets","Meal, Oil, Fats, Waste",0
+"746","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Fillets","Meal, Oil, Fats, Waste",0
+"747","Weight of External Trade of Fish (Tonnes)","Imports","2004","Fillets","Meal, Oil, Fats, Waste",0
+"748","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Fillets","Meal, Oil, Fats, Waste",0
+"749","Weight of External Trade of Fish (Tonnes)","Exports","1994","Shellfish","Meal, Oil, Fats, Waste",0
+"750","Value of External Trade of Fish (Euro Thousand)","Exports","1994","Shellfish","Meal, Oil, Fats, Waste",0
+"751","Weight of External Trade of Fish (Tonnes)","Imports","1994","Shellfish","Meal, Oil, Fats, Waste",0
+"752","Value of External Trade of Fish (Euro Thousand)","Imports","1994","Shellfish","Meal, Oil, Fats, Waste",0
+"753","Weight of External Trade of Fish (Tonnes)","Exports","1995","Shellfish","Meal, Oil, Fats, Waste",0
+"754","Value of External Trade of Fish (Euro Thousand)","Exports","1995","Shellfish","Meal, Oil, Fats, Waste",0
+"755","Weight of External Trade of Fish (Tonnes)","Imports","1995","Shellfish","Meal, Oil, Fats, Waste",0
+"756","Value of External Trade of Fish (Euro Thousand)","Imports","1995","Shellfish","Meal, Oil, Fats, Waste",0
+"757","Weight of External Trade of Fish (Tonnes)","Exports","1996","Shellfish","Meal, Oil, Fats, Waste",0
+"758","Value of External Trade of Fish (Euro Thousand)","Exports","1996","Shellfish","Meal, Oil, Fats, Waste",0
+"759","Weight of External Trade of Fish (Tonnes)","Imports","1996","Shellfish","Meal, Oil, Fats, Waste",0
+"760","Value of External Trade of Fish (Euro Thousand)","Imports","1996","Shellfish","Meal, Oil, Fats, Waste",0
+"761","Weight of External Trade of Fish (Tonnes)","Exports","1997","Shellfish","Meal, Oil, Fats, Waste",0
+"762","Value of External Trade of Fish (Euro Thousand)","Exports","1997","Shellfish","Meal, Oil, Fats, Waste",0
+"763","Weight of External Trade of Fish (Tonnes)","Imports","1997","Shellfish","Meal, Oil, Fats, Waste",0
+"764","Value of External Trade of Fish (Euro Thousand)","Imports","1997","Shellfish","Meal, Oil, Fats, Waste",0
+"765","Weight of External Trade of Fish (Tonnes)","Exports","1998","Shellfish","Meal, Oil, Fats, Waste",0
+"766","Value of External Trade of Fish (Euro Thousand)","Exports","1998","Shellfish","Meal, Oil, Fats, Waste",0
+"767","Weight of External Trade of Fish (Tonnes)","Imports","1998","Shellfish","Meal, Oil, Fats, Waste",0
+"768","Value of External Trade of Fish (Euro Thousand)","Imports","1998","Shellfish","Meal, Oil, Fats, Waste",0
+"769","Weight of External Trade of Fish (Tonnes)","Exports","1999","Shellfish","Meal, Oil, Fats, Waste",0
+"770","Value of External Trade of Fish (Euro Thousand)","Exports","1999","Shellfish","Meal, Oil, Fats, Waste",0
+"771","Weight of External Trade of Fish (Tonnes)","Imports","1999","Shellfish","Meal, Oil, Fats, Waste",0
+"772","Value of External Trade of Fish (Euro Thousand)","Imports","1999","Shellfish","Meal, Oil, Fats, Waste",0
+"773","Weight of External Trade of Fish (Tonnes)","Exports","2000","Shellfish","Meal, Oil, Fats, Waste",0
+"774","Value of External Trade of Fish (Euro Thousand)","Exports","2000","Shellfish","Meal, Oil, Fats, Waste",0
+"775","Weight of External Trade of Fish (Tonnes)","Imports","2000","Shellfish","Meal, Oil, Fats, Waste",0
+"776","Value of External Trade of Fish (Euro Thousand)","Imports","2000","Shellfish","Meal, Oil, Fats, Waste",0
+"777","Weight of External Trade of Fish (Tonnes)","Exports","2001","Shellfish","Meal, Oil, Fats, Waste",0
+"778","Value of External Trade of Fish (Euro Thousand)","Exports","2001","Shellfish","Meal, Oil, Fats, Waste",0
+"779","Weight of External Trade of Fish (Tonnes)","Imports","2001","Shellfish","Meal, Oil, Fats, Waste",0
+"780","Value of External Trade of Fish (Euro Thousand)","Imports","2001","Shellfish","Meal, Oil, Fats, Waste",0
+"781","Weight of External Trade of Fish (Tonnes)","Exports","2002","Shellfish","Meal, Oil, Fats, Waste",0
+"782","Value of External Trade of Fish (Euro Thousand)","Exports","2002","Shellfish","Meal, Oil, Fats, Waste",0
+"783","Weight of External Trade of Fish (Tonnes)","Imports","2002","Shellfish","Meal, Oil, Fats, Waste",0
+"784","Value of External Trade of Fish (Euro Thousand)","Imports","2002","Shellfish","Meal, Oil, Fats, Waste",0
+"785","Weight of External Trade of Fish (Tonnes)","Exports","2003","Shellfish","Meal, Oil, Fats, Waste",0
+"786","Value of External Trade of Fish (Euro Thousand)","Exports","2003","Shellfish","Meal, Oil, Fats, Waste",0
+"787","Weight of External Trade of Fish (Tonnes)","Imports","2003","Shellfish","Meal, Oil, Fats, Waste",0
+"788","Value of External Trade of Fish (Euro Thousand)","Imports","2003","Shellfish","Meal, Oil, Fats, Waste",0
+"789","Weight of External Trade of Fish (Tonnes)","Exports","2004","Shellfish","Meal, Oil, Fats, Waste",0
+"790","Value of External Trade of Fish (Euro Thousand)","Exports","2004","Shellfish","Meal, Oil, Fats, Waste",0
+"791","Weight of External Trade of Fish (Tonnes)","Imports","2004","Shellfish","Meal, Oil, Fats, Waste",0
+"792","Value of External Trade of Fish (Euro Thousand)","Imports","2004","Shellfish","Meal, Oil, Fats, Waste",0

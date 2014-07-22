@@ -1,0 +1,109 @@
+"","Year","Meat.Usage","Statistic","value"
+"1","1991","All Pigs","Pigs Slaughtered (Number)",2378106
+"2","1992","All Pigs","Pigs Slaughtered (Number)",2636027
+"3","1993","All Pigs","Pigs Slaughtered (Number)",2757374
+"4","1994","All Pigs","Pigs Slaughtered (Number)",2760814
+"5","1995","All Pigs","Pigs Slaughtered (Number)",2677703
+"6","1996","All Pigs","Pigs Slaughtered (Number)",2579096
+"7","1997","All Pigs","Pigs Slaughtered (Number)",2699976
+"8","1998","All Pigs","Pigs Slaughtered (Number)",3028911
+"9","1999","All Pigs","Pigs Slaughtered (Number)",3324740
+"10","2000","All Pigs","Pigs Slaughtered (Number)",3042373
+"11","2001","All Pigs","Pigs Slaughtered (Number)",3207754
+"12","2002","All Pigs","Pigs Slaughtered (Number)",3030535
+"13","1991","Pigs for Bacon","Pigs Slaughtered (Number)",965306
+"14","1992","Pigs for Bacon","Pigs Slaughtered (Number)",1026699
+"15","1993","Pigs for Bacon","Pigs Slaughtered (Number)",1134225
+"16","1994","Pigs for Bacon","Pigs Slaughtered (Number)",1215548
+"17","1995","Pigs for Bacon","Pigs Slaughtered (Number)",1282094
+"18","1996","Pigs for Bacon","Pigs Slaughtered (Number)",1093643
+"19","1997","Pigs for Bacon","Pigs Slaughtered (Number)",1125444
+"20","1998","Pigs for Bacon","Pigs Slaughtered (Number)",1141524
+"21","1999","Pigs for Bacon","Pigs Slaughtered (Number)",1115678
+"22","2000","Pigs for Bacon","Pigs Slaughtered (Number)",810331
+"23","2001","Pigs for Bacon","Pigs Slaughtered (Number)",738833
+"24","2002","Pigs for Bacon","Pigs Slaughtered (Number)",604380
+"25","1991","Pigs for Pork","Pigs Slaughtered (Number)",1412800
+"26","1992","Pigs for Pork","Pigs Slaughtered (Number)",1609328
+"27","1993","Pigs for Pork","Pigs Slaughtered (Number)",1623149
+"28","1994","Pigs for Pork","Pigs Slaughtered (Number)",1545266
+"29","1995","Pigs for Pork","Pigs Slaughtered (Number)",1395609
+"30","1996","Pigs for Pork","Pigs Slaughtered (Number)",1485453
+"31","1997","Pigs for Pork","Pigs Slaughtered (Number)",1574532
+"32","1998","Pigs for Pork","Pigs Slaughtered (Number)",1887387
+"33","1999","Pigs for Pork","Pigs Slaughtered (Number)",2209062
+"34","2000","Pigs for Pork","Pigs Slaughtered (Number)",2232042
+"35","2001","Pigs for Pork","Pigs Slaughtered (Number)",2468921
+"36","2002","Pigs for Pork","Pigs Slaughtered (Number)",2426155
+"37","1991","All Pigs","Weight of Pigs Slaughtered (Tonnes)",159388
+"38","1992","All Pigs","Weight of Pigs Slaughtered (Tonnes)",181045
+"39","1993","All Pigs","Weight of Pigs Slaughtered (Tonnes)",191139
+"40","1994","All Pigs","Weight of Pigs Slaughtered (Tonnes)",192887
+"41","1995","All Pigs","Weight of Pigs Slaughtered (Tonnes)",189520
+"42","1996","All Pigs","Weight of Pigs Slaughtered (Tonnes)",187475
+"43","1997","All Pigs","Weight of Pigs Slaughtered (Tonnes)",195452
+"44","1998","All Pigs","Weight of Pigs Slaughtered (Tonnes)",217379
+"45","1999","All Pigs","Weight of Pigs Slaughtered (Tonnes)",238935
+"46","2000","All Pigs","Weight of Pigs Slaughtered (Tonnes)",219668
+"47","2001","All Pigs","Weight of Pigs Slaughtered (Tonnes)",233890
+"48","2002","All Pigs","Weight of Pigs Slaughtered (Tonnes)",221799
+"49","1991","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",60824
+"50","1992","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",6652
+"51","1993","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",74952
+"52","1994","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",80570
+"53","1995","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",86408
+"54","1996","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",74894
+"55","1997","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",77560
+"56","1998","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",78440
+"57","1999","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",77293
+"58","2000","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",56913
+"59","2001","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",52525
+"60","2002","Pigs for Bacon","Weight of Pigs Slaughtered (Tonnes)",43178
+"61","1991","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",98564
+"62","1992","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",114493
+"63","1993","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",116187
+"64","1994","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",112318
+"65","1995","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",103112
+"66","1996","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",112582
+"67","1997","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",117892
+"68","1998","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",138939
+"69","1999","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",161641
+"70","2000","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",162755
+"71","2001","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",181366
+"72","2002","Pigs for Pork","Weight of Pigs Slaughtered (Tonnes)",178621
+"73","1991","All Pigs","Average Pig Carcass Weight (Kg)",67
+"74","1992","All Pigs","Average Pig Carcass Weight (Kg)",69
+"75","1993","All Pigs","Average Pig Carcass Weight (Kg)",69
+"76","1994","All Pigs","Average Pig Carcass Weight (Kg)",70
+"77","1995","All Pigs","Average Pig Carcass Weight (Kg)",71
+"78","1996","All Pigs","Average Pig Carcass Weight (Kg)",73
+"79","1997","All Pigs","Average Pig Carcass Weight (Kg)",72
+"80","1998","All Pigs","Average Pig Carcass Weight (Kg)",72
+"81","1999","All Pigs","Average Pig Carcass Weight (Kg)",72
+"82","2000","All Pigs","Average Pig Carcass Weight (Kg)",72
+"83","2001","All Pigs","Average Pig Carcass Weight (Kg)",73
+"84","2002","All Pigs","Average Pig Carcass Weight (Kg)",73
+"85","1991","Pigs for Bacon","Average Pig Carcass Weight (Kg)",63
+"86","1992","Pigs for Bacon","Average Pig Carcass Weight (Kg)",65
+"87","1993","Pigs for Bacon","Average Pig Carcass Weight (Kg)",66
+"88","1994","Pigs for Bacon","Average Pig Carcass Weight (Kg)",66
+"89","1995","Pigs for Bacon","Average Pig Carcass Weight (Kg)",67
+"90","1996","Pigs for Bacon","Average Pig Carcass Weight (Kg)",69
+"91","1997","Pigs for Bacon","Average Pig Carcass Weight (Kg)",69
+"92","1998","Pigs for Bacon","Average Pig Carcass Weight (Kg)",69
+"93","1999","Pigs for Bacon","Average Pig Carcass Weight (Kg)",69
+"94","2000","Pigs for Bacon","Average Pig Carcass Weight (Kg)",70
+"95","2001","Pigs for Bacon","Average Pig Carcass Weight (Kg)",71
+"96","2002","Pigs for Bacon","Average Pig Carcass Weight (Kg)",71
+"97","1991","Pigs for Pork","Average Pig Carcass Weight (Kg)",70
+"98","1992","Pigs for Pork","Average Pig Carcass Weight (Kg)",71
+"99","1993","Pigs for Pork","Average Pig Carcass Weight (Kg)",72
+"100","1994","Pigs for Pork","Average Pig Carcass Weight (Kg)",73
+"101","1995","Pigs for Pork","Average Pig Carcass Weight (Kg)",74
+"102","1996","Pigs for Pork","Average Pig Carcass Weight (Kg)",76
+"103","1997","Pigs for Pork","Average Pig Carcass Weight (Kg)",75
+"104","1998","Pigs for Pork","Average Pig Carcass Weight (Kg)",74
+"105","1999","Pigs for Pork","Average Pig Carcass Weight (Kg)",73
+"106","2000","Pigs for Pork","Average Pig Carcass Weight (Kg)",73
+"107","2001","Pigs for Pork","Average Pig Carcass Weight (Kg)",74
+"108","2002","Pigs for Pork","Average Pig Carcass Weight (Kg)",74

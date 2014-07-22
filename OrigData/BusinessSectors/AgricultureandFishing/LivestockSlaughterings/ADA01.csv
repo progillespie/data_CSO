@@ -1,0 +1,507 @@
+"","Statistic","Year","Type.of.Animal","value"
+"1","Number of Animals Slaughtered (000 Head)","1980","Cattle without Calves",1667.4
+"2","Weight of Animals Slaughtered (000 Tonnes)","1980","Cattle without Calves",NA
+"3","Number of Animals Slaughtered (000 Head)","1981","Cattle without Calves",1185.3
+"4","Weight of Animals Slaughtered (000 Tonnes)","1981","Cattle without Calves",NA
+"5","Number of Animals Slaughtered (000 Head)","1982","Cattle without Calves",1235.6
+"6","Weight of Animals Slaughtered (000 Tonnes)","1982","Cattle without Calves",NA
+"7","Number of Animals Slaughtered (000 Head)","1983","Cattle without Calves",1259.9
+"8","Weight of Animals Slaughtered (000 Tonnes)","1983","Cattle without Calves",NA
+"9","Number of Animals Slaughtered (000 Head)","1984","Cattle without Calves",1396.3
+"10","Weight of Animals Slaughtered (000 Tonnes)","1984","Cattle without Calves",NA
+"11","Number of Animals Slaughtered (000 Head)","1985","Cattle without Calves",1518.5
+"12","Weight of Animals Slaughtered (000 Tonnes)","1985","Cattle without Calves",NA
+"13","Number of Animals Slaughtered (000 Head)","1986","Cattle without Calves",1696.3
+"14","Weight of Animals Slaughtered (000 Tonnes)","1986","Cattle without Calves",NA
+"15","Number of Animals Slaughtered (000 Head)","1987","Cattle without Calves",1588.3
+"16","Weight of Animals Slaughtered (000 Tonnes)","1987","Cattle without Calves",NA
+"17","Number of Animals Slaughtered (000 Head)","1988","Cattle without Calves",1454.2
+"18","Weight of Animals Slaughtered (000 Tonnes)","1988","Cattle without Calves",NA
+"19","Number of Animals Slaughtered (000 Head)","1989","Cattle without Calves",1369.7
+"20","Weight of Animals Slaughtered (000 Tonnes)","1989","Cattle without Calves",NA
+"21","Number of Animals Slaughtered (000 Head)","1990","Cattle without Calves",1578.5
+"22","Weight of Animals Slaughtered (000 Tonnes)","1990","Cattle without Calves",NA
+"23","Number of Animals Slaughtered (000 Head)","1991","Cattle without Calves",1710.6
+"24","Weight of Animals Slaughtered (000 Tonnes)","1991","Cattle without Calves",554.3
+"25","Number of Animals Slaughtered (000 Head)","1992","Cattle without Calves",1712.5
+"26","Weight of Animals Slaughtered (000 Tonnes)","1992","Cattle without Calves",565.9
+"27","Number of Animals Slaughtered (000 Head)","1993","Cattle without Calves",1600
+"28","Weight of Animals Slaughtered (000 Tonnes)","1993","Cattle without Calves",526.3
+"29","Number of Animals Slaughtered (000 Head)","1994","Cattle without Calves",1435.8
+"30","Weight of Animals Slaughtered (000 Tonnes)","1994","Cattle without Calves",445.9
+"31","Number of Animals Slaughtered (000 Head)","1995","Cattle without Calves",1514
+"32","Weight of Animals Slaughtered (000 Tonnes)","1995","Cattle without Calves",488.2
+"33","Number of Animals Slaughtered (000 Head)","1996","Cattle without Calves",1647.1
+"34","Weight of Animals Slaughtered (000 Tonnes)","1996","Cattle without Calves",544.3
+"35","Number of Animals Slaughtered (000 Head)","1997","Cattle without Calves",1778.7
+"36","Weight of Animals Slaughtered (000 Tonnes)","1997","Cattle without Calves",575
+"37","Number of Animals Slaughtered (000 Head)","1998","Cattle without Calves",1914.9
+"38","Weight of Animals Slaughtered (000 Tonnes)","1998","Cattle without Calves",601.1
+"39","Number of Animals Slaughtered (000 Head)","1999","Cattle without Calves",2109.9
+"40","Weight of Animals Slaughtered (000 Tonnes)","1999","Cattle without Calves",642.4
+"41","Number of Animals Slaughtered (000 Head)","2000","Cattle without Calves",1881.6
+"42","Weight of Animals Slaughtered (000 Tonnes)","2000","Cattle without Calves",576.5
+"43","Number of Animals Slaughtered (000 Head)","2001","Cattle without Calves",1889.5
+"44","Weight of Animals Slaughtered (000 Tonnes)","2001","Cattle without Calves",578.9
+"45","Number of Animals Slaughtered (000 Head)","2002","Cattle without Calves",1775.8
+"46","Weight of Animals Slaughtered (000 Tonnes)","2002","Cattle without Calves",539.5
+"47","Number of Animals Slaughtered (000 Head)","1980","Bullocks",732.8
+"48","Weight of Animals Slaughtered (000 Tonnes)","1980","Bullocks",NA
+"49","Number of Animals Slaughtered (000 Head)","1981","Bullocks",474.8
+"50","Weight of Animals Slaughtered (000 Tonnes)","1981","Bullocks",NA
+"51","Number of Animals Slaughtered (000 Head)","1982","Bullocks",574.5
+"52","Weight of Animals Slaughtered (000 Tonnes)","1982","Bullocks",NA
+"53","Number of Animals Slaughtered (000 Head)","1983","Bullocks",551.8
+"54","Weight of Animals Slaughtered (000 Tonnes)","1983","Bullocks",NA
+"55","Number of Animals Slaughtered (000 Head)","1984","Bullocks",661.8
+"56","Weight of Animals Slaughtered (000 Tonnes)","1984","Bullocks",NA
+"57","Number of Animals Slaughtered (000 Head)","1985","Bullocks",748.3
+"58","Weight of Animals Slaughtered (000 Tonnes)","1985","Bullocks",NA
+"59","Number of Animals Slaughtered (000 Head)","1986","Bullocks",923.3
+"60","Weight of Animals Slaughtered (000 Tonnes)","1986","Bullocks",NA
+"61","Number of Animals Slaughtered (000 Head)","1987","Bullocks",845.6
+"62","Weight of Animals Slaughtered (000 Tonnes)","1987","Bullocks",NA
+"63","Number of Animals Slaughtered (000 Head)","1988","Bullocks",856.4
+"64","Weight of Animals Slaughtered (000 Tonnes)","1988","Bullocks",NA
+"65","Number of Animals Slaughtered (000 Head)","1989","Bullocks",767.4
+"66","Weight of Animals Slaughtered (000 Tonnes)","1989","Bullocks",NA
+"67","Number of Animals Slaughtered (000 Head)","1990","Bullocks",881.4
+"68","Weight of Animals Slaughtered (000 Tonnes)","1990","Bullocks",NA
+"69","Number of Animals Slaughtered (000 Head)","1991","Bullocks",923.2
+"70","Weight of Animals Slaughtered (000 Tonnes)","1991","Bullocks",336.7
+"71","Number of Animals Slaughtered (000 Head)","1992","Bullocks",925.5
+"72","Weight of Animals Slaughtered (000 Tonnes)","1992","Bullocks",343.5
+"73","Number of Animals Slaughtered (000 Head)","1993","Bullocks",813.3
+"74","Weight of Animals Slaughtered (000 Tonnes)","1993","Bullocks",304.5
+"75","Number of Animals Slaughtered (000 Head)","1994","Bullocks",631.3
+"76","Weight of Animals Slaughtered (000 Tonnes)","1994","Bullocks",226.2
+"77","Number of Animals Slaughtered (000 Head)","1995","Bullocks",664.5
+"78","Weight of Animals Slaughtered (000 Tonnes)","1995","Bullocks",243.5
+"79","Number of Animals Slaughtered (000 Head)","1996","Bullocks",841.6
+"80","Weight of Animals Slaughtered (000 Tonnes)","1996","Bullocks",308.7
+"81","Number of Animals Slaughtered (000 Head)","1997","Bullocks",951.2
+"82","Weight of Animals Slaughtered (000 Tonnes)","1997","Bullocks",334.2
+"83","Number of Animals Slaughtered (000 Head)","1998","Bullocks",992.4
+"84","Weight of Animals Slaughtered (000 Tonnes)","1998","Bullocks",340.6
+"85","Number of Animals Slaughtered (000 Head)","1999","Bullocks",1060.5
+"86","Weight of Animals Slaughtered (000 Tonnes)","1999","Bullocks",356.8
+"87","Number of Animals Slaughtered (000 Head)","2000","Bullocks",899
+"88","Weight of Animals Slaughtered (000 Tonnes)","2000","Bullocks",305.8
+"89","Number of Animals Slaughtered (000 Head)","2001","Bullocks",953.3
+"90","Weight of Animals Slaughtered (000 Tonnes)","2001","Bullocks",318.7
+"91","Number of Animals Slaughtered (000 Head)","2002","Bullocks",867.4
+"92","Weight of Animals Slaughtered (000 Tonnes)","2002","Bullocks",290
+"93","Number of Animals Slaughtered (000 Head)","1980","Bulls",0
+"94","Weight of Animals Slaughtered (000 Tonnes)","1980","Bulls",NA
+"95","Number of Animals Slaughtered (000 Head)","1981","Bulls",14
+"96","Weight of Animals Slaughtered (000 Tonnes)","1981","Bulls",NA
+"97","Number of Animals Slaughtered (000 Head)","1982","Bulls",15
+"98","Weight of Animals Slaughtered (000 Tonnes)","1982","Bulls",NA
+"99","Number of Animals Slaughtered (000 Head)","1983","Bulls",4.4
+"100","Weight of Animals Slaughtered (000 Tonnes)","1983","Bulls",NA
+"101","Number of Animals Slaughtered (000 Head)","1984","Bulls",16.7
+"102","Weight of Animals Slaughtered (000 Tonnes)","1984","Bulls",NA
+"103","Number of Animals Slaughtered (000 Head)","1985","Bulls",11.4
+"104","Weight of Animals Slaughtered (000 Tonnes)","1985","Bulls",NA
+"105","Number of Animals Slaughtered (000 Head)","1986","Bulls",14.2
+"106","Weight of Animals Slaughtered (000 Tonnes)","1986","Bulls",NA
+"107","Number of Animals Slaughtered (000 Head)","1987","Bulls",12.9
+"108","Weight of Animals Slaughtered (000 Tonnes)","1987","Bulls",NA
+"109","Number of Animals Slaughtered (000 Head)","1988","Bulls",11.9
+"110","Weight of Animals Slaughtered (000 Tonnes)","1988","Bulls",NA
+"111","Number of Animals Slaughtered (000 Head)","1989","Bulls",12.7
+"112","Weight of Animals Slaughtered (000 Tonnes)","1989","Bulls",NA
+"113","Number of Animals Slaughtered (000 Head)","1990","Bulls",14
+"114","Weight of Animals Slaughtered (000 Tonnes)","1990","Bulls",NA
+"115","Number of Animals Slaughtered (000 Head)","1991","Bulls",12
+"116","Weight of Animals Slaughtered (000 Tonnes)","1991","Bulls",5
+"117","Number of Animals Slaughtered (000 Head)","1992","Bulls",13.9
+"118","Weight of Animals Slaughtered (000 Tonnes)","1992","Bulls",6
+"119","Number of Animals Slaughtered (000 Head)","1993","Bulls",15
+"120","Weight of Animals Slaughtered (000 Tonnes)","1993","Bulls",6.4
+"121","Number of Animals Slaughtered (000 Head)","1994","Bulls",18.5
+"122","Weight of Animals Slaughtered (000 Tonnes)","1994","Bulls",7.4
+"123","Number of Animals Slaughtered (000 Head)","1995","Bulls",27.1
+"124","Weight of Animals Slaughtered (000 Tonnes)","1995","Bulls",10.7
+"125","Number of Animals Slaughtered (000 Head)","1996","Bulls",33.5
+"126","Weight of Animals Slaughtered (000 Tonnes)","1996","Bulls",13
+"127","Number of Animals Slaughtered (000 Head)","1997","Bulls",32.7
+"128","Weight of Animals Slaughtered (000 Tonnes)","1997","Bulls",12.9
+"129","Number of Animals Slaughtered (000 Head)","1998","Bulls",22.4
+"130","Weight of Animals Slaughtered (000 Tonnes)","1998","Bulls",9
+"131","Number of Animals Slaughtered (000 Head)","1999","Bulls",35.6
+"132","Weight of Animals Slaughtered (000 Tonnes)","1999","Bulls",13.7
+"133","Number of Animals Slaughtered (000 Head)","2000","Bulls",60.6
+"134","Weight of Animals Slaughtered (000 Tonnes)","2000","Bulls",21.8
+"135","Number of Animals Slaughtered (000 Head)","2001","Bulls",81.5
+"136","Weight of Animals Slaughtered (000 Tonnes)","2001","Bulls",28.8
+"137","Number of Animals Slaughtered (000 Head)","2002","Bulls",58.3
+"138","Weight of Animals Slaughtered (000 Tonnes)","2002","Bulls",21.2
+"139","Number of Animals Slaughtered (000 Head)","1980","Cows",491.4
+"140","Weight of Animals Slaughtered (000 Tonnes)","1980","Cows",NA
+"141","Number of Animals Slaughtered (000 Head)","1981","Cows",340.5
+"142","Weight of Animals Slaughtered (000 Tonnes)","1981","Cows",NA
+"143","Number of Animals Slaughtered (000 Head)","1982","Cows",305.2
+"144","Weight of Animals Slaughtered (000 Tonnes)","1982","Cows",NA
+"145","Number of Animals Slaughtered (000 Head)","1983","Cows",315.8
+"146","Weight of Animals Slaughtered (000 Tonnes)","1983","Cows",NA
+"147","Number of Animals Slaughtered (000 Head)","1984","Cows",329.1
+"148","Weight of Animals Slaughtered (000 Tonnes)","1984","Cows",NA
+"149","Number of Animals Slaughtered (000 Head)","1985","Cows",341.7
+"150","Weight of Animals Slaughtered (000 Tonnes)","1985","Cows",NA
+"151","Number of Animals Slaughtered (000 Head)","1986","Cows",359.7
+"152","Weight of Animals Slaughtered (000 Tonnes)","1986","Cows",NA
+"153","Number of Animals Slaughtered (000 Head)","1987","Cows",315.5
+"154","Weight of Animals Slaughtered (000 Tonnes)","1987","Cows",NA
+"155","Number of Animals Slaughtered (000 Head)","1988","Cows",240.4
+"156","Weight of Animals Slaughtered (000 Tonnes)","1988","Cows",NA
+"157","Number of Animals Slaughtered (000 Head)","1989","Cows",240.1
+"158","Weight of Animals Slaughtered (000 Tonnes)","1989","Cows",NA
+"159","Number of Animals Slaughtered (000 Head)","1990","Cows",269
+"160","Weight of Animals Slaughtered (000 Tonnes)","1990","Cows",NA
+"161","Number of Animals Slaughtered (000 Head)","1991","Cows",314.3
+"162","Weight of Animals Slaughtered (000 Tonnes)","1991","Cows",87.6
+"163","Number of Animals Slaughtered (000 Head)","1992","Cows",279.2
+"164","Weight of Animals Slaughtered (000 Tonnes)","1992","Cows",80.4
+"165","Number of Animals Slaughtered (000 Head)","1993","Cows",305.7
+"166","Weight of Animals Slaughtered (000 Tonnes)","1993","Cows",86.9
+"167","Number of Animals Slaughtered (000 Head)","1994","Cows",325.7
+"168","Weight of Animals Slaughtered (000 Tonnes)","1994","Cows",88.5
+"169","Number of Animals Slaughtered (000 Head)","1995","Cows",335.6
+"170","Weight of Animals Slaughtered (000 Tonnes)","1995","Cows",92.5
+"171","Number of Animals Slaughtered (000 Head)","1996","Cows",326.9
+"172","Weight of Animals Slaughtered (000 Tonnes)","1996","Cows",92.7
+"173","Number of Animals Slaughtered (000 Head)","1997","Cows",327
+"174","Weight of Animals Slaughtered (000 Tonnes)","1997","Cows",93.2
+"175","Number of Animals Slaughtered (000 Head)","1998","Cows",391.1
+"176","Weight of Animals Slaughtered (000 Tonnes)","1998","Cows",108.8
+"177","Number of Animals Slaughtered (000 Head)","1999","Cows",414.9
+"178","Weight of Animals Slaughtered (000 Tonnes)","1999","Cows",115.8
+"179","Number of Animals Slaughtered (000 Head)","2000","Cows",359.3
+"180","Weight of Animals Slaughtered (000 Tonnes)","2000","Cows",102.9
+"181","Number of Animals Slaughtered (000 Head)","2001","Cows",366
+"182","Weight of Animals Slaughtered (000 Tonnes)","2001","Cows",105.9
+"183","Number of Animals Slaughtered (000 Head)","2002","Cows",323.2
+"184","Weight of Animals Slaughtered (000 Tonnes)","2002","Cows",91.9
+"185","Number of Animals Slaughtered (000 Head)","1980","Heifers",426.1
+"186","Weight of Animals Slaughtered (000 Tonnes)","1980","Heifers",NA
+"187","Number of Animals Slaughtered (000 Head)","1981","Heifers",356
+"188","Weight of Animals Slaughtered (000 Tonnes)","1981","Heifers",NA
+"189","Number of Animals Slaughtered (000 Head)","1982","Heifers",340.9
+"190","Weight of Animals Slaughtered (000 Tonnes)","1982","Heifers",NA
+"191","Number of Animals Slaughtered (000 Head)","1983","Heifers",387.9
+"192","Weight of Animals Slaughtered (000 Tonnes)","1983","Heifers",NA
+"193","Number of Animals Slaughtered (000 Head)","1984","Heifers",388.7
+"194","Weight of Animals Slaughtered (000 Tonnes)","1984","Heifers",NA
+"195","Number of Animals Slaughtered (000 Head)","1985","Heifers",417.1
+"196","Weight of Animals Slaughtered (000 Tonnes)","1985","Heifers",NA
+"197","Number of Animals Slaughtered (000 Head)","1986","Heifers",399.1
+"198","Weight of Animals Slaughtered (000 Tonnes)","1986","Heifers",NA
+"199","Number of Animals Slaughtered (000 Head)","1987","Heifers",414.3
+"200","Weight of Animals Slaughtered (000 Tonnes)","1987","Heifers",NA
+"201","Number of Animals Slaughtered (000 Head)","1988","Heifers",345.5
+"202","Weight of Animals Slaughtered (000 Tonnes)","1988","Heifers",NA
+"203","Number of Animals Slaughtered (000 Head)","1989","Heifers",349.5
+"204","Weight of Animals Slaughtered (000 Tonnes)","1989","Heifers",NA
+"205","Number of Animals Slaughtered (000 Head)","1990","Heifers",414.1
+"206","Weight of Animals Slaughtered (000 Tonnes)","1990","Heifers",NA
+"207","Number of Animals Slaughtered (000 Head)","1991","Heifers",461.1
+"208","Weight of Animals Slaughtered (000 Tonnes)","1991","Heifers",124.9
+"209","Number of Animals Slaughtered (000 Head)","1992","Heifers",493.9
+"210","Weight of Animals Slaughtered (000 Tonnes)","1992","Heifers",135.9
+"211","Number of Animals Slaughtered (000 Head)","1993","Heifers",466
+"212","Weight of Animals Slaughtered (000 Tonnes)","1993","Heifers",128.5
+"213","Number of Animals Slaughtered (000 Head)","1994","Heifers",460.3
+"214","Weight of Animals Slaughtered (000 Tonnes)","1994","Heifers",123.9
+"215","Number of Animals Slaughtered (000 Head)","1995","Heifers",486.9
+"216","Weight of Animals Slaughtered (000 Tonnes)","1995","Heifers",141.5
+"217","Number of Animals Slaughtered (000 Head)","1996","Heifers",445.1
+"218","Weight of Animals Slaughtered (000 Tonnes)","1996","Heifers",130
+"219","Number of Animals Slaughtered (000 Head)","1997","Heifers",467.7
+"220","Weight of Animals Slaughtered (000 Tonnes)","1997","Heifers",134.6
+"221","Number of Animals Slaughtered (000 Head)","1998","Heifers",508.9
+"222","Weight of Animals Slaughtered (000 Tonnes)","1998","Heifers",142.8
+"223","Number of Animals Slaughtered (000 Head)","1999","Heifers",599
+"224","Weight of Animals Slaughtered (000 Tonnes)","1999","Heifers",156.1
+"225","Number of Animals Slaughtered (000 Head)","2000","Heifers",562.7
+"226","Weight of Animals Slaughtered (000 Tonnes)","2000","Heifers",146
+"227","Number of Animals Slaughtered (000 Head)","2001","Heifers",488.8
+"228","Weight of Animals Slaughtered (000 Tonnes)","2001","Heifers",125.5
+"229","Number of Animals Slaughtered (000 Head)","2002","Heifers",526.9
+"230","Weight of Animals Slaughtered (000 Tonnes)","2002","Heifers",136.3
+"231","Number of Animals Slaughtered (000 Head)","1980","Calves",7.3
+"232","Weight of Animals Slaughtered (000 Tonnes)","1980","Calves",NA
+"233","Number of Animals Slaughtered (000 Head)","1981","Calves",6.1
+"234","Weight of Animals Slaughtered (000 Tonnes)","1981","Calves",NA
+"235","Number of Animals Slaughtered (000 Head)","1982","Calves",7.6
+"236","Weight of Animals Slaughtered (000 Tonnes)","1982","Calves",NA
+"237","Number of Animals Slaughtered (000 Head)","1983","Calves",6.1
+"238","Weight of Animals Slaughtered (000 Tonnes)","1983","Calves",NA
+"239","Number of Animals Slaughtered (000 Head)","1984","Calves",7.5
+"240","Weight of Animals Slaughtered (000 Tonnes)","1984","Calves",NA
+"241","Number of Animals Slaughtered (000 Head)","1985","Calves",3.1
+"242","Weight of Animals Slaughtered (000 Tonnes)","1985","Calves",NA
+"243","Number of Animals Slaughtered (000 Head)","1986","Calves",3.8
+"244","Weight of Animals Slaughtered (000 Tonnes)","1986","Calves",NA
+"245","Number of Animals Slaughtered (000 Head)","1987","Calves",3.5
+"246","Weight of Animals Slaughtered (000 Tonnes)","1987","Calves",NA
+"247","Number of Animals Slaughtered (000 Head)","1988","Calves",2.2
+"248","Weight of Animals Slaughtered (000 Tonnes)","1988","Calves",NA
+"249","Number of Animals Slaughtered (000 Head)","1989","Calves",2.3
+"250","Weight of Animals Slaughtered (000 Tonnes)","1989","Calves",NA
+"251","Number of Animals Slaughtered (000 Head)","1990","Calves",2.8
+"252","Weight of Animals Slaughtered (000 Tonnes)","1990","Calves",NA
+"253","Number of Animals Slaughtered (000 Head)","1991","Calves",2.7
+"254","Weight of Animals Slaughtered (000 Tonnes)","1991","Calves",0.3
+"255","Number of Animals Slaughtered (000 Head)","1992","Calves",1.1
+"256","Weight of Animals Slaughtered (000 Tonnes)","1992","Calves",0.1
+"257","Number of Animals Slaughtered (000 Head)","1993","Calves",0.4
+"258","Weight of Animals Slaughtered (000 Tonnes)","1993","Calves",0
+"259","Number of Animals Slaughtered (000 Head)","1994","Calves",0.7
+"260","Weight of Animals Slaughtered (000 Tonnes)","1994","Calves",0.1
+"261","Number of Animals Slaughtered (000 Head)","1995","Calves",0.2
+"262","Weight of Animals Slaughtered (000 Tonnes)","1995","Calves",0
+"263","Number of Animals Slaughtered (000 Head)","1996","Calves",2.7
+"264","Weight of Animals Slaughtered (000 Tonnes)","1996","Calves",0.3
+"265","Number of Animals Slaughtered (000 Head)","1997","Calves",21.5
+"266","Weight of Animals Slaughtered (000 Tonnes)","1997","Calves",1.3
+"267","Number of Animals Slaughtered (000 Head)","1998","Calves",7
+"268","Weight of Animals Slaughtered (000 Tonnes)","1998","Calves",0.6
+"269","Number of Animals Slaughtered (000 Head)","1999","Calves",22.9
+"270","Weight of Animals Slaughtered (000 Tonnes)","1999","Calves",1.4
+"271","Number of Animals Slaughtered (000 Head)","2000","Calves",4.2
+"272","Weight of Animals Slaughtered (000 Tonnes)","2000","Calves",0.5
+"273","Number of Animals Slaughtered (000 Head)","2001","Calves",3.8
+"274","Weight of Animals Slaughtered (000 Tonnes)","2001","Calves",0.4
+"275","Number of Animals Slaughtered (000 Head)","2002","Calves",5.9
+"276","Weight of Animals Slaughtered (000 Tonnes)","2002","Calves",1
+"277","Number of Animals Slaughtered (000 Head)","1980","Cattle (Including Calves)",1674.7
+"278","Weight of Animals Slaughtered (000 Tonnes)","1980","Cattle (Including Calves)",NA
+"279","Number of Animals Slaughtered (000 Head)","1981","Cattle (Including Calves)",1191.4
+"280","Weight of Animals Slaughtered (000 Tonnes)","1981","Cattle (Including Calves)",NA
+"281","Number of Animals Slaughtered (000 Head)","1982","Cattle (Including Calves)",1243.2
+"282","Weight of Animals Slaughtered (000 Tonnes)","1982","Cattle (Including Calves)",NA
+"283","Number of Animals Slaughtered (000 Head)","1983","Cattle (Including Calves)",1266
+"284","Weight of Animals Slaughtered (000 Tonnes)","1983","Cattle (Including Calves)",NA
+"285","Number of Animals Slaughtered (000 Head)","1984","Cattle (Including Calves)",1403.8
+"286","Weight of Animals Slaughtered (000 Tonnes)","1984","Cattle (Including Calves)",NA
+"287","Number of Animals Slaughtered (000 Head)","1985","Cattle (Including Calves)",1521.6
+"288","Weight of Animals Slaughtered (000 Tonnes)","1985","Cattle (Including Calves)",NA
+"289","Number of Animals Slaughtered (000 Head)","1986","Cattle (Including Calves)",1700.1
+"290","Weight of Animals Slaughtered (000 Tonnes)","1986","Cattle (Including Calves)",NA
+"291","Number of Animals Slaughtered (000 Head)","1987","Cattle (Including Calves)",1591.8
+"292","Weight of Animals Slaughtered (000 Tonnes)","1987","Cattle (Including Calves)",NA
+"293","Number of Animals Slaughtered (000 Head)","1988","Cattle (Including Calves)",1456.4
+"294","Weight of Animals Slaughtered (000 Tonnes)","1988","Cattle (Including Calves)",NA
+"295","Number of Animals Slaughtered (000 Head)","1989","Cattle (Including Calves)",1372
+"296","Weight of Animals Slaughtered (000 Tonnes)","1989","Cattle (Including Calves)",NA
+"297","Number of Animals Slaughtered (000 Head)","1990","Cattle (Including Calves)",1581.3
+"298","Weight of Animals Slaughtered (000 Tonnes)","1990","Cattle (Including Calves)",NA
+"299","Number of Animals Slaughtered (000 Head)","1991","Cattle (Including Calves)",1713.3
+"300","Weight of Animals Slaughtered (000 Tonnes)","1991","Cattle (Including Calves)",554.6
+"301","Number of Animals Slaughtered (000 Head)","1992","Cattle (Including Calves)",1713.5
+"302","Weight of Animals Slaughtered (000 Tonnes)","1992","Cattle (Including Calves)",566
+"303","Number of Animals Slaughtered (000 Head)","1993","Cattle (Including Calves)",1600.4
+"304","Weight of Animals Slaughtered (000 Tonnes)","1993","Cattle (Including Calves)",526.3
+"305","Number of Animals Slaughtered (000 Head)","1994","Cattle (Including Calves)",1436.5
+"306","Weight of Animals Slaughtered (000 Tonnes)","1994","Cattle (Including Calves)",446
+"307","Number of Animals Slaughtered (000 Head)","1995","Cattle (Including Calves)",1514.2
+"308","Weight of Animals Slaughtered (000 Tonnes)","1995","Cattle (Including Calves)",488.2
+"309","Number of Animals Slaughtered (000 Head)","1996","Cattle (Including Calves)",1649.8
+"310","Weight of Animals Slaughtered (000 Tonnes)","1996","Cattle (Including Calves)",544.6
+"311","Number of Animals Slaughtered (000 Head)","1997","Cattle (Including Calves)",1800.1
+"312","Weight of Animals Slaughtered (000 Tonnes)","1997","Cattle (Including Calves)",576.3
+"313","Number of Animals Slaughtered (000 Head)","1998","Cattle (Including Calves)",1921.9
+"314","Weight of Animals Slaughtered (000 Tonnes)","1998","Cattle (Including Calves)",601.7
+"315","Number of Animals Slaughtered (000 Head)","1999","Cattle (Including Calves)",2132.9
+"316","Weight of Animals Slaughtered (000 Tonnes)","1999","Cattle (Including Calves)",643.8
+"317","Number of Animals Slaughtered (000 Head)","2000","Cattle (Including Calves)",1885.8
+"318","Weight of Animals Slaughtered (000 Tonnes)","2000","Cattle (Including Calves)",576.9
+"319","Number of Animals Slaughtered (000 Head)","2001","Cattle (Including Calves)",1893.2
+"320","Weight of Animals Slaughtered (000 Tonnes)","2001","Cattle (Including Calves)",579.3
+"321","Number of Animals Slaughtered (000 Head)","2002","Cattle (Including Calves)",1781.7
+"322","Weight of Animals Slaughtered (000 Tonnes)","2002","Cattle (Including Calves)",540.1
+"323","Number of Animals Slaughtered (000 Head)","1980","Pigs",2385.2
+"324","Weight of Animals Slaughtered (000 Tonnes)","1980","Pigs",NA
+"325","Number of Animals Slaughtered (000 Head)","1981","Pigs",2353.1
+"326","Weight of Animals Slaughtered (000 Tonnes)","1981","Pigs",NA
+"327","Number of Animals Slaughtered (000 Head)","1982","Pigs",2381
+"328","Weight of Animals Slaughtered (000 Tonnes)","1982","Pigs",NA
+"329","Number of Animals Slaughtered (000 Head)","1983","Pigs",2519.9
+"330","Weight of Animals Slaughtered (000 Tonnes)","1983","Pigs",NA
+"331","Number of Animals Slaughtered (000 Head)","1984","Pigs",2224.5
+"332","Weight of Animals Slaughtered (000 Tonnes)","1984","Pigs",NA
+"333","Number of Animals Slaughtered (000 Head)","1985","Pigs",2118.8
+"334","Weight of Animals Slaughtered (000 Tonnes)","1985","Pigs",NA
+"335","Number of Animals Slaughtered (000 Head)","1986","Pigs",2178.4
+"336","Weight of Animals Slaughtered (000 Tonnes)","1986","Pigs",NA
+"337","Number of Animals Slaughtered (000 Head)","1987","Pigs",2246
+"338","Weight of Animals Slaughtered (000 Tonnes)","1987","Pigs",NA
+"339","Number of Animals Slaughtered (000 Head)","1988","Pigs",2294.8
+"340","Weight of Animals Slaughtered (000 Tonnes)","1988","Pigs",NA
+"341","Number of Animals Slaughtered (000 Head)","1989","Pigs",2227.8
+"342","Weight of Animals Slaughtered (000 Tonnes)","1989","Pigs",NA
+"343","Number of Animals Slaughtered (000 Head)","1990","Pigs",2375.3
+"344","Weight of Animals Slaughtered (000 Tonnes)","1990","Pigs",NA
+"345","Number of Animals Slaughtered (000 Head)","1991","Pigs",2688.4
+"346","Weight of Animals Slaughtered (000 Tonnes)","1991","Pigs",179.6
+"347","Number of Animals Slaughtered (000 Head)","1992","Pigs",2964.4
+"348","Weight of Animals Slaughtered (000 Tonnes)","1992","Pigs",202.3
+"349","Number of Animals Slaughtered (000 Head)","1993","Pigs",3070.1
+"350","Weight of Animals Slaughtered (000 Tonnes)","1993","Pigs",212
+"351","Number of Animals Slaughtered (000 Head)","1994","Pigs",3086.1
+"352","Weight of Animals Slaughtered (000 Tonnes)","1994","Pigs",214.8
+"353","Number of Animals Slaughtered (000 Head)","1995","Pigs",3002.6
+"354","Weight of Animals Slaughtered (000 Tonnes)","1995","Pigs",211.2
+"355","Number of Animals Slaughtered (000 Head)","1996","Pigs",2926.6
+"356","Weight of Animals Slaughtered (000 Tonnes)","1996","Pigs",210.7
+"357","Number of Animals Slaughtered (000 Head)","1997","Pigs",3065.4
+"358","Weight of Animals Slaughtered (000 Tonnes)","1997","Pigs",219.9
+"359","Number of Animals Slaughtered (000 Head)","1998","Pigs",3391.6
+"360","Weight of Animals Slaughtered (000 Tonnes)","1998","Pigs",241.6
+"361","Number of Animals Slaughtered (000 Head)","1999","Pigs",3487.7
+"362","Weight of Animals Slaughtered (000 Tonnes)","1999","Pigs",249.7
+"363","Number of Animals Slaughtered (000 Head)","2000","Pigs",3151.1
+"364","Weight of Animals Slaughtered (000 Tonnes)","2000","Pigs",230.1
+"365","Number of Animals Slaughtered (000 Head)","2001","Pigs",3254.7
+"366","Weight of Animals Slaughtered (000 Tonnes)","2001","Pigs",239.7
+"367","Number of Animals Slaughtered (000 Head)","2002","Pigs",3109.4
+"368","Weight of Animals Slaughtered (000 Tonnes)","2002","Pigs",229.8
+"369","Number of Animals Slaughtered (000 Head)","1980","Sheep",1775.3
+"370","Weight of Animals Slaughtered (000 Tonnes)","1980","Sheep",NA
+"371","Number of Animals Slaughtered (000 Head)","1981","Sheep",1811
+"372","Weight of Animals Slaughtered (000 Tonnes)","1981","Sheep",NA
+"373","Number of Animals Slaughtered (000 Head)","1982","Sheep",1692.6
+"374","Weight of Animals Slaughtered (000 Tonnes)","1982","Sheep",NA
+"375","Number of Animals Slaughtered (000 Head)","1983","Sheep",1623.6
+"376","Weight of Animals Slaughtered (000 Tonnes)","1983","Sheep",NA
+"377","Number of Animals Slaughtered (000 Head)","1984","Sheep",1682.9
+"378","Weight of Animals Slaughtered (000 Tonnes)","1984","Sheep",NA
+"379","Number of Animals Slaughtered (000 Head)","1985","Sheep",2081.3
+"380","Weight of Animals Slaughtered (000 Tonnes)","1985","Sheep",NA
+"381","Number of Animals Slaughtered (000 Head)","1986","Sheep",2000
+"382","Weight of Animals Slaughtered (000 Tonnes)","1986","Sheep",NA
+"383","Number of Animals Slaughtered (000 Head)","1987","Sheep",2069.7
+"384","Weight of Animals Slaughtered (000 Tonnes)","1987","Sheep",NA
+"385","Number of Animals Slaughtered (000 Head)","1988","Sheep",2138.8
+"386","Weight of Animals Slaughtered (000 Tonnes)","1988","Sheep",NA
+"387","Number of Animals Slaughtered (000 Head)","1989","Sheep",2848.2
+"388","Weight of Animals Slaughtered (000 Tonnes)","1989","Sheep",NA
+"389","Number of Animals Slaughtered (000 Head)","1990","Sheep",3887.1
+"390","Weight of Animals Slaughtered (000 Tonnes)","1990","Sheep",NA
+"391","Number of Animals Slaughtered (000 Head)","1991","Sheep",4216.2
+"392","Weight of Animals Slaughtered (000 Tonnes)","1991","Sheep",88
+"393","Number of Animals Slaughtered (000 Head)","1992","Sheep",4357.4
+"394","Weight of Animals Slaughtered (000 Tonnes)","1992","Sheep",90.8
+"395","Number of Animals Slaughtered (000 Head)","1993","Sheep",4700.4
+"396","Weight of Animals Slaughtered (000 Tonnes)","1993","Sheep",94.3
+"397","Number of Animals Slaughtered (000 Head)","1994","Sheep",4420.5
+"398","Weight of Animals Slaughtered (000 Tonnes)","1994","Sheep",89.9
+"399","Number of Animals Slaughtered (000 Head)","1995","Sheep",4298.2
+"400","Weight of Animals Slaughtered (000 Tonnes)","1995","Sheep",87.4
+"401","Number of Animals Slaughtered (000 Head)","1996","Sheep",4368
+"402","Weight of Animals Slaughtered (000 Tonnes)","1996","Sheep",88.4
+"403","Number of Animals Slaughtered (000 Head)","1997","Sheep",3768.2
+"404","Weight of Animals Slaughtered (000 Tonnes)","1997","Sheep",75.4
+"405","Number of Animals Slaughtered (000 Head)","1998","Sheep",4325.2
+"406","Weight of Animals Slaughtered (000 Tonnes)","1998","Sheep",86.5
+"407","Number of Animals Slaughtered (000 Head)","1999","Sheep",4523.2
+"408","Weight of Animals Slaughtered (000 Tonnes)","1999","Sheep",90.3
+"409","Number of Animals Slaughtered (000 Head)","2000","Sheep",4116.7
+"410","Weight of Animals Slaughtered (000 Tonnes)","2000","Sheep",82.8
+"411","Number of Animals Slaughtered (000 Head)","2001","Sheep",3903
+"412","Weight of Animals Slaughtered (000 Tonnes)","2001","Sheep",77.9
+"413","Number of Animals Slaughtered (000 Head)","2002","Sheep",3307.4
+"414","Weight of Animals Slaughtered (000 Tonnes)","2002","Sheep",66.6
+"415","Number of Animals Slaughtered (000 Head)","1980","Lambs",1445
+"416","Weight of Animals Slaughtered (000 Tonnes)","1980","Lambs",NA
+"417","Number of Animals Slaughtered (000 Head)","1981","Lambs",1468.8
+"418","Weight of Animals Slaughtered (000 Tonnes)","1981","Lambs",NA
+"419","Number of Animals Slaughtered (000 Head)","1982","Lambs",1366.2
+"420","Weight of Animals Slaughtered (000 Tonnes)","1982","Lambs",NA
+"421","Number of Animals Slaughtered (000 Head)","1983","Lambs",1286.3
+"422","Weight of Animals Slaughtered (000 Tonnes)","1983","Lambs",NA
+"423","Number of Animals Slaughtered (000 Head)","1984","Lambs",1311.1
+"424","Weight of Animals Slaughtered (000 Tonnes)","1984","Lambs",NA
+"425","Number of Animals Slaughtered (000 Head)","1985","Lambs",1690.7
+"426","Weight of Animals Slaughtered (000 Tonnes)","1985","Lambs",NA
+"427","Number of Animals Slaughtered (000 Head)","1986","Lambs",1578.7
+"428","Weight of Animals Slaughtered (000 Tonnes)","1986","Lambs",NA
+"429","Number of Animals Slaughtered (000 Head)","1987","Lambs",1627.3
+"430","Weight of Animals Slaughtered (000 Tonnes)","1987","Lambs",NA
+"431","Number of Animals Slaughtered (000 Head)","1988","Lambs",1651.1
+"432","Weight of Animals Slaughtered (000 Tonnes)","1988","Lambs",NA
+"433","Number of Animals Slaughtered (000 Head)","1989","Lambs",2329.7
+"434","Weight of Animals Slaughtered (000 Tonnes)","1989","Lambs",NA
+"435","Number of Animals Slaughtered (000 Head)","1990","Lambs",3305.2
+"436","Weight of Animals Slaughtered (000 Tonnes)","1990","Lambs",NA
+"437","Number of Animals Slaughtered (000 Head)","1991","Lambs",4027.6
+"438","Weight of Animals Slaughtered (000 Tonnes)","1991","Lambs",82.5
+"439","Number of Animals Slaughtered (000 Head)","1992","Lambs",4166.2
+"440","Weight of Animals Slaughtered (000 Tonnes)","1992","Lambs",85.2
+"441","Number of Animals Slaughtered (000 Head)","1993","Lambs",4526.2
+"442","Weight of Animals Slaughtered (000 Tonnes)","1993","Lambs",89.4
+"443","Number of Animals Slaughtered (000 Head)","1994","Lambs",4255.3
+"444","Weight of Animals Slaughtered (000 Tonnes)","1994","Lambs",85.1
+"445","Number of Animals Slaughtered (000 Head)","1995","Lambs",3625.9
+"446","Weight of Animals Slaughtered (000 Tonnes)","1995","Lambs",70.3
+"447","Number of Animals Slaughtered (000 Head)","1996","Lambs",3716.5
+"448","Weight of Animals Slaughtered (000 Tonnes)","1996","Lambs",71.9
+"449","Number of Animals Slaughtered (000 Head)","1997","Lambs",3375.1
+"450","Weight of Animals Slaughtered (000 Tonnes)","1997","Lambs",65.5
+"451","Number of Animals Slaughtered (000 Head)","1998","Lambs",3845.1
+"452","Weight of Animals Slaughtered (000 Tonnes)","1998","Lambs",74.5
+"453","Number of Animals Slaughtered (000 Head)","1999","Lambs",4020.9
+"454","Weight of Animals Slaughtered (000 Tonnes)","1999","Lambs",77.8
+"455","Number of Animals Slaughtered (000 Head)","2000","Lambs",3621.6
+"456","Weight of Animals Slaughtered (000 Tonnes)","2000","Lambs",70.4
+"457","Number of Animals Slaughtered (000 Head)","2001","Lambs",3463.8
+"458","Weight of Animals Slaughtered (000 Tonnes)","2001","Lambs",67
+"459","Number of Animals Slaughtered (000 Head)","2002","Lambs",2868.6
+"460","Weight of Animals Slaughtered (000 Tonnes)","2002","Lambs",55.6
+"461","Number of Animals Slaughtered (000 Head)","1980","Horses and Asses",NA
+"462","Weight of Animals Slaughtered (000 Tonnes)","1980","Horses and Asses",NA
+"463","Number of Animals Slaughtered (000 Head)","1981","Horses and Asses",NA
+"464","Weight of Animals Slaughtered (000 Tonnes)","1981","Horses and Asses",NA
+"465","Number of Animals Slaughtered (000 Head)","1982","Horses and Asses",NA
+"466","Weight of Animals Slaughtered (000 Tonnes)","1982","Horses and Asses",NA
+"467","Number of Animals Slaughtered (000 Head)","1983","Horses and Asses",NA
+"468","Weight of Animals Slaughtered (000 Tonnes)","1983","Horses and Asses",NA
+"469","Number of Animals Slaughtered (000 Head)","1984","Horses and Asses",NA
+"470","Weight of Animals Slaughtered (000 Tonnes)","1984","Horses and Asses",NA
+"471","Number of Animals Slaughtered (000 Head)","1985","Horses and Asses",NA
+"472","Weight of Animals Slaughtered (000 Tonnes)","1985","Horses and Asses",NA
+"473","Number of Animals Slaughtered (000 Head)","1986","Horses and Asses",NA
+"474","Weight of Animals Slaughtered (000 Tonnes)","1986","Horses and Asses",NA
+"475","Number of Animals Slaughtered (000 Head)","1987","Horses and Asses",NA
+"476","Weight of Animals Slaughtered (000 Tonnes)","1987","Horses and Asses",NA
+"477","Number of Animals Slaughtered (000 Head)","1988","Horses and Asses",NA
+"478","Weight of Animals Slaughtered (000 Tonnes)","1988","Horses and Asses",NA
+"479","Number of Animals Slaughtered (000 Head)","1989","Horses and Asses",NA
+"480","Weight of Animals Slaughtered (000 Tonnes)","1989","Horses and Asses",NA
+"481","Number of Animals Slaughtered (000 Head)","1990","Horses and Asses",NA
+"482","Weight of Animals Slaughtered (000 Tonnes)","1990","Horses and Asses",NA
+"483","Number of Animals Slaughtered (000 Head)","1991","Horses and Asses",NA
+"484","Weight of Animals Slaughtered (000 Tonnes)","1991","Horses and Asses",NA
+"485","Number of Animals Slaughtered (000 Head)","1992","Horses and Asses",NA
+"486","Weight of Animals Slaughtered (000 Tonnes)","1992","Horses and Asses",NA
+"487","Number of Animals Slaughtered (000 Head)","1993","Horses and Asses",NA
+"488","Weight of Animals Slaughtered (000 Tonnes)","1993","Horses and Asses",NA
+"489","Number of Animals Slaughtered (000 Head)","1994","Horses and Asses",NA
+"490","Weight of Animals Slaughtered (000 Tonnes)","1994","Horses and Asses",NA
+"491","Number of Animals Slaughtered (000 Head)","1995","Horses and Asses",NA
+"492","Weight of Animals Slaughtered (000 Tonnes)","1995","Horses and Asses",NA
+"493","Number of Animals Slaughtered (000 Head)","1996","Horses and Asses",NA
+"494","Weight of Animals Slaughtered (000 Tonnes)","1996","Horses and Asses",NA
+"495","Number of Animals Slaughtered (000 Head)","1997","Horses and Asses",NA
+"496","Weight of Animals Slaughtered (000 Tonnes)","1997","Horses and Asses",NA
+"497","Number of Animals Slaughtered (000 Head)","1998","Horses and Asses",NA
+"498","Weight of Animals Slaughtered (000 Tonnes)","1998","Horses and Asses",NA
+"499","Number of Animals Slaughtered (000 Head)","1999","Horses and Asses",NA
+"500","Weight of Animals Slaughtered (000 Tonnes)","1999","Horses and Asses",NA
+"501","Number of Animals Slaughtered (000 Head)","2000","Horses and Asses",NA
+"502","Weight of Animals Slaughtered (000 Tonnes)","2000","Horses and Asses",NA
+"503","Number of Animals Slaughtered (000 Head)","2001","Horses and Asses",NA
+"504","Weight of Animals Slaughtered (000 Tonnes)","2001","Horses and Asses",NA
+"505","Number of Animals Slaughtered (000 Head)","2002","Horses and Asses",NA
+"506","Weight of Animals Slaughtered (000 Tonnes)","2002","Horses and Asses",NA

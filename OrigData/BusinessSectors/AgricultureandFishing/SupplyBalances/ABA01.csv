@@ -1,0 +1,649 @@
+"","Statistic","Year","Type.of.Meat","value"
+"1","Meat Slaughterings (000 Tonnes)","2000","Total Meat",1019
+"2","Meat Imports (000 Tonnes)","2000","Total Meat",111
+"3","Supplies = Uses of Meat Products (000 Tonnes)","2000","Total Meat",1130
+"4","Meat Exports (000 Tonnes)","2000","Total Meat",750
+"5","Variation in Meat Stocks (000 Tonnes)","2000","Total Meat",-2
+"6","Meat Products for Domestic Use (000 Tonnes)","2000","Total Meat",382
+"7","Human Consumption of Meat Products (Kg per capita)","2000","Total Meat",100.7
+"8","Meat Gross Indigenous Production (000 Tonnes)","2000","Total Meat",1086
+"9","Self Sufficiency in Meat Products (%)","2000","Total Meat",285
+"10","Meat Slaughterings (000 Tonnes)","2001","Total Meat",1025
+"11","Meat Imports (000 Tonnes)","2001","Total Meat",129
+"12","Supplies = Uses of Meat Products (000 Tonnes)","2001","Total Meat",1155
+"13","Meat Exports (000 Tonnes)","2001","Total Meat",629
+"14","Variation in Meat Stocks (000 Tonnes)","2001","Total Meat",167
+"15","Meat Products for Domestic Use (000 Tonnes)","2001","Total Meat",358
+"16","Human Consumption of Meat Products (Kg per capita)","2001","Total Meat",93.1
+"17","Meat Gross Indigenous Production (000 Tonnes)","2001","Total Meat",1047
+"18","Self Sufficiency in Meat Products (%)","2001","Total Meat",292
+"19","Meat Slaughterings (000 Tonnes)","2002","Total Meat",965
+"20","Meat Imports (000 Tonnes)","2002","Total Meat",124
+"21","Supplies = Uses of Meat Products (000 Tonnes)","2002","Total Meat",1090
+"22","Meat Exports (000 Tonnes)","2002","Total Meat",721
+"23","Variation in Meat Stocks (000 Tonnes)","2002","Total Meat",1
+"24","Meat Products for Domestic Use (000 Tonnes)","2002","Total Meat",367
+"25","Human Consumption of Meat Products (Kg per capita)","2002","Total Meat",93.7
+"26","Meat Gross Indigenous Production (000 Tonnes)","2002","Total Meat",1001
+"27","Self Sufficiency in Meat Products (%)","2002","Total Meat",273
+"28","Meat Slaughterings (000 Tonnes)","2003","Total Meat",979
+"29","Meat Imports (000 Tonnes)","2003","Total Meat",145
+"30","Supplies = Uses of Meat Products (000 Tonnes)","2003","Total Meat",1123
+"31","Meat Exports (000 Tonnes)","2003","Total Meat",737
+"32","Variation in Meat Stocks (000 Tonnes)","2003","Total Meat",-1
+"33","Meat Products for Domestic Use (000 Tonnes)","2003","Total Meat",387
+"34","Human Consumption of Meat Products (Kg per capita)","2003","Total Meat",97.2
+"35","Meat Gross Indigenous Production (000 Tonnes)","2003","Total Meat",1033
+"36","Self Sufficiency in Meat Products (%)","2003","Total Meat",267
+"37","Meat Slaughterings (000 Tonnes)","2004","Total Meat",972
+"38","Meat Imports (000 Tonnes)","2004","Total Meat",169
+"39","Supplies = Uses of Meat Products (000 Tonnes)","2004","Total Meat",1141
+"40","Meat Exports (000 Tonnes)","2004","Total Meat",744
+"41","Variation in Meat Stocks (000 Tonnes)","2004","Total Meat",3
+"42","Meat Products for Domestic Use (000 Tonnes)","2004","Total Meat",394
+"43","Human Consumption of Meat Products (Kg per capita)","2004","Total Meat",97.4
+"44","Meat Gross Indigenous Production (000 Tonnes)","2004","Total Meat",1011
+"45","Self Sufficiency in Meat Products (%)","2004","Total Meat",257
+"46","Meat Slaughterings (000 Tonnes)","2005","Total Meat",960
+"47","Meat Imports (000 Tonnes)","2005","Total Meat",199
+"48","Supplies = Uses of Meat Products (000 Tonnes)","2005","Total Meat",1158
+"49","Meat Exports (000 Tonnes)","2005","Total Meat",751
+"50","Variation in Meat Stocks (000 Tonnes)","2005","Total Meat",2
+"51","Meat Products for Domestic Use (000 Tonnes)","2005","Total Meat",405
+"52","Human Consumption of Meat Products (Kg per capita)","2005","Total Meat",97.9
+"53","Meat Gross Indigenous Production (000 Tonnes)","2005","Total Meat",1005
+"54","Self Sufficiency in Meat Products (%)","2005","Total Meat",248
+"55","Meat Slaughterings (000 Tonnes)","2006","Total Meat",986
+"56","Meat Imports (000 Tonnes)","2006","Total Meat",196
+"57","Supplies = Uses of Meat Products (000 Tonnes)","2006","Total Meat",1182
+"58","Meat Exports (000 Tonnes)","2006","Total Meat",778
+"59","Variation in Meat Stocks (000 Tonnes)","2006","Total Meat",2
+"60","Meat Products for Domestic Use (000 Tonnes)","2006","Total Meat",402
+"61","Human Consumption of Meat Products (Kg per capita)","2006","Total Meat",94.8
+"62","Meat Gross Indigenous Production (000 Tonnes)","2006","Total Meat",1039
+"63","Self Sufficiency in Meat Products (%)","2006","Total Meat",259
+"64","Meat Slaughterings (000 Tonnes)","2007","Total Meat",977
+"65","Meat Imports (000 Tonnes)","2007","Total Meat",204
+"66","Supplies = Uses of Meat Products (000 Tonnes)","2007","Total Meat",1181
+"67","Meat Exports (000 Tonnes)","2007","Total Meat",792
+"68","Variation in Meat Stocks (000 Tonnes)","2007","Total Meat",4
+"69","Meat Products for Domestic Use (000 Tonnes)","2007","Total Meat",384
+"70","Human Consumption of Meat Products (Kg per capita)","2007","Total Meat",88.5
+"71","Meat Gross Indigenous Production (000 Tonnes)","2007","Total Meat",1023
+"72","Self Sufficiency in Meat Products (%)","2007","Total Meat",266
+"73","Meat Slaughterings (000 Tonnes)","2008","Total Meat",937
+"74","Meat Imports (000 Tonnes)","2008","Total Meat",209
+"75","Supplies = Uses of Meat Products (000 Tonnes)","2008","Total Meat",1146
+"76","Meat Exports (000 Tonnes)","2008","Total Meat",764
+"77","Variation in Meat Stocks (000 Tonnes)","2008","Total Meat",25
+"78","Meat Products for Domestic Use (000 Tonnes)","2008","Total Meat",358
+"79","Human Consumption of Meat Products (Kg per capita)","2008","Total Meat",81
+"80","Meat Gross Indigenous Production (000 Tonnes)","2008","Total Meat",984
+"81","Self Sufficiency in Meat Products (%)","2008","Total Meat",275
+"82","Meat Slaughterings (000 Tonnes)","2009","Total Meat",893
+"83","Meat Imports (000 Tonnes)","2009","Total Meat",207
+"84","Supplies = Uses of Meat Products (000 Tonnes)","2009","Total Meat",1100
+"85","Meat Exports (000 Tonnes)","2009","Total Meat",732
+"86","Variation in Meat Stocks (000 Tonnes)","2009","Total Meat",5
+"87","Meat Products for Domestic Use (000 Tonnes)","2009","Total Meat",363
+"88","Human Consumption of Meat Products (Kg per capita)","2009","Total Meat",81.4
+"89","Meat Gross Indigenous Production (000 Tonnes)","2009","Total Meat",961
+"90","Self Sufficiency in Meat Products (%)","2009","Total Meat",265
+"91","Meat Slaughterings (000 Tonnes)","2010","Total Meat",958
+"92","Meat Imports (000 Tonnes)","2010","Total Meat",217
+"93","Supplies = Uses of Meat Products (000 Tonnes)","2010","Total Meat",1175
+"94","Meat Exports (000 Tonnes)","2010","Total Meat",815
+"95","Variation in Meat Stocks (000 Tonnes)","2010","Total Meat",6
+"96","Meat Products for Domestic Use (000 Tonnes)","2010","Total Meat",354
+"97","Human Consumption of Meat Products (Kg per capita)","2010","Total Meat",79.3
+"98","Meat Gross Indigenous Production (000 Tonnes)","2010","Total Meat",1044
+"99","Self Sufficiency in Meat Products (%)","2010","Total Meat",295
+"100","Meat Slaughterings (000 Tonnes)","2011","Total Meat",973
+"101","Meat Imports (000 Tonnes)","2011","Total Meat",235
+"102","Supplies = Uses of Meat Products (000 Tonnes)","2011","Total Meat",1208
+"103","Meat Exports (000 Tonnes)","2011","Total Meat",857
+"104","Variation in Meat Stocks (000 Tonnes)","2011","Total Meat",4
+"105","Meat Products for Domestic Use (000 Tonnes)","2011","Total Meat",348
+"106","Human Consumption of Meat Products (Kg per capita)","2011","Total Meat",77.5
+"107","Meat Gross Indigenous Production (000 Tonnes)","2011","Total Meat",1043
+"108","Self Sufficiency in Meat Products (%)","2011","Total Meat",300
+"109","Meat Slaughterings (000 Tonnes)","2000","Beef and veal",576
+"110","Meat Imports (000 Tonnes)","2000","Beef and veal",12
+"111","Supplies = Uses of Meat Products (000 Tonnes)","2000","Beef and veal",588
+"112","Meat Exports (000 Tonnes)","2000","Beef and veal",521
+"113","Variation in Meat Stocks (000 Tonnes)","2000","Beef and veal",-2
+"114","Meat Products for Domestic Use (000 Tonnes)","2000","Beef and veal",68
+"115","Human Consumption of Meat Products (Kg per capita)","2000","Beef and veal",18.1
+"116","Meat Gross Indigenous Production (000 Tonnes)","2000","Beef and veal",641
+"117","Self Sufficiency in Meat Products (%)","2000","Beef and veal",935
+"118","Meat Slaughterings (000 Tonnes)","2001","Beef and veal",579
+"119","Meat Imports (000 Tonnes)","2001","Beef and veal",21
+"120","Supplies = Uses of Meat Products (000 Tonnes)","2001","Beef and veal",600
+"121","Meat Exports (000 Tonnes)","2001","Beef and veal",363
+"122","Variation in Meat Stocks (000 Tonnes)","2001","Beef and veal",164
+"123","Meat Products for Domestic Use (000 Tonnes)","2001","Beef and veal",73
+"124","Human Consumption of Meat Products (Kg per capita)","2001","Beef and veal",18.9
+"125","Meat Gross Indigenous Production (000 Tonnes)","2001","Beef and veal",601
+"126","Self Sufficiency in Meat Products (%)","2001","Beef and veal",829
+"127","Meat Slaughterings (000 Tonnes)","2002","Beef and veal",540
+"128","Meat Imports (000 Tonnes)","2002","Beef and veal",15
+"129","Supplies = Uses of Meat Products (000 Tonnes)","2002","Beef and veal",555
+"130","Meat Exports (000 Tonnes)","2002","Beef and veal",479
+"131","Variation in Meat Stocks (000 Tonnes)","2002","Beef and veal",-1
+"132","Meat Products for Domestic Use (000 Tonnes)","2002","Beef and veal",77
+"133","Human Consumption of Meat Products (Kg per capita)","2002","Beef and veal",19.6
+"134","Meat Gross Indigenous Production (000 Tonnes)","2002","Beef and veal",566
+"135","Self Sufficiency in Meat Products (%)","2002","Beef and veal",737
+"136","Meat Slaughterings (000 Tonnes)","2003","Beef and veal",567
+"137","Meat Imports (000 Tonnes)","2003","Beef and veal",17
+"138","Supplies = Uses of Meat Products (000 Tonnes)","2003","Beef and veal",584
+"139","Meat Exports (000 Tonnes)","2003","Beef and veal",504
+"140","Variation in Meat Stocks (000 Tonnes)","2003","Beef and veal",-4
+"141","Meat Products for Domestic Use (000 Tonnes)","2003","Beef and veal",84
+"142","Human Consumption of Meat Products (Kg per capita)","2003","Beef and veal",21.2
+"143","Meat Gross Indigenous Production (000 Tonnes)","2003","Beef and veal",602
+"144","Self Sufficiency in Meat Products (%)","2003","Beef and veal",713
+"145","Meat Slaughterings (000 Tonnes)","2004","Beef and veal",562
+"146","Meat Imports (000 Tonnes)","2004","Beef and veal",28
+"147","Supplies = Uses of Meat Products (000 Tonnes)","2004","Beef and veal",590
+"148","Meat Exports (000 Tonnes)","2004","Beef and veal",504
+"149","Variation in Meat Stocks (000 Tonnes)","2004","Beef and veal",0
+"150","Meat Products for Domestic Use (000 Tonnes)","2004","Beef and veal",86
+"151","Human Consumption of Meat Products (Kg per capita)","2004","Beef and veal",21.3
+"152","Meat Gross Indigenous Production (000 Tonnes)","2004","Beef and veal",578
+"153","Self Sufficiency in Meat Products (%)","2004","Beef and veal",670
+"154","Meat Slaughterings (000 Tonnes)","2005","Beef and veal",545
+"155","Meat Imports (000 Tonnes)","2005","Beef and veal",32
+"156","Supplies = Uses of Meat Products (000 Tonnes)","2005","Beef and veal",577
+"157","Meat Exports (000 Tonnes)","2005","Beef and veal",490
+"158","Variation in Meat Stocks (000 Tonnes)","2005","Beef and veal",0
+"159","Meat Products for Domestic Use (000 Tonnes)","2005","Beef and veal",87
+"160","Human Consumption of Meat Products (Kg per capita)","2005","Beef and veal",21.2
+"161","Meat Gross Indigenous Production (000 Tonnes)","2005","Beef and veal",565
+"162","Self Sufficiency in Meat Products (%)","2005","Beef and veal",646
+"163","Meat Slaughterings (000 Tonnes)","2006","Beef and veal",571
+"164","Meat Imports (000 Tonnes)","2006","Beef and veal",36
+"165","Supplies = Uses of Meat Products (000 Tonnes)","2006","Beef and veal",607
+"166","Meat Exports (000 Tonnes)","2006","Beef and veal",519
+"167","Variation in Meat Stocks (000 Tonnes)","2006","Beef and veal",0
+"168","Meat Products for Domestic Use (000 Tonnes)","2006","Beef and veal",88
+"169","Human Consumption of Meat Products (Kg per capita)","2006","Beef and veal",20.8
+"170","Meat Gross Indigenous Production (000 Tonnes)","2006","Beef and veal",597
+"171","Self Sufficiency in Meat Products (%)","2006","Beef and veal",678
+"172","Meat Slaughterings (000 Tonnes)","2007","Beef and veal",580
+"173","Meat Imports (000 Tonnes)","2007","Beef and veal",36
+"174","Supplies = Uses of Meat Products (000 Tonnes)","2007","Beef and veal",616
+"175","Meat Exports (000 Tonnes)","2007","Beef and veal",528
+"176","Variation in Meat Stocks (000 Tonnes)","2007","Beef and veal",0
+"177","Meat Products for Domestic Use (000 Tonnes)","2007","Beef and veal",88
+"178","Human Consumption of Meat Products (Kg per capita)","2007","Beef and veal",20.4
+"179","Meat Gross Indigenous Production (000 Tonnes)","2007","Beef and veal",600
+"180","Self Sufficiency in Meat Products (%)","2007","Beef and veal",679
+"181","Meat Slaughterings (000 Tonnes)","2008","Beef and veal",536
+"182","Meat Imports (000 Tonnes)","2008","Beef and veal",39
+"183","Supplies = Uses of Meat Products (000 Tonnes)","2008","Beef and veal",576
+"184","Meat Exports (000 Tonnes)","2008","Beef and veal",489
+"185","Variation in Meat Stocks (000 Tonnes)","2008","Beef and veal",0
+"186","Meat Products for Domestic Use (000 Tonnes)","2008","Beef and veal",87
+"187","Human Consumption of Meat Products (Kg per capita)","2008","Beef and veal",19.6
+"188","Meat Gross Indigenous Production (000 Tonnes)","2008","Beef and veal",552
+"189","Self Sufficiency in Meat Products (%)","2008","Beef and veal",636
+"190","Meat Slaughterings (000 Tonnes)","2009","Beef and veal",513
+"191","Meat Imports (000 Tonnes)","2009","Beef and veal",41
+"192","Supplies = Uses of Meat Products (000 Tonnes)","2009","Beef and veal",554
+"193","Meat Exports (000 Tonnes)","2009","Beef and veal",467
+"194","Variation in Meat Stocks (000 Tonnes)","2009","Beef and veal",0
+"195","Meat Products for Domestic Use (000 Tonnes)","2009","Beef and veal",88
+"196","Human Consumption of Meat Products (Kg per capita)","2009","Beef and veal",19.7
+"197","Meat Gross Indigenous Production (000 Tonnes)","2009","Beef and veal",542
+"198","Self Sufficiency in Meat Products (%)","2009","Beef and veal",617
+"199","Meat Slaughterings (000 Tonnes)","2010","Beef and veal",558
+"200","Meat Imports (000 Tonnes)","2010","Beef and veal",50
+"201","Supplies = Uses of Meat Products (000 Tonnes)","2010","Beef and veal",608
+"202","Meat Exports (000 Tonnes)","2010","Beef and veal",519
+"203","Variation in Meat Stocks (000 Tonnes)","2010","Beef and veal",0
+"204","Meat Products for Domestic Use (000 Tonnes)","2010","Beef and veal",88
+"205","Human Consumption of Meat Products (Kg per capita)","2010","Beef and veal",19.8
+"206","Meat Gross Indigenous Production (000 Tonnes)","2010","Beef and veal",596
+"207","Self Sufficiency in Meat Products (%)","2010","Beef and veal",672
+"208","Meat Slaughterings (000 Tonnes)","2011","Beef and veal",546
+"209","Meat Imports (000 Tonnes)","2011","Beef and veal",57
+"210","Supplies = Uses of Meat Products (000 Tonnes)","2011","Beef and veal",603
+"211","Meat Exports (000 Tonnes)","2011","Beef and veal",509
+"212","Variation in Meat Stocks (000 Tonnes)","2011","Beef and veal",0
+"213","Meat Products for Domestic Use (000 Tonnes)","2011","Beef and veal",94
+"214","Human Consumption of Meat Products (Kg per capita)","2011","Beef and veal",20.9
+"215","Meat Gross Indigenous Production (000 Tonnes)","2011","Beef and veal",571
+"216","Self Sufficiency in Meat Products (%)","2011","Beef and veal",608
+"217","Meat Slaughterings (000 Tonnes)","2000","Pig meat",231
+"218","Meat Imports (000 Tonnes)","2000","Pig meat",43
+"219","Supplies = Uses of Meat Products (000 Tonnes)","2000","Pig meat",274
+"220","Meat Exports (000 Tonnes)","2000","Pig meat",121
+"221","Variation in Meat Stocks (000 Tonnes)","2000","Pig meat",3
+"222","Meat Products for Domestic Use (000 Tonnes)","2000","Pig meat",150
+"223","Human Consumption of Meat Products (Kg per capita)","2000","Pig meat",39.6
+"224","Meat Gross Indigenous Production (000 Tonnes)","2000","Pig meat",241
+"225","Self Sufficiency in Meat Products (%)","2000","Pig meat",161
+"226","Meat Slaughterings (000 Tonnes)","2001","Pig meat",241
+"227","Meat Imports (000 Tonnes)","2001","Pig meat",50
+"228","Supplies = Uses of Meat Products (000 Tonnes)","2001","Pig meat",291
+"229","Meat Exports (000 Tonnes)","2001","Pig meat",137
+"230","Variation in Meat Stocks (000 Tonnes)","2001","Pig meat",3
+"231","Meat Products for Domestic Use (000 Tonnes)","2001","Pig meat",150
+"232","Human Consumption of Meat Products (Kg per capita)","2001","Pig meat",39.1
+"233","Meat Gross Indigenous Production (000 Tonnes)","2001","Pig meat",245
+"234","Self Sufficiency in Meat Products (%)","2001","Pig meat",163
+"235","Meat Slaughterings (000 Tonnes)","2002","Pig meat",231
+"236","Meat Imports (000 Tonnes)","2002","Pig meat",51
+"237","Supplies = Uses of Meat Products (000 Tonnes)","2002","Pig meat",282
+"238","Meat Exports (000 Tonnes)","2002","Pig meat",122
+"239","Variation in Meat Stocks (000 Tonnes)","2002","Pig meat",4
+"240","Meat Products for Domestic Use (000 Tonnes)","2002","Pig meat",156
+"241","Human Consumption of Meat Products (Kg per capita)","2002","Pig meat",39.9
+"242","Meat Gross Indigenous Production (000 Tonnes)","2002","Pig meat",247
+"243","Self Sufficiency in Meat Products (%)","2002","Pig meat",158
+"244","Meat Slaughterings (000 Tonnes)","2003","Pig meat",220
+"245","Meat Imports (000 Tonnes)","2003","Pig meat",59
+"246","Supplies = Uses of Meat Products (000 Tonnes)","2003","Pig meat",279
+"247","Meat Exports (000 Tonnes)","2003","Pig meat",114
+"248","Variation in Meat Stocks (000 Tonnes)","2003","Pig meat",4
+"249","Meat Products for Domestic Use (000 Tonnes)","2003","Pig meat",161
+"250","Human Consumption of Meat Products (Kg per capita)","2003","Pig meat",40.5
+"251","Meat Gross Indigenous Production (000 Tonnes)","2003","Pig meat",247
+"252","Self Sufficiency in Meat Products (%)","2003","Pig meat",153
+"253","Meat Slaughterings (000 Tonnes)","2004","Pig meat",205
+"254","Meat Imports (000 Tonnes)","2004","Pig meat",67
+"255","Supplies = Uses of Meat Products (000 Tonnes)","2004","Pig meat",272
+"256","Meat Exports (000 Tonnes)","2004","Pig meat",107
+"257","Variation in Meat Stocks (000 Tonnes)","2004","Pig meat",4
+"258","Meat Products for Domestic Use (000 Tonnes)","2004","Pig meat",161
+"259","Human Consumption of Meat Products (Kg per capita)","2004","Pig meat",39.8
+"260","Meat Gross Indigenous Production (000 Tonnes)","2004","Pig meat",236
+"261","Self Sufficiency in Meat Products (%)","2004","Pig meat",147
+"262","Meat Slaughterings (000 Tonnes)","2005","Pig meat",206
+"263","Meat Imports (000 Tonnes)","2005","Pig meat",66
+"264","Supplies = Uses of Meat Products (000 Tonnes)","2005","Pig meat",272
+"265","Meat Exports (000 Tonnes)","2005","Pig meat",119
+"266","Variation in Meat Stocks (000 Tonnes)","2005","Pig meat",4
+"267","Meat Products for Domestic Use (000 Tonnes)","2005","Pig meat",149
+"268","Human Consumption of Meat Products (Kg per capita)","2005","Pig meat",36.1
+"269","Meat Gross Indigenous Production (000 Tonnes)","2005","Pig meat",238
+"270","Self Sufficiency in Meat Products (%)","2005","Pig meat",159
+"271","Meat Slaughterings (000 Tonnes)","2006","Pig meat",210
+"272","Meat Imports (000 Tonnes)","2006","Pig meat",72
+"273","Supplies = Uses of Meat Products (000 Tonnes)","2006","Pig meat",282
+"274","Meat Exports (000 Tonnes)","2006","Pig meat",115
+"275","Variation in Meat Stocks (000 Tonnes)","2006","Pig meat",4
+"276","Meat Products for Domestic Use (000 Tonnes)","2006","Pig meat",162
+"277","Human Consumption of Meat Products (Kg per capita)","2006","Pig meat",38.2
+"278","Meat Gross Indigenous Production (000 Tonnes)","2006","Pig meat",240
+"279","Self Sufficiency in Meat Products (%)","2006","Pig meat",147.9
+"280","Meat Slaughterings (000 Tonnes)","2007","Pig meat",207
+"281","Meat Imports (000 Tonnes)","2007","Pig meat",76
+"282","Supplies = Uses of Meat Products (000 Tonnes)","2007","Pig meat",283
+"283","Meat Exports (000 Tonnes)","2007","Pig meat",124
+"284","Variation in Meat Stocks (000 Tonnes)","2007","Pig meat",5
+"285","Meat Products for Domestic Use (000 Tonnes)","2007","Pig meat",154
+"286","Human Consumption of Meat Products (Kg per capita)","2007","Pig meat",35.5
+"287","Meat Gross Indigenous Production (000 Tonnes)","2007","Pig meat",236
+"288","Self Sufficiency in Meat Products (%)","2007","Pig meat",153
+"289","Meat Slaughterings (000 Tonnes)","2008","Pig meat",204
+"290","Meat Imports (000 Tonnes)","2008","Pig meat",76
+"291","Supplies = Uses of Meat Products (000 Tonnes)","2008","Pig meat",280
+"292","Meat Exports (000 Tonnes)","2008","Pig meat",132
+"293","Variation in Meat Stocks (000 Tonnes)","2008","Pig meat",26
+"294","Meat Products for Domestic Use (000 Tonnes)","2008","Pig meat",122
+"295","Human Consumption of Meat Products (Kg per capita)","2008","Pig meat",27.5
+"296","Meat Gross Indigenous Production (000 Tonnes)","2008","Pig meat",240
+"297","Self Sufficiency in Meat Products (%)","2008","Pig meat",197
+"298","Meat Slaughterings (000 Tonnes)","2009","Pig meat",197
+"299","Meat Imports (000 Tonnes)","2009","Pig meat",72
+"300","Supplies = Uses of Meat Products (000 Tonnes)","2009","Pig meat",269
+"301","Meat Exports (000 Tonnes)","2009","Pig meat",126
+"302","Variation in Meat Stocks (000 Tonnes)","2009","Pig meat",4
+"303","Meat Products for Domestic Use (000 Tonnes)","2009","Pig meat",138
+"304","Human Consumption of Meat Products (Kg per capita)","2009","Pig meat",31.1
+"305","Meat Gross Indigenous Production (000 Tonnes)","2009","Pig meat",242
+"306","Self Sufficiency in Meat Products (%)","2009","Pig meat",175
+"307","Meat Slaughterings (000 Tonnes)","2010","Pig meat",215
+"308","Meat Imports (000 Tonnes)","2010","Pig meat",72
+"309","Supplies = Uses of Meat Products (000 Tonnes)","2010","Pig meat",287
+"310","Meat Exports (000 Tonnes)","2010","Pig meat",150
+"311","Variation in Meat Stocks (000 Tonnes)","2010","Pig meat",4
+"312","Meat Products for Domestic Use (000 Tonnes)","2010","Pig meat",133
+"313","Human Consumption of Meat Products (Kg per capita)","2010","Pig meat",29.6
+"314","Meat Gross Indigenous Production (000 Tonnes)","2010","Pig meat",269
+"315","Self Sufficiency in Meat Products (%)","2010","Pig meat",203
+"316","Meat Slaughterings (000 Tonnes)","2011","Pig meat",235
+"317","Meat Imports (000 Tonnes)","2011","Pig meat",77
+"318","Supplies = Uses of Meat Products (000 Tonnes)","2011","Pig meat",312
+"319","Meat Exports (000 Tonnes)","2011","Pig meat",181
+"320","Variation in Meat Stocks (000 Tonnes)","2011","Pig meat",5
+"321","Meat Products for Domestic Use (000 Tonnes)","2011","Pig meat",126
+"322","Human Consumption of Meat Products (Kg per capita)","2011","Pig meat",28.2
+"323","Meat Gross Indigenous Production (000 Tonnes)","2011","Pig meat",288
+"324","Self Sufficiency in Meat Products (%)","2011","Pig meat",228
+"325","Meat Slaughterings (000 Tonnes)","2000","Sheep meat",83
+"326","Meat Imports (000 Tonnes)","2000","Sheep meat",2
+"327","Supplies = Uses of Meat Products (000 Tonnes)","2000","Sheep meat",85
+"328","Meat Exports (000 Tonnes)","2000","Sheep meat",55
+"329","Variation in Meat Stocks (000 Tonnes)","2000","Sheep meat",0
+"330","Meat Products for Domestic Use (000 Tonnes)","2000","Sheep meat",30
+"331","Human Consumption of Meat Products (Kg per capita)","2000","Sheep meat",8
+"332","Meat Gross Indigenous Production (000 Tonnes)","2000","Sheep meat",78
+"333","Self Sufficiency in Meat Products (%)","2000","Sheep meat",257
+"334","Meat Slaughterings (000 Tonnes)","2001","Sheep meat",78
+"335","Meat Imports (000 Tonnes)","2001","Sheep meat",2
+"336","Supplies = Uses of Meat Products (000 Tonnes)","2001","Sheep meat",80
+"337","Meat Exports (000 Tonnes)","2001","Sheep meat",62
+"338","Variation in Meat Stocks (000 Tonnes)","2001","Sheep meat",0
+"339","Meat Products for Domestic Use (000 Tonnes)","2001","Sheep meat",18
+"340","Human Consumption of Meat Products (Kg per capita)","2001","Sheep meat",4.7
+"341","Meat Gross Indigenous Production (000 Tonnes)","2001","Sheep meat",74
+"342","Self Sufficiency in Meat Products (%)","2001","Sheep meat",408
+"343","Meat Slaughterings (000 Tonnes)","2002","Sheep meat",67
+"344","Meat Imports (000 Tonnes)","2002","Sheep meat",2
+"345","Supplies = Uses of Meat Products (000 Tonnes)","2002","Sheep meat",69
+"346","Meat Exports (000 Tonnes)","2002","Sheep meat",48
+"347","Variation in Meat Stocks (000 Tonnes)","2002","Sheep meat",0
+"348","Meat Products for Domestic Use (000 Tonnes)","2002","Sheep meat",20
+"349","Human Consumption of Meat Products (Kg per capita)","2002","Sheep meat",5.2
+"350","Meat Gross Indigenous Production (000 Tonnes)","2002","Sheep meat",62
+"351","Self Sufficiency in Meat Products (%)","2002","Sheep meat",303
+"352","Meat Slaughterings (000 Tonnes)","2003","Sheep meat",63
+"353","Meat Imports (000 Tonnes)","2003","Sheep meat",2
+"354","Supplies = Uses of Meat Products (000 Tonnes)","2003","Sheep meat",65
+"355","Meat Exports (000 Tonnes)","2003","Sheep meat",46
+"356","Variation in Meat Stocks (000 Tonnes)","2003","Sheep meat",0
+"357","Meat Products for Domestic Use (000 Tonnes)","2003","Sheep meat",19
+"358","Human Consumption of Meat Products (Kg per capita)","2003","Sheep meat",4.8
+"359","Meat Gross Indigenous Production (000 Tonnes)","2003","Sheep meat",59
+"360","Self Sufficiency in Meat Products (%)","2003","Sheep meat",307
+"361","Meat Slaughterings (000 Tonnes)","2004","Sheep meat",72
+"362","Meat Imports (000 Tonnes)","2004","Sheep meat",3
+"363","Supplies = Uses of Meat Products (000 Tonnes)","2004","Sheep meat",75
+"364","Meat Exports (000 Tonnes)","2004","Sheep meat",53
+"365","Variation in Meat Stocks (000 Tonnes)","2004","Sheep meat",0
+"366","Meat Products for Domestic Use (000 Tonnes)","2004","Sheep meat",21
+"367","Human Consumption of Meat Products (Kg per capita)","2004","Sheep meat",5.2
+"368","Meat Gross Indigenous Production (000 Tonnes)","2004","Sheep meat",67
+"369","Self Sufficiency in Meat Products (%)","2004","Sheep meat",316
+"370","Meat Slaughterings (000 Tonnes)","2005","Sheep meat",73
+"371","Meat Imports (000 Tonnes)","2005","Sheep meat",2
+"372","Supplies = Uses of Meat Products (000 Tonnes)","2005","Sheep meat",75
+"373","Meat Exports (000 Tonnes)","2005","Sheep meat",59
+"374","Variation in Meat Stocks (000 Tonnes)","2005","Sheep meat",0
+"375","Meat Products for Domestic Use (000 Tonnes)","2005","Sheep meat",16
+"376","Human Consumption of Meat Products (Kg per capita)","2005","Sheep meat",3.9
+"377","Meat Gross Indigenous Production (000 Tonnes)","2005","Sheep meat",70
+"378","Self Sufficiency in Meat Products (%)","2005","Sheep meat",431
+"379","Meat Slaughterings (000 Tonnes)","2006","Sheep meat",70
+"380","Meat Imports (000 Tonnes)","2006","Sheep meat",3
+"381","Supplies = Uses of Meat Products (000 Tonnes)","2006","Sheep meat",73
+"382","Meat Exports (000 Tonnes)","2006","Sheep meat",57
+"383","Variation in Meat Stocks (000 Tonnes)","2006","Sheep meat",0
+"384","Meat Products for Domestic Use (000 Tonnes)","2006","Sheep meat",17
+"385","Human Consumption of Meat Products (Kg per capita)","2006","Sheep meat",4
+"386","Meat Gross Indigenous Production (000 Tonnes)","2006","Sheep meat",68
+"387","Self Sufficiency in Meat Products (%)","2006","Sheep meat",406
+"388","Meat Slaughterings (000 Tonnes)","2007","Sheep meat",66
+"389","Meat Imports (000 Tonnes)","2007","Sheep meat",3
+"390","Supplies = Uses of Meat Products (000 Tonnes)","2007","Sheep meat",69
+"391","Meat Exports (000 Tonnes)","2007","Sheep meat",55
+"392","Variation in Meat Stocks (000 Tonnes)","2007","Sheep meat",0
+"393","Meat Products for Domestic Use (000 Tonnes)","2007","Sheep meat",14
+"394","Human Consumption of Meat Products (Kg per capita)","2007","Sheep meat",3.2
+"395","Meat Gross Indigenous Production (000 Tonnes)","2007","Sheep meat",63
+"396","Self Sufficiency in Meat Products (%)","2007","Sheep meat",457
+"397","Meat Slaughterings (000 Tonnes)","2008","Sheep meat",59
+"398","Meat Imports (000 Tonnes)","2008","Sheep meat",4
+"399","Supplies = Uses of Meat Products (000 Tonnes)","2008","Sheep meat",62
+"400","Meat Exports (000 Tonnes)","2008","Sheep meat",48
+"401","Variation in Meat Stocks (000 Tonnes)","2008","Sheep meat",0
+"402","Meat Products for Domestic Use (000 Tonnes)","2008","Sheep meat",15
+"403","Human Consumption of Meat Products (Kg per capita)","2008","Sheep meat",3.3
+"404","Meat Gross Indigenous Production (000 Tonnes)","2008","Sheep meat",55
+"405","Self Sufficiency in Meat Products (%)","2008","Sheep meat",371
+"406","Meat Slaughterings (000 Tonnes)","2009","Sheep meat",55
+"407","Meat Imports (000 Tonnes)","2009","Sheep meat",5
+"408","Supplies = Uses of Meat Products (000 Tonnes)","2009","Sheep meat",60
+"409","Meat Exports (000 Tonnes)","2009","Sheep meat",45
+"410","Variation in Meat Stocks (000 Tonnes)","2009","Sheep meat",0
+"411","Meat Products for Domestic Use (000 Tonnes)","2009","Sheep meat",14
+"412","Human Consumption of Meat Products (Kg per capita)","2009","Sheep meat",3.2
+"413","Meat Gross Indigenous Production (000 Tonnes)","2009","Sheep meat",51
+"414","Self Sufficiency in Meat Products (%)","2009","Sheep meat",351
+"415","Meat Slaughterings (000 Tonnes)","2010","Sheep meat",48
+"416","Meat Imports (000 Tonnes)","2010","Sheep meat",4
+"417","Supplies = Uses of Meat Products (000 Tonnes)","2010","Sheep meat",51
+"418","Meat Exports (000 Tonnes)","2010","Sheep meat",40
+"419","Variation in Meat Stocks (000 Tonnes)","2010","Sheep meat",0
+"420","Meat Products for Domestic Use (000 Tonnes)","2010","Sheep meat",11
+"421","Human Consumption of Meat Products (Kg per capita)","2010","Sheep meat",2.5
+"422","Meat Gross Indigenous Production (000 Tonnes)","2010","Sheep meat",42
+"423","Self Sufficiency in Meat Products (%)","2010","Sheep meat",377
+"424","Meat Slaughterings (000 Tonnes)","2011","Sheep meat",48
+"425","Meat Imports (000 Tonnes)","2011","Sheep meat",4
+"426","Supplies = Uses of Meat Products (000 Tonnes)","2011","Sheep meat",52
+"427","Meat Exports (000 Tonnes)","2011","Sheep meat",46
+"428","Variation in Meat Stocks (000 Tonnes)","2011","Sheep meat",0
+"429","Meat Products for Domestic Use (000 Tonnes)","2011","Sheep meat",6
+"430","Human Consumption of Meat Products (Kg per capita)","2011","Sheep meat",1.3
+"431","Meat Gross Indigenous Production (000 Tonnes)","2011","Sheep meat",40
+"432","Self Sufficiency in Meat Products (%)","2011","Sheep meat",683
+"433","Meat Slaughterings (000 Tonnes)","2000","Poultry meat",123
+"434","Meat Imports (000 Tonnes)","2000","Poultry meat",47
+"435","Supplies = Uses of Meat Products (000 Tonnes)","2000","Poultry meat",170
+"436","Meat Exports (000 Tonnes)","2000","Poultry meat",48
+"437","Variation in Meat Stocks (000 Tonnes)","2000","Poultry meat",-3
+"438","Meat Products for Domestic Use (000 Tonnes)","2000","Poultry meat",125
+"439","Human Consumption of Meat Products (Kg per capita)","2000","Poultry meat",33
+"440","Meat Gross Indigenous Production (000 Tonnes)","2000","Poultry meat",121
+"441","Self Sufficiency in Meat Products (%)","2000","Poultry meat",97
+"442","Meat Slaughterings (000 Tonnes)","2001","Poultry meat",123
+"443","Meat Imports (000 Tonnes)","2001","Poultry meat",48
+"444","Supplies = Uses of Meat Products (000 Tonnes)","2001","Poultry meat",171
+"445","Meat Exports (000 Tonnes)","2001","Poultry meat",63
+"446","Variation in Meat Stocks (000 Tonnes)","2001","Poultry meat",0
+"447","Meat Products for Domestic Use (000 Tonnes)","2001","Poultry meat",108
+"448","Human Consumption of Meat Products (Kg per capita)","2001","Poultry meat",28.2
+"449","Meat Gross Indigenous Production (000 Tonnes)","2001","Poultry meat",121
+"450","Self Sufficiency in Meat Products (%)","2001","Poultry meat",112
+"451","Meat Slaughterings (000 Tonnes)","2002","Poultry meat",122
+"452","Meat Imports (000 Tonnes)","2002","Poultry meat",48
+"453","Supplies = Uses of Meat Products (000 Tonnes)","2002","Poultry meat",170
+"454","Meat Exports (000 Tonnes)","2002","Poultry meat",66
+"455","Variation in Meat Stocks (000 Tonnes)","2002","Poultry meat",-2
+"456","Meat Products for Domestic Use (000 Tonnes)","2002","Poultry meat",106
+"457","Human Consumption of Meat Products (Kg per capita)","2002","Poultry meat",27
+"458","Meat Gross Indigenous Production (000 Tonnes)","2002","Poultry meat",120
+"459","Self Sufficiency in Meat Products (%)","2002","Poultry meat",113
+"460","Meat Slaughterings (000 Tonnes)","2003","Poultry meat",123
+"461","Meat Imports (000 Tonnes)","2003","Poultry meat",58
+"462","Supplies = Uses of Meat Products (000 Tonnes)","2003","Poultry meat",181
+"463","Meat Exports (000 Tonnes)","2003","Poultry meat",69
+"464","Variation in Meat Stocks (000 Tonnes)","2003","Poultry meat",-1
+"465","Meat Products for Domestic Use (000 Tonnes)","2003","Poultry meat",113
+"466","Human Consumption of Meat Products (Kg per capita)","2003","Poultry meat",28.4
+"467","Meat Gross Indigenous Production (000 Tonnes)","2003","Poultry meat",121
+"468","Self Sufficiency in Meat Products (%)","2003","Poultry meat",107
+"469","Meat Slaughterings (000 Tonnes)","2004","Poultry meat",128
+"470","Meat Imports (000 Tonnes)","2004","Poultry meat",61
+"471","Supplies = Uses of Meat Products (000 Tonnes)","2004","Poultry meat",189
+"472","Meat Exports (000 Tonnes)","2004","Poultry meat",75
+"473","Variation in Meat Stocks (000 Tonnes)","2004","Poultry meat",0
+"474","Meat Products for Domestic Use (000 Tonnes)","2004","Poultry meat",115
+"475","Human Consumption of Meat Products (Kg per capita)","2004","Poultry meat",28.5
+"476","Meat Gross Indigenous Production (000 Tonnes)","2004","Poultry meat",126
+"477","Self Sufficiency in Meat Products (%)","2004","Poultry meat",109
+"478","Meat Slaughterings (000 Tonnes)","2005","Poultry meat",129
+"479","Meat Imports (000 Tonnes)","2005","Poultry meat",79
+"480","Supplies = Uses of Meat Products (000 Tonnes)","2005","Poultry meat",208
+"481","Meat Exports (000 Tonnes)","2005","Poultry meat",77
+"482","Variation in Meat Stocks (000 Tonnes)","2005","Poultry meat",-2
+"483","Meat Products for Domestic Use (000 Tonnes)","2005","Poultry meat",133
+"484","Human Consumption of Meat Products (Kg per capita)","2005","Poultry meat",32.1
+"485","Meat Gross Indigenous Production (000 Tonnes)","2005","Poultry meat",127
+"486","Self Sufficiency in Meat Products (%)","2005","Poultry meat",96
+"487","Meat Slaughterings (000 Tonnes)","2006","Poultry meat",123
+"488","Meat Imports (000 Tonnes)","2006","Poultry meat",77
+"489","Supplies = Uses of Meat Products (000 Tonnes)","2006","Poultry meat",201
+"490","Meat Exports (000 Tonnes)","2006","Poultry meat",75
+"491","Variation in Meat Stocks (000 Tonnes)","2006","Poultry meat",-2
+"492","Meat Products for Domestic Use (000 Tonnes)","2006","Poultry meat",128
+"493","Human Consumption of Meat Products (Kg per capita)","2006","Poultry meat",30.1
+"494","Meat Gross Indigenous Production (000 Tonnes)","2006","Poultry meat",121
+"495","Self Sufficiency in Meat Products (%)","2006","Poultry meat",95
+"496","Meat Slaughterings (000 Tonnes)","2007","Poultry meat",115
+"497","Meat Imports (000 Tonnes)","2007","Poultry meat",79
+"498","Supplies = Uses of Meat Products (000 Tonnes)","2007","Poultry meat",194
+"499","Meat Exports (000 Tonnes)","2007","Poultry meat",75
+"500","Variation in Meat Stocks (000 Tonnes)","2007","Poultry meat",0
+"501","Meat Products for Domestic Use (000 Tonnes)","2007","Poultry meat",119
+"502","Human Consumption of Meat Products (Kg per capita)","2007","Poultry meat",27.5
+"503","Meat Gross Indigenous Production (000 Tonnes)","2007","Poultry meat",113
+"504","Self Sufficiency in Meat Products (%)","2007","Poultry meat",94
+"505","Meat Slaughterings (000 Tonnes)","2008","Poultry meat",120
+"506","Meat Imports (000 Tonnes)","2008","Poultry meat",82
+"507","Supplies = Uses of Meat Products (000 Tonnes)","2008","Poultry meat",202
+"508","Meat Exports (000 Tonnes)","2008","Poultry meat",77
+"509","Variation in Meat Stocks (000 Tonnes)","2008","Poultry meat",-1
+"510","Meat Products for Domestic Use (000 Tonnes)","2008","Poultry meat",126
+"511","Human Consumption of Meat Products (Kg per capita)","2008","Poultry meat",28.5
+"512","Meat Gross Indigenous Production (000 Tonnes)","2008","Poultry meat",117
+"513","Self Sufficiency in Meat Products (%)","2008","Poultry meat",93
+"514","Meat Slaughterings (000 Tonnes)","2009","Poultry meat",115
+"515","Meat Imports (000 Tonnes)","2009","Poultry meat",80
+"516","Supplies = Uses of Meat Products (000 Tonnes)","2009","Poultry meat",194
+"517","Meat Exports (000 Tonnes)","2009","Poultry meat",81
+"518","Variation in Meat Stocks (000 Tonnes)","2009","Poultry meat",0
+"519","Meat Products for Domestic Use (000 Tonnes)","2009","Poultry meat",113
+"520","Human Consumption of Meat Products (Kg per capita)","2009","Poultry meat",25.4
+"521","Meat Gross Indigenous Production (000 Tonnes)","2009","Poultry meat",112
+"522","Self Sufficiency in Meat Products (%)","2009","Poultry meat",99
+"523","Meat Slaughterings (000 Tonnes)","2010","Poultry meat",126
+"524","Meat Imports (000 Tonnes)","2010","Poultry meat",85
+"525","Supplies = Uses of Meat Products (000 Tonnes)","2010","Poultry meat",211
+"526","Meat Exports (000 Tonnes)","2010","Poultry meat",93
+"527","Variation in Meat Stocks (000 Tonnes)","2010","Poultry meat",2
+"528","Meat Products for Domestic Use (000 Tonnes)","2010","Poultry meat",116
+"529","Human Consumption of Meat Products (Kg per capita)","2010","Poultry meat",25.9
+"530","Meat Gross Indigenous Production (000 Tonnes)","2010","Poultry meat",124
+"531","Self Sufficiency in Meat Products (%)","2010","Poultry meat",107
+"532","Meat Slaughterings (000 Tonnes)","2011","Poultry meat",131
+"533","Meat Imports (000 Tonnes)","2011","Poultry meat",91
+"534","Supplies = Uses of Meat Products (000 Tonnes)","2011","Poultry meat",222
+"535","Meat Exports (000 Tonnes)","2011","Poultry meat",108
+"536","Variation in Meat Stocks (000 Tonnes)","2011","Poultry meat",-1
+"537","Meat Products for Domestic Use (000 Tonnes)","2011","Poultry meat",115
+"538","Human Consumption of Meat Products (Kg per capita)","2011","Poultry meat",25.7
+"539","Meat Gross Indigenous Production (000 Tonnes)","2011","Poultry meat",128
+"540","Self Sufficiency in Meat Products (%)","2011","Poultry meat",111
+"541","Meat Slaughterings (000 Tonnes)","2000","Other meat",6
+"542","Meat Imports (000 Tonnes)","2000","Other meat",8
+"543","Supplies = Uses of Meat Products (000 Tonnes)","2000","Other meat",13
+"544","Meat Exports (000 Tonnes)","2000","Other meat",6
+"545","Variation in Meat Stocks (000 Tonnes)","2000","Other meat",0
+"546","Meat Products for Domestic Use (000 Tonnes)","2000","Other meat",8
+"547","Human Consumption of Meat Products (Kg per capita)","2000","Other meat",2
+"548","Meat Gross Indigenous Production (000 Tonnes)","2000","Other meat",6
+"549","Self Sufficiency in Meat Products (%)","2000","Other meat",72
+"550","Meat Slaughterings (000 Tonnes)","2001","Other meat",5
+"551","Meat Imports (000 Tonnes)","2001","Other meat",9
+"552","Supplies = Uses of Meat Products (000 Tonnes)","2001","Other meat",13
+"553","Meat Exports (000 Tonnes)","2001","Other meat",5
+"554","Variation in Meat Stocks (000 Tonnes)","2001","Other meat",0
+"555","Meat Products for Domestic Use (000 Tonnes)","2001","Other meat",9
+"556","Human Consumption of Meat Products (Kg per capita)","2001","Other meat",2.3
+"557","Meat Gross Indigenous Production (000 Tonnes)","2001","Other meat",5
+"558","Self Sufficiency in Meat Products (%)","2001","Other meat",52
+"559","Meat Slaughterings (000 Tonnes)","2002","Other meat",6
+"560","Meat Imports (000 Tonnes)","2002","Other meat",8
+"561","Supplies = Uses of Meat Products (000 Tonnes)","2002","Other meat",13
+"562","Meat Exports (000 Tonnes)","2002","Other meat",6
+"563","Variation in Meat Stocks (000 Tonnes)","2002","Other meat",0
+"564","Meat Products for Domestic Use (000 Tonnes)","2002","Other meat",8
+"565","Human Consumption of Meat Products (Kg per capita)","2002","Other meat",2
+"566","Meat Gross Indigenous Production (000 Tonnes)","2002","Other meat",6
+"567","Self Sufficiency in Meat Products (%)","2002","Other meat",76
+"568","Meat Slaughterings (000 Tonnes)","2003","Other meat",5
+"569","Meat Imports (000 Tonnes)","2003","Other meat",9
+"570","Supplies = Uses of Meat Products (000 Tonnes)","2003","Other meat",14
+"571","Meat Exports (000 Tonnes)","2003","Other meat",5
+"572","Variation in Meat Stocks (000 Tonnes)","2003","Other meat",0
+"573","Meat Products for Domestic Use (000 Tonnes)","2003","Other meat",9
+"574","Human Consumption of Meat Products (Kg per capita)","2003","Other meat",2.4
+"575","Meat Gross Indigenous Production (000 Tonnes)","2003","Other meat",5
+"576","Self Sufficiency in Meat Products (%)","2003","Other meat",49
+"577","Meat Slaughterings (000 Tonnes)","2004","Other meat",5
+"578","Meat Imports (000 Tonnes)","2004","Other meat",10
+"579","Supplies = Uses of Meat Products (000 Tonnes)","2004","Other meat",15
+"580","Meat Exports (000 Tonnes)","2004","Other meat",5
+"581","Variation in Meat Stocks (000 Tonnes)","2004","Other meat",0
+"582","Meat Products for Domestic Use (000 Tonnes)","2004","Other meat",10
+"583","Human Consumption of Meat Products (Kg per capita)","2004","Other meat",2.5
+"584","Meat Gross Indigenous Production (000 Tonnes)","2004","Other meat",5
+"585","Self Sufficiency in Meat Products (%)","2004","Other meat",46
+"586","Meat Slaughterings (000 Tonnes)","2005","Other meat",6
+"587","Meat Imports (000 Tonnes)","2005","Other meat",19
+"588","Supplies = Uses of Meat Products (000 Tonnes)","2005","Other meat",25
+"589","Meat Exports (000 Tonnes)","2005","Other meat",6
+"590","Variation in Meat Stocks (000 Tonnes)","2005","Other meat",0
+"591","Meat Products for Domestic Use (000 Tonnes)","2005","Other meat",19
+"592","Human Consumption of Meat Products (Kg per capita)","2005","Other meat",4.7
+"593","Meat Gross Indigenous Production (000 Tonnes)","2005","Other meat",6
+"594","Self Sufficiency in Meat Products (%)","2005","Other meat",31
+"595","Meat Slaughterings (000 Tonnes)","2006","Other meat",11
+"596","Meat Imports (000 Tonnes)","2006","Other meat",7
+"597","Supplies = Uses of Meat Products (000 Tonnes)","2006","Other meat",18
+"598","Meat Exports (000 Tonnes)","2006","Other meat",11
+"599","Variation in Meat Stocks (000 Tonnes)","2006","Other meat",0
+"600","Meat Products for Domestic Use (000 Tonnes)","2006","Other meat",7
+"601","Human Consumption of Meat Products (Kg per capita)","2006","Other meat",1.7
+"602","Meat Gross Indigenous Production (000 Tonnes)","2006","Other meat",13
+"603","Self Sufficiency in Meat Products (%)","2006","Other meat",185
+"604","Meat Slaughterings (000 Tonnes)","2007","Other meat",10
+"605","Meat Imports (000 Tonnes)","2007","Other meat",8
+"606","Supplies = Uses of Meat Products (000 Tonnes)","2007","Other meat",18
+"607","Meat Exports (000 Tonnes)","2007","Other meat",10
+"608","Variation in Meat Stocks (000 Tonnes)","2007","Other meat",0
+"609","Meat Products for Domestic Use (000 Tonnes)","2007","Other meat",8
+"610","Human Consumption of Meat Products (Kg per capita)","2007","Other meat",1.9
+"611","Meat Gross Indigenous Production (000 Tonnes)","2007","Other meat",12
+"612","Self Sufficiency in Meat Products (%)","2007","Other meat",137
+"613","Meat Slaughterings (000 Tonnes)","2008","Other meat",18
+"614","Meat Imports (000 Tonnes)","2008","Other meat",9
+"615","Supplies = Uses of Meat Products (000 Tonnes)","2008","Other meat",27
+"616","Meat Exports (000 Tonnes)","2008","Other meat",18
+"617","Variation in Meat Stocks (000 Tonnes)","2008","Other meat",0
+"618","Meat Products for Domestic Use (000 Tonnes)","2008","Other meat",9
+"619","Human Consumption of Meat Products (Kg per capita)","2008","Other meat",2
+"620","Meat Gross Indigenous Production (000 Tonnes)","2008","Other meat",19
+"621","Self Sufficiency in Meat Products (%)","2008","Other meat",223
+"622","Meat Slaughterings (000 Tonnes)","2009","Other meat",13
+"623","Meat Imports (000 Tonnes)","2009","Other meat",9
+"624","Supplies = Uses of Meat Products (000 Tonnes)","2009","Other meat",22
+"625","Meat Exports (000 Tonnes)","2009","Other meat",13
+"626","Variation in Meat Stocks (000 Tonnes)","2009","Other meat",0
+"627","Meat Products for Domestic Use (000 Tonnes)","2009","Other meat",9
+"628","Human Consumption of Meat Products (Kg per capita)","2009","Other meat",2
+"629","Meat Gross Indigenous Production (000 Tonnes)","2009","Other meat",15
+"630","Self Sufficiency in Meat Products (%)","2009","Other meat",169
+"631","Meat Slaughterings (000 Tonnes)","2010","Other meat",11
+"632","Meat Imports (000 Tonnes)","2010","Other meat",6
+"633","Supplies = Uses of Meat Products (000 Tonnes)","2010","Other meat",17
+"634","Meat Exports (000 Tonnes)","2010","Other meat",11
+"635","Variation in Meat Stocks (000 Tonnes)","2010","Other meat",0
+"636","Meat Products for Domestic Use (000 Tonnes)","2010","Other meat",6
+"637","Human Consumption of Meat Products (Kg per capita)","2010","Other meat",1.4
+"638","Meat Gross Indigenous Production (000 Tonnes)","2010","Other meat",14
+"639","Self Sufficiency in Meat Products (%)","2010","Other meat",225
+"640","Meat Slaughterings (000 Tonnes)","2011","Other meat",13
+"641","Meat Imports (000 Tonnes)","2011","Other meat",6
+"642","Supplies = Uses of Meat Products (000 Tonnes)","2011","Other meat",20
+"643","Meat Exports (000 Tonnes)","2011","Other meat",13
+"644","Variation in Meat Stocks (000 Tonnes)","2011","Other meat",0
+"645","Meat Products for Domestic Use (000 Tonnes)","2011","Other meat",6
+"646","Human Consumption of Meat Products (Kg per capita)","2011","Other meat",1.4
+"647","Meat Gross Indigenous Production (000 Tonnes)","2011","Other meat",15
+"648","Self Sufficiency in Meat Products (%)","2011","Other meat",239

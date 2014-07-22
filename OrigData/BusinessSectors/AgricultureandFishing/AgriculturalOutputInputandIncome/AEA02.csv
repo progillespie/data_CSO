@@ -1,0 +1,313 @@
+"","Year","Statistic","value"
+"1","1990","Livestock - Cattle (000 Head)",1888
+"2","1991","Livestock - Cattle (000 Head)",1894
+"3","1992","Livestock - Cattle (000 Head)",1977
+"4","1993","Livestock - Cattle (000 Head)",1997
+"5","1994","Livestock - Cattle (000 Head)",1908
+"6","1995","Livestock - Cattle (000 Head)",1983
+"7","1996","Livestock - Cattle (000 Head)",2051
+"8","1997","Livestock - Cattle (000 Head)",2058
+"9","1998","Livestock - Cattle (000 Head)",2157
+"10","1999","Livestock - Cattle (000 Head)",2132
+"11","2000","Livestock - Cattle (000 Head)",2061
+"12","2001","Livestock - Cattle (000 Head)",2072
+"13","2002","Livestock - Cattle (000 Head)",1830
+"14","2003","Livestock - Cattle (000 Head)",1956
+"15","2004","Livestock - Cattle (000 Head)",1911
+"16","2005","Livestock - Cattle (000 Head)",1845
+"17","2006","Livestock - Cattle (000 Head)",1823
+"18","2007","Livestock - Cattle (000 Head)",1877
+"19","2008","Livestock - Cattle (000 Head)",1866
+"20","2009","Livestock - Cattle (000 Head)",1783
+"21","2010","Livestock - Cattle (000 Head)",1741
+"22","2011","Livestock - Cattle (000 Head)",1861
+"23","2012","Livestock - Cattle (000 Head)",1969
+"24","2013","Livestock - Cattle (000 Head)",1799
+"25","1990","Livestock - Pigs (000 Head)",2533
+"26","1991","Livestock - Pigs (000 Head)",2645
+"27","1992","Livestock - Pigs (000 Head)",2822
+"28","1993","Livestock - Pigs (000 Head)",2975
+"29","1994","Livestock - Pigs (000 Head)",2994
+"30","1995","Livestock - Pigs (000 Head)",3020
+"31","1996","Livestock - Pigs (000 Head)",3255
+"32","1997","Livestock - Pigs (000 Head)",3478
+"33","1998","Livestock - Pigs (000 Head)",3645
+"34","1999","Livestock - Pigs (000 Head)",3510
+"35","2000","Livestock - Pigs (000 Head)",3280
+"36","2001","Livestock - Pigs (000 Head)",3366
+"37","2002","Livestock - Pigs (000 Head)",3381
+"38","2003","Livestock - Pigs (000 Head)",3215
+"39","2004","Livestock - Pigs (000 Head)",3177
+"40","2005","Livestock - Pigs (000 Head)",3016
+"41","2006","Livestock - Pigs (000 Head)",3038
+"42","2007","Livestock - Pigs (000 Head)",2918
+"43","2008","Livestock - Pigs (000 Head)",3100
+"44","2009","Livestock - Pigs (000 Head)",3027
+"45","2010","Livestock - Pigs (000 Head)",3395
+"46","2011","Livestock - Pigs (000 Head)",3693
+"47","2012","Livestock - Pigs (000 Head)",3608
+"48","2013","Livestock - Pigs (000 Head)",3571
+"49","1990","Livestock - Sheep (000 Head)",4096
+"50","1991","Livestock - Sheep (000 Head)",4344
+"51","1992","Livestock - Sheep (000 Head)",4600
+"52","1993","Livestock - Sheep (000 Head)",4778
+"53","1994","Livestock - Sheep (000 Head)",4397
+"54","1995","Livestock - Sheep (000 Head)",3906
+"55","1996","Livestock - Sheep (000 Head)",3968
+"56","1997","Livestock - Sheep (000 Head)",3786
+"57","1998","Livestock - Sheep (000 Head)",4042
+"58","1999","Livestock - Sheep (000 Head)",4018
+"59","2000","Livestock - Sheep (000 Head)",3614
+"60","2001","Livestock - Sheep (000 Head)",3457
+"61","2002","Livestock - Sheep (000 Head)",3089
+"62","2003","Livestock - Sheep (000 Head)",2944
+"63","2004","Livestock - Sheep (000 Head)",3022
+"64","2005","Livestock - Sheep (000 Head)",3137
+"65","2006","Livestock - Sheep (000 Head)",2960
+"66","2007","Livestock - Sheep (000 Head)",2811
+"67","2008","Livestock - Sheep (000 Head)",2590
+"68","2009","Livestock - Sheep (000 Head)",2236
+"69","2010","Livestock - Sheep (000 Head)",1983
+"70","2011","Livestock - Sheep (000 Head)",2174
+"71","2012","Livestock - Sheep (000 Head)",2466
+"72","2013","Livestock - Sheep (000 Head)",2393
+"73","1990","Livestock - Poultry (000 Head)",50917
+"74","1991","Livestock - Poultry (000 Head)",50210
+"75","1992","Livestock - Poultry (000 Head)",52991
+"76","1993","Livestock - Poultry (000 Head)",49861
+"77","1994","Livestock - Poultry (000 Head)",56692
+"78","1995","Livestock - Poultry (000 Head)",50982
+"79","1996","Livestock - Poultry (000 Head)",49387
+"80","1997","Livestock - Poultry (000 Head)",57600
+"81","1998","Livestock - Poultry (000 Head)",60367
+"82","1999","Livestock - Poultry (000 Head)",61592
+"83","2000","Livestock - Poultry (000 Head)",59462
+"84","2001","Livestock - Poultry (000 Head)",60845
+"85","2002","Livestock - Poultry (000 Head)",60141
+"86","2003","Livestock - Poultry (000 Head)",63319
+"87","2004","Livestock - Poultry (000 Head)",64417
+"88","2005","Livestock - Poultry (000 Head)",64768
+"89","2006","Livestock - Poultry (000 Head)",68262
+"90","2007","Livestock - Poultry (000 Head)",74667
+"91","2008","Livestock - Poultry (000 Head)",70960
+"92","2009","Livestock - Poultry (000 Head)",73059
+"93","2010","Livestock - Poultry (000 Head)",66031
+"94","2011","Livestock - Poultry (000 Head)",73608
+"95","2012","Livestock - Poultry (000 Head)",90880
+"96","2013","Livestock - Poultry (000 Head)",79131
+"97","1990","Livestock Products - Milk (Million Litres)",5179
+"98","1991","Livestock Products - Milk (Million Litres)",5123
+"99","1992","Livestock Products - Milk (Million Litres)",5167
+"100","1993","Livestock Products - Milk (Million Litres)",5109
+"101","1994","Livestock Products - Milk (Million Litres)",5176
+"102","1995","Livestock Products - Milk (Million Litres)",5187
+"103","1996","Livestock Products - Milk (Million Litres)",5194
+"104","1997","Livestock Products - Milk (Million Litres)",5151
+"105","1998","Livestock Products - Milk (Million Litres)",4990
+"106","1999","Livestock Products - Milk (Million Litres)",5018
+"107","2000","Livestock Products - Milk (Million Litres)",5048
+"108","2001","Livestock Products - Milk (Million Litres)",5210
+"109","2002","Livestock Products - Milk (Million Litres)",5063
+"110","2003","Livestock Products - Milk (Million Litres)",5186
+"111","2004","Livestock Products - Milk (Million Litres)",5142
+"112","2005","Livestock Products - Milk (Million Litres)",4939
+"113","2006","Livestock Products - Milk (Million Litres)",5097
+"114","2007","Livestock Products - Milk (Million Litres)",5097
+"115","2008","Livestock Products - Milk (Million Litres)",4963
+"116","2009","Livestock Products - Milk (Million Litres)",4804
+"117","2010","Livestock Products - Milk (Million Litres)",5182
+"118","2011","Livestock Products - Milk (Million Litres)",5395
+"119","2012","Livestock Products - Milk (Million Litres)",5242
+"120","2013","Livestock Products - Milk (Million Litres)",5438
+"121","1990","Livestock Products - Eggs (Million)",576
+"122","1991","Livestock Products - Eggs (Million)",655
+"123","1992","Livestock Products - Eggs (Million)",618
+"124","1993","Livestock Products - Eggs (Million)",619
+"125","1994","Livestock Products - Eggs (Million)",563
+"126","1995","Livestock Products - Eggs (Million)",572
+"127","1996","Livestock Products - Eggs (Million)",482
+"128","1997","Livestock Products - Eggs (Million)",477
+"129","1998","Livestock Products - Eggs (Million)",487
+"130","1999","Livestock Products - Eggs (Million)",456
+"131","2000","Livestock Products - Eggs (Million)",568
+"132","2001","Livestock Products - Eggs (Million)",579
+"133","2002","Livestock Products - Eggs (Million)",612
+"134","2003","Livestock Products - Eggs (Million)",588
+"135","2004","Livestock Products - Eggs (Million)",588
+"136","2005","Livestock Products - Eggs (Million)",665
+"137","2006","Livestock Products - Eggs (Million)",704
+"138","2007","Livestock Products - Eggs (Million)",634
+"139","2008","Livestock Products - Eggs (Million)",626
+"140","2009","Livestock Products - Eggs (Million)",634
+"141","2010","Livestock Products - Eggs (Million)",488
+"142","2011","Livestock Products - Eggs (Million)",629
+"143","2012","Livestock Products - Eggs (Million)",699
+"144","2013","Livestock Products - Eggs (Million)",636
+"145","1990","Crops - Barley (000 Tonnes)",863
+"146","1991","Crops - Barley (000 Tonnes)",853
+"147","1992","Crops - Barley (000 Tonnes)",967
+"148","1993","Crops - Barley (000 Tonnes)",727
+"149","1994","Crops - Barley (000 Tonnes)",648
+"150","1995","Crops - Barley (000 Tonnes)",777
+"151","1996","Crops - Barley (000 Tonnes)",990
+"152","1997","Crops - Barley (000 Tonnes)",940
+"153","1998","Crops - Barley (000 Tonnes)",817
+"154","1999","Crops - Barley (000 Tonnes)",976
+"155","2000","Crops - Barley (000 Tonnes)",1077
+"156","2001","Crops - Barley (000 Tonnes)",982
+"157","2002","Crops - Barley (000 Tonnes)",740
+"158","2003","Crops - Barley (000 Tonnes)",899
+"159","2004","Crops - Barley (000 Tonnes)",991
+"160","2005","Crops - Barley (000 Tonnes)",646
+"161","2006","Crops - Barley (000 Tonnes)",747
+"162","2007","Crops - Barley (000 Tonnes)",725
+"163","2008","Crops - Barley (000 Tonnes)",840
+"164","2009","Crops - Barley (000 Tonnes)",741
+"165","2010","Crops - Barley (000 Tonnes)",758
+"166","2011","Crops - Barley (000 Tonnes)",975
+"167","2012","Crops - Barley (000 Tonnes)",1012
+"168","2013","Crops - Barley (000 Tonnes)",1247
+"169","1990","Crops - Wheat (000 Tonnes)",536
+"170","1991","Crops - Wheat (000 Tonnes)",574
+"171","1992","Crops - Wheat (000 Tonnes)",663
+"172","1993","Crops - Wheat (000 Tonnes)",443
+"173","1994","Crops - Wheat (000 Tonnes)",394
+"174","1995","Crops - Wheat (000 Tonnes)",292
+"175","1996","Crops - Wheat (000 Tonnes)",553
+"176","1997","Crops - Wheat (000 Tonnes)",601
+"177","1998","Crops - Wheat (000 Tonnes)",488
+"178","1999","Crops - Wheat (000 Tonnes)",442
+"179","2000","Crops - Wheat (000 Tonnes)",608
+"180","2001","Crops - Wheat (000 Tonnes)",493
+"181","2002","Crops - Wheat (000 Tonnes)",630
+"182","2003","Crops - Wheat (000 Tonnes)",495
+"183","2004","Crops - Wheat (000 Tonnes)",688
+"184","2005","Crops - Wheat (000 Tonnes)",480
+"185","2006","Crops - Wheat (000 Tonnes)",508
+"186","2007","Crops - Wheat (000 Tonnes)",404
+"187","2008","Crops - Wheat (000 Tonnes)",557
+"188","2009","Crops - Wheat (000 Tonnes)",326
+"189","2010","Crops - Wheat (000 Tonnes)",365
+"190","2011","Crops - Wheat (000 Tonnes)",653
+"191","2012","Crops - Wheat (000 Tonnes)",460
+"192","2013","Crops - Wheat (000 Tonnes)",342
+"193","1990","Crops - Oats (000 Tonnes)",69
+"194","1991","Crops - Oats (000 Tonnes)",73
+"195","1992","Crops - Oats (000 Tonnes)",81
+"196","1993","Crops - Oats (000 Tonnes)",74
+"197","1994","Crops - Oats (000 Tonnes)",72
+"198","1995","Crops - Oats (000 Tonnes)",51
+"199","1996","Crops - Oats (000 Tonnes)",75
+"200","1997","Crops - Oats (000 Tonnes)",83
+"201","1998","Crops - Oats (000 Tonnes)",74
+"202","1999","Crops - Oats (000 Tonnes)",79
+"203","2000","Crops - Oats (000 Tonnes)",81
+"204","2001","Crops - Oats (000 Tonnes)",69
+"205","2002","Crops - Oats (000 Tonnes)",78
+"206","2003","Crops - Oats (000 Tonnes)",94
+"207","2004","Crops - Oats (000 Tonnes)",104
+"208","2005","Crops - Oats (000 Tonnes)",63
+"209","2006","Crops - Oats (000 Tonnes)",100
+"210","2007","Crops - Oats (000 Tonnes)",109
+"211","2008","Crops - Oats (000 Tonnes)",85
+"212","2009","Crops - Oats (000 Tonnes)",82
+"213","2010","Crops - Oats (000 Tonnes)",98
+"214","2011","Crops - Oats (000 Tonnes)",118
+"215","2012","Crops - Oats (000 Tonnes)",112
+"216","2013","Crops - Oats (000 Tonnes)",127
+"217","1990","Crops - Potatoes (000 Tonnes)",470
+"218","1991","Crops - Potatoes (000 Tonnes)",435
+"219","1992","Crops - Potatoes (000 Tonnes)",493
+"220","1993","Crops - Potatoes (000 Tonnes)",429
+"221","1994","Crops - Potatoes (000 Tonnes)",492
+"222","1995","Crops - Potatoes (000 Tonnes)",465
+"223","1996","Crops - Potatoes (000 Tonnes)",584
+"224","1997","Crops - Potatoes (000 Tonnes)",355
+"225","1998","Crops - Potatoes (000 Tonnes)",368
+"226","1999","Crops - Potatoes (000 Tonnes)",441
+"227","2000","Crops - Potatoes (000 Tonnes)",355
+"228","2001","Crops - Potatoes (000 Tonnes)",376
+"229","2002","Crops - Potatoes (000 Tonnes)",371
+"230","2003","Crops - Potatoes (000 Tonnes)",383
+"231","2004","Crops - Potatoes (000 Tonnes)",489
+"232","2005","Crops - Potatoes (000 Tonnes)",338
+"233","2006","Crops - Potatoes (000 Tonnes)",278
+"234","2007","Crops - Potatoes (000 Tonnes)",269
+"235","2008","Crops - Potatoes (000 Tonnes)",211
+"236","2009","Crops - Potatoes (000 Tonnes)",218
+"237","2010","Crops - Potatoes (000 Tonnes)",379
+"238","2011","Crops - Potatoes (000 Tonnes)",365
+"239","2012","Crops - Potatoes (000 Tonnes)",228
+"240","2013","Crops - Potatoes (000 Tonnes)",338
+"241","1990","Crops - Sugar Beet (000 Tonnes)",1484
+"242","1991","Crops - Sugar Beet (000 Tonnes)",1409
+"243","1992","Crops - Sugar Beet (000 Tonnes)",1397
+"244","1993","Crops - Sugar Beet (000 Tonnes)",1117
+"245","1994","Crops - Sugar Beet (000 Tonnes)",1390
+"246","1995","Crops - Sugar Beet (000 Tonnes)",1547
+"247","1996","Crops - Sugar Beet (000 Tonnes)",1476
+"248","1997","Crops - Sugar Beet (000 Tonnes)",1407
+"249","1998","Crops - Sugar Beet (000 Tonnes)",1399
+"250","1999","Crops - Sugar Beet (000 Tonnes)",1405
+"251","2000","Crops - Sugar Beet (000 Tonnes)",1418
+"252","2001","Crops - Sugar Beet (000 Tonnes)",1372
+"253","2002","Crops - Sugar Beet (000 Tonnes)",1296
+"254","2003","Crops - Sugar Beet (000 Tonnes)",1355
+"255","2004","Crops - Sugar Beet (000 Tonnes)",1359
+"256","2005","Crops - Sugar Beet (000 Tonnes)",1200
+"257","2006","Crops - Sugar Beet (000 Tonnes)",0
+"258","2007","Crops - Sugar Beet (000 Tonnes)",0
+"259","2008","Crops - Sugar Beet (000 Tonnes)",0
+"260","2009","Crops - Sugar Beet (000 Tonnes)",0
+"261","2010","Crops - Sugar Beet (000 Tonnes)",0
+"262","2011","Crops - Sugar Beet (000 Tonnes)",0
+"263","2012","Crops - Sugar Beet (000 Tonnes)",0
+"264","2013","Crops - Sugar Beet (000 Tonnes)",0
+"265","1990","Crops - Mushrooms (000 Tonnes)",37
+"266","1991","Crops - Mushrooms (000 Tonnes)",39
+"267","1992","Crops - Mushrooms (000 Tonnes)",41
+"268","1993","Crops - Mushrooms (000 Tonnes)",45
+"269","1994","Crops - Mushrooms (000 Tonnes)",49
+"270","1995","Crops - Mushrooms (000 Tonnes)",49
+"271","1996","Crops - Mushrooms (000 Tonnes)",54
+"272","1997","Crops - Mushrooms (000 Tonnes)",57
+"273","1998","Crops - Mushrooms (000 Tonnes)",62
+"274","1999","Crops - Mushrooms (000 Tonnes)",65
+"275","2000","Crops - Mushrooms (000 Tonnes)",60
+"276","2001","Crops - Mushrooms (000 Tonnes)",68
+"277","2002","Crops - Mushrooms (000 Tonnes)",69
+"278","2003","Crops - Mushrooms (000 Tonnes)",69
+"279","2004","Crops - Mushrooms (000 Tonnes)",65
+"280","2005","Crops - Mushrooms (000 Tonnes)",62
+"281","2006","Crops - Mushrooms (000 Tonnes)",56
+"282","2007","Crops - Mushrooms (000 Tonnes)",53
+"283","2008","Crops - Mushrooms (000 Tonnes)",55
+"284","2009","Crops - Mushrooms (000 Tonnes)",55
+"285","2010","Crops - Mushrooms (000 Tonnes)",54
+"286","2011","Crops - Mushrooms (000 Tonnes)",58
+"287","2012","Crops - Mushrooms (000 Tonnes)",64
+"288","2013","Crops - Mushrooms (000 Tonnes)",68
+"289","1990","Crops - Turf (000 Tonnes)",972
+"290","1991","Crops - Turf (000 Tonnes)",985
+"291","1992","Crops - Turf (000 Tonnes)",937
+"292","1993","Crops - Turf (000 Tonnes)",814
+"293","1994","Crops - Turf (000 Tonnes)",625
+"294","1995","Crops - Turf (000 Tonnes)",631
+"295","1996","Crops - Turf (000 Tonnes)",619
+"296","1997","Crops - Turf (000 Tonnes)",573
+"297","1998","Crops - Turf (000 Tonnes)",450
+"298","1999","Crops - Turf (000 Tonnes)",492
+"299","2000","Crops - Turf (000 Tonnes)",460
+"300","2001","Crops - Turf (000 Tonnes)",501
+"301","2002","Crops - Turf (000 Tonnes)",416
+"302","2003","Crops - Turf (000 Tonnes)",457
+"303","2004","Crops - Turf (000 Tonnes)",447
+"304","2005","Crops - Turf (000 Tonnes)",436
+"305","2006","Crops - Turf (000 Tonnes)",454
+"306","2007","Crops - Turf (000 Tonnes)",416
+"307","2008","Crops - Turf (000 Tonnes)",421
+"308","2009","Crops - Turf (000 Tonnes)",441
+"309","2010","Crops - Turf (000 Tonnes)",456
+"310","2011","Crops - Turf (000 Tonnes)",467
+"311","2012","Crops - Turf (000 Tonnes)",408
+"312","2013","Crops - Turf (000 Tonnes)",453
